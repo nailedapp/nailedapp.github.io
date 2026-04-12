@@ -1,0 +1,72 @@
+{{ define "head" }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "{{ .Title }}",
+        "description": "{{ .Description }}",
+        "author": {
+            "@type": "Organization",
+            "name": "Nailed",
+            "url": "https://nailedapp.io"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Nailed",
+            "url": "https://nailedapp.io"
+        },
+        "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+        "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+        "mainEntityOfPage": "{{ .Permalink }}"
+    }
+    </script>
+
+    {{ with .Params.faq }}
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {{ range $i, $item := . }}{{ if $i }},{{ end }}
+            {
+                "@type": "Question",
+                "name": "{{ $item.q }}",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{ $item.a }}"
+                }
+            }
+            {{ end }}
+        ]
+    }
+    </script>
+    {{ end }}
+{{ end }}
+
+{{ define "main" }}
+    <article class="blog-post">
+        <div class="container">
+            <header class="blog-post-header">
+                <h1>{{ .Title }}</h1>
+                <div class="blog-post-meta">
+                    <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+                    <span>·</span>
+                    <span>{{ .ReadingTime }} min read</span>
+                </div>
+            </header>
+
+            <div class="blog-post-content">
+                {{ .Content }}
+            </div>
+
+            <footer class="blog-post-footer">
+                <div class="blog-post-cta">
+                    <h2>Ready to break the habit?</h2>
+                    <p>Nailed is a macOS menu bar app that detects nail-biting using on-device AI and alerts you in real time. {{ .Site.Params.price }}, one-time purchase, 100% private.</p>
+                    <a href="{{ .Site.Params.appStoreURL }}" class="btn btn-primary btn-large">Download on the App Store</a>
+                </div>
+                <a href="/blog/" class="link">← Back to all articles</a>
+            </footer>
+        </div>
+    </article>
+{{ end }}
