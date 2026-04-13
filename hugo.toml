@@ -3,6 +3,9 @@ languageCode = "en-gb"
 title = "Nailed — Stop Biting Your Nails | Mac App with AI Detection"
 enableRobotsTXT = true
 
+[pagination]
+  pagerSize = 20
+
 [params]
   description = "A macOS menu bar app that uses on-device machine learning to detect nail-biting and alert you in real time. Private, offline, works instantly."
   appStoreURL = "https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224"
