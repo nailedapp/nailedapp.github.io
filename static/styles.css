@@ -24,7 +24,9 @@
 }
 
 /* Reset & Base */
-*, *::before, *::after {
+*,
+*::before,
+*::after {
     box-sizing: border-box;
 }
 
@@ -42,15 +44,25 @@ body {
     background: var(--color-bg);
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     margin: 0 0 var(--spacing-sm);
     line-height: 1.2;
     font-weight: 600;
 }
 
-h1 { font-size: clamp(2.5rem, 5vw, 3.5rem); }
-h2 { font-size: clamp(1.75rem, 3vw, 2.25rem); }
-h3 { font-size: 1.125rem; }
+h1 {
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+}
+
+h2 {
+    font-size: clamp(1.75rem, 3vw, 2.25rem);
+}
+
+h3 {
+    font-size: 1.125rem;
+}
 
 p {
     margin: 0;

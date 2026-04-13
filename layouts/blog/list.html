@@ -1,31 +1,34 @@
 {{ define "main" }}
-    <div class="blog-index">
-        <div class="container">
-            <h1>Blog</h1>
-            <p class="blog-intro">Practical advice on breaking the nail-biting habit, backed by research and real experience.</p>
-            <div class="blog-list">
-                {{ range .Paginator.Pages }}
-                <article class="blog-card">
-                    <a href="{{ .Permalink }}">
-                        <h2>{{ .Title }}</h2>
-                        <p>{{ .Description }}</p>
-                        <span class="blog-meta">{{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} min read</span>
-                    </a>
-                </article>
-                {{ end }}
-            </div>
-            {{ $pag := .Paginator }}
-            {{ if gt $pag.TotalPages 1 }}
-            <nav class="pagination" aria-label="Blog pagination">
-                {{ if $pag.HasPrev }}
-                <a href="{{ $pag.Prev.URL }}" class="pagination-link pagination-prev" aria-label="Previous page">&larr; Newer</a>
-                {{ end }}
-                <span class="pagination-info">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
-                {{ if $pag.HasNext }}
-                <a href="{{ $pag.Next.URL }}" class="pagination-link pagination-next" aria-label="Next page">Older &rarr;</a>
-                {{ end }}
-            </nav>
+<div class="blog-index">
+    <div class="container">
+        <h1>Blog</h1>
+        <p class="blog-intro">Practical advice on breaking the nail-biting habit, backed by research and real
+            experience.</p>
+        <div class="blog-list">
+            {{ range .Paginator.Pages }}
+            <article class="blog-card">
+                <a href="{{ .Permalink }}">
+                    <h2>{{ .Title }}</h2>
+                    <p>{{ .Description }}</p>
+                    <span class="blog-meta">{{ .Date.Format "2 January 2006" }} · {{ .ReadingTime }} min read</span>
+                </a>
+            </article>
             {{ end }}
         </div>
+        {{ $pag := .Paginator }}
+        {{ if gt $pag.TotalPages 1 }}
+        <nav class="pagination" aria-label="Blog pagination">
+            {{ if $pag.HasPrev }}
+            <a href="{{ $pag.Prev.URL }}" class="pagination-link pagination-prev" aria-label="Previous page">&larr;
+                Newer</a>
+            {{ end }}
+            <span class="pagination-info">Page {{ $pag.PageNumber }} of {{ $pag.TotalPages }}</span>
+            {{ if $pag.HasNext }}
+            <a href="{{ $pag.Next.URL }}" class="pagination-link pagination-next" aria-label="Next page">Older
+                &rarr;</a>
+            {{ end }}
+        </nav>
+        {{ end }}
     </div>
+</div>
 {{ end }}
