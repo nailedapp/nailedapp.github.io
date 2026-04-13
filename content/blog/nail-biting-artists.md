@@ -106,13 +106,13 @@ Perfectionism is the engine that drives nail biting in many creatives. Quieting 
 
 ### Use the Right Hand Protection for Your Medium
 
-| Medium | Protection Strategy |
-|--------|-------------------|
-| Oil paint / solvents | Nitrile gloves, barrier cream |
-| Clay / ceramics | Moisturize before and after, nail hardener base coat |
-| Fiber / textiles | File nails smooth, cuticle oil |
-| Wood / carving | Work gloves during rough stages, tape fingertips |
-| Digital / stylus | Ergonomic grip sleeve, finger cots on non-stylus hand |
+| Medium               | Protection Strategy                                   |
+| -------------------- | ----------------------------------------------------- |
+| Oil paint / solvents | Nitrile gloves, barrier cream                         |
+| Clay / ceramics      | Moisturize before and after, nail hardener base coat  |
+| Fiber / textiles     | File nails smooth, cuticle oil                        |
+| Wood / carving       | Work gloves during rough stages, tape fingertips      |
+| Digital / stylus     | Ergonomic grip sleeve, finger cots on non-stylus hand |
 
 ## When Your Hands Need Professional Intervention
 

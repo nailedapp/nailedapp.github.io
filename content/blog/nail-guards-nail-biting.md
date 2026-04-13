@@ -129,15 +129,15 @@ Physical barriers work for nail biting — at least while they're in place. Nail
 
 Match the guard to your specific situation:
 
-| Your Situation | Best Option |
-|---|---|
-| Need all-day wear with typing | Thin silicone caps or hard plastic nail guards |
-| Bite mainly during evenings/TV | Silicone protectors or fabric sleeves |
-| Have sensitive or damaged nail beds | Fabric sleeves with gel lining |
-| Need the cheapest immediate option | Rubber finger cots |
-| Primarily bite thumbs | Adult thumb guard |
-| Want maximum discretion | Clear silicone or hard plastic nail guards |
-| Work in wet/messy environments | Silicone protectors (waterproof) |
+| Your Situation                      | Best Option                                    |
+| ----------------------------------- | ---------------------------------------------- |
+| Need all-day wear with typing       | Thin silicone caps or hard plastic nail guards |
+| Bite mainly during evenings/TV      | Silicone protectors or fabric sleeves          |
+| Have sensitive or damaged nail beds | Fabric sleeves with gel lining                 |
+| Need the cheapest immediate option  | Rubber finger cots                             |
+| Primarily bite thumbs               | Adult thumb guard                              |
+| Want maximum discretion             | Clear silicone or hard plastic nail guards     |
+| Work in wet/messy environments      | Silicone protectors (waterproof)               |
 
 ## How to Find the Right Size
 

@@ -144,9 +144,9 @@ If you want maximum detail, label each nail (thumb through pinky, left and right
 A simple spreadsheet:
 
 | Week | L Thumb | L Index | L Middle | L Ring | L Pinky | R Thumb | R Index | R Middle | R Ring | R Pinky |
-|---|---|---|---|---|---|---|---|---|---|---|
-| 1 | 0mm | 0mm | 0.5mm | 0mm | 1mm | 0mm | 0mm | 0mm | 0.5mm | 0.5mm |
-| 2 | 0.5mm | 0.5mm | 1mm | 0.5mm | 1.5mm | 0.5mm | 0mm | 0.5mm | 1mm | 1mm |
+| ---- | ------- | ------- | -------- | ------ | ------- | ------- | ------- | -------- | ------ | ------- |
+| 1    | 0mm     | 0mm     | 0.5mm    | 0mm    | 1mm     | 0mm     | 0mm     | 0mm      | 0.5mm  | 0.5mm   |
+| 2    | 0.5mm   | 0.5mm   | 1mm      | 0.5mm  | 1.5mm   | 0.5mm   | 0mm     | 0.5mm    | 1mm    | 1mm     |
 
 ## What to Do With Your Progress Photos
 

@@ -63,13 +63,13 @@ Many nail biters report a pleasurable or gratifying quality to the behavior — 
 
 ## Key differences between nail biting and OCD
 
-| Feature | OCD | Nail Biting (BFRB) |
-|---|---|---|
-| **Primary driver** | Intrusive thoughts | Sensory urges, emotions |
-| **Motivation** | Prevent feared outcome | Self-soothing, stimulation |
-| **Awareness** | Usually aware | Often automatic/unaware |
-| **Experience** | Distressing | Can be satisfying |
-| **Trigger** | Specific obsessions | Boredom, stress, inactivity |
+| Feature             | OCD                         | Nail Biting (BFRB)          |
+| ------------------- | --------------------------- | --------------------------- |
+| **Primary driver**  | Intrusive thoughts          | Sensory urges, emotions     |
+| **Motivation**      | Prevent feared outcome      | Self-soothing, stimulation  |
+| **Awareness**       | Usually aware               | Often automatic/unaware     |
+| **Experience**      | Distressing                 | Can be satisfying           |
+| **Trigger**         | Specific obsessions         | Boredom, stress, inactivity |
 | **Thought pattern** | "I must do this or else..." | "I want to / can't help it" |
 
 ## Where they overlap

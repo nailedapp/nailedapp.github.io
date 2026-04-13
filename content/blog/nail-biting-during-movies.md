@@ -129,15 +129,15 @@ If you're watching TV with breaks, use each commercial or episode transition for
 
 Not all content triggers equally:
 
-| Genre | Risk Level | Why |
-|---|---|---|
-| Horror/Thriller | Very High | Sustained fear, anticipatory anxiety, physical tension |
-| Drama (intense) | High | Emotional engagement, empathy-driven stress |
-| Action | Medium-High | Excitement arousal, tension during sequences |
-| Romance | Medium | Emotional investment, anticipatory tension |
-| Comedy | Low-Medium | Arousal through laughter, less stress-driven |
-| Documentary | Medium | Content-dependent (true crime = high, nature = low) |
-| Lighthearted series | Low | Low emotional intensity, familiar comfort |
+| Genre               | Risk Level  | Why                                                    |
+| ------------------- | ----------- | ------------------------------------------------------ |
+| Horror/Thriller     | Very High   | Sustained fear, anticipatory anxiety, physical tension |
+| Drama (intense)     | High        | Emotional engagement, empathy-driven stress            |
+| Action              | Medium-High | Excitement arousal, tension during sequences           |
+| Romance             | Medium      | Emotional investment, anticipatory tension             |
+| Comedy              | Low-Medium  | Arousal through laughter, less stress-driven           |
+| Documentary         | Medium      | Content-dependent (true crime = high, nature = low)    |
+| Lighthearted series | Low         | Low emotional intensity, familiar comfort              |
 
 Knowing your high-risk genres lets you prepare accordingly. A lighthearted sitcom needs minimal prep. A horror movie marathon needs the full toolkit.
 

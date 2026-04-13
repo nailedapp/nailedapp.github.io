@@ -96,14 +96,14 @@ This classification reflects the understanding that BFRBs share neurological fea
 
 The distinction matters for treatment:
 
-| Feature | OCD | BFRBs |
-|---|---|---|
-| **Primary driver** | Intrusive thoughts (obsessions) | Sensory urges, emotional states |
-| **Purpose of behavior** | Reduce anxiety from obsession | Regulate emotions, satisfy urge |
-| **Thought patterns** | "If I don't do X, something bad will happen" | "I need to pull/pick/bite — it feels right" |
-| **Awareness during behavior** | Usually aware of compulsion | Often automatic/trance-like |
-| **Response to SSRIs** | Generally responsive | Variable, less reliable |
-| **Response to HRT** | Moderate | Strong |
+| Feature                       | OCD                                          | BFRBs                                       |
+| ----------------------------- | -------------------------------------------- | ------------------------------------------- |
+| **Primary driver**            | Intrusive thoughts (obsessions)              | Sensory urges, emotional states             |
+| **Purpose of behavior**       | Reduce anxiety from obsession                | Regulate emotions, satisfy urge             |
+| **Thought patterns**          | "If I don't do X, something bad will happen" | "I need to pull/pick/bite — it feels right" |
+| **Awareness during behavior** | Usually aware of compulsion                  | Often automatic/trance-like                 |
+| **Response to SSRIs**         | Generally responsive                         | Variable, less reliable                     |
+| **Response to HRT**           | Moderate                                     | Strong                                      |
 
 Some people have both OCD and BFRBs. When they co-occur, both need to be addressed, often with different strategies.
 

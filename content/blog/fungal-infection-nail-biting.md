@@ -110,15 +110,15 @@ A less common variant where fungi colonize the surface of the nail plate rather 
 
 Not every nail abnormality is fungal. Nail biting itself causes changes that mimic fungal infection:
 
-| Feature | Nail Biting Damage | Fungal Infection |
-|---------|-------------------|------------------|
-| Nail thickening | Usually not | Yes, progressive |
-| Yellow/brown color | Usually not | Yes |
-| Debris under nail | Minimal | Significant |
-| Nail crumbling | At edges only | Throughout nail |
-| Nail fold swelling | Acute, intermittent | Chronic, persistent |
-| Affects multiple nails | All bitten nails | Usually starts in one |
-| Responds to stopping biting | Improves | Doesn't improve |
+| Feature                     | Nail Biting Damage  | Fungal Infection      |
+| --------------------------- | ------------------- | --------------------- |
+| Nail thickening             | Usually not         | Yes, progressive      |
+| Yellow/brown color          | Usually not         | Yes                   |
+| Debris under nail           | Minimal             | Significant           |
+| Nail crumbling              | At edges only       | Throughout nail       |
+| Nail fold swelling          | Acute, intermittent | Chronic, persistent   |
+| Affects multiple nails      | All bitten nails    | Usually starts in one |
+| Responds to stopping biting | Improves            | Doesn't improve       |
 
 A definitive diagnosis requires a nail clipping sent for fungal culture or microscopy. This takes 2–4 weeks but confirms the specific organism and guides treatment.
 

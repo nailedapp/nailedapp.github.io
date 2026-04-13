@@ -112,12 +112,12 @@ Take 15 minutes to audit your desk habits. Use this framework:
 
 Example:
 
-| Habit | Trigger | Function | Cost | Priority |
-|-------|---------|----------|------|----------|
-| Nail biting | Stuck on hard task | Stress relief | Damaged nails, infections | 5 |
-| Phone scrolling | Boredom | Stimulation | Lost time, attention fragmentation | 4 |
-| Snacking | 3 PM energy dip | Energy/comfort | Weight gain, sugar crashes | 3 |
-| Slouching | Long focus sessions | Comfort/fatigue | Back pain, headaches | 3 |
+| Habit           | Trigger             | Function        | Cost                               | Priority |
+| --------------- | ------------------- | --------------- | ---------------------------------- | -------- |
+| Nail biting     | Stuck on hard task  | Stress relief   | Damaged nails, infections          | 5        |
+| Phone scrolling | Boredom             | Stimulation     | Lost time, attention fragmentation | 4        |
+| Snacking        | 3 PM energy dip     | Energy/comfort  | Weight gain, sugar crashes         | 3        |
+| Slouching       | Long focus sessions | Comfort/fatigue | Back pain, headaches               | 3        |
 
 Start with the highest priority. Work on one habit for 6-8 weeks before adding another.
 

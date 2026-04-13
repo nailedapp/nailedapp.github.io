@@ -87,16 +87,16 @@ Online therapy platforms can connect you with therapists who specialize in BFRBs
 
 ## Comparing the Approaches
 
-| Feature | BFRB Buddy | Nailed | Keen2 |
-|---|---|---|---|
-| Behaviors covered | Multiple BFRBs | Nail biting only | Multiple (trainable) |
-| Approach | Tracking + journaling | Real-time detection | Wearable detection |
-| Detection | Manual (self-report) | Automatic (camera ML) | Automatic (motion) |
-| Real-time interruption | No | Yes (flash + beep) | Yes (vibration) |
-| Platform | Mobile | macOS | Wearable + mobile |
-| Trigger analysis | Yes (journaling) | No | Limited |
-| Privacy | Varies | Fully on-device | Device + app |
-| Price | Varies | $4.99 once | $149+ |
+| Feature                | BFRB Buddy            | Nailed                | Keen2                |
+| ---------------------- | --------------------- | --------------------- | -------------------- |
+| Behaviors covered      | Multiple BFRBs        | Nail biting only      | Multiple (trainable) |
+| Approach               | Tracking + journaling | Real-time detection   | Wearable detection   |
+| Detection              | Manual (self-report)  | Automatic (camera ML) | Automatic (motion)   |
+| Real-time interruption | No                    | Yes (flash + beep)    | Yes (vibration)      |
+| Platform               | Mobile                | macOS                 | Wearable + mobile    |
+| Trigger analysis       | Yes (journaling)      | No                    | Limited              |
+| Privacy                | Varies                | Fully on-device       | Device + app         |
+| Price                  | Varies                | $4.99 once            | $149+                |
 
 ## Specialist vs Generalist: A Framework
 

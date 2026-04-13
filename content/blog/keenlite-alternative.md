@@ -71,12 +71,12 @@ For many people, the most nail biting happens at their desk while working or bro
 
 ## Cost Comparison
 
-| | KeenLite | Keen2 | Nailed |
-|---|---|---|---|
-| Upfront cost | ~$99+ | ~$149-$199 | $4.99 |
-| Subscription | Optional app features | Optional app features | None |
-| Hardware needed | Included bracelet | Included bracelet | Mac with camera |
-| Replacement cost | Full repurchase | Full repurchase | None |
+|                  | KeenLite              | Keen2                 | Nailed          |
+| ---------------- | --------------------- | --------------------- | --------------- |
+| Upfront cost     | ~$99+                 | ~$149-$199            | $4.99           |
+| Subscription     | Optional app features | Optional app features | None            |
+| Hardware needed  | Included bracelet     | Included bracelet     | Mac with camera |
+| Replacement cost | Full repurchase       | Full repurchase       | None            |
 
 The price gap is substantial. A Keen bracelet costs 30-40x more than Nailed. That's justified if you need all-day coverage and the wristband approach works for you. It's not justified if your biting primarily happens at your computer.
 

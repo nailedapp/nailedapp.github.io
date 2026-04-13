@@ -116,13 +116,13 @@ Tell your nail tech that you're a nail biter. Many have experience working with 
 
 How does gel compare to other popular physical deterrents?
 
-| Method | Cost | Duration | Accessibility | Addresses Habit? |
-|---|---|---|---|---|
-| Gel manicure | $35–60/visit | 2–3 weeks | Requires salon | No |
-| Bitter nail polish | $5–10/bottle | 1–2 days per application | Drugstore | No |
-| Press-on nails | $8–20/set | 1–2 weeks | Drugstore | No |
-| Bandages on fingers | $3–5/box | Hours | Drugstore | No |
-| Gloves | $5–20 | While wearing | Anywhere | No |
+| Method              | Cost         | Duration                 | Accessibility  | Addresses Habit? |
+| ------------------- | ------------ | ------------------------ | -------------- | ---------------- |
+| Gel manicure        | $35–60/visit | 2–3 weeks                | Requires salon | No               |
+| Bitter nail polish  | $5–10/bottle | 1–2 days per application | Drugstore      | No               |
+| Press-on nails      | $8–20/set    | 1–2 weeks                | Drugstore      | No               |
+| Bandages on fingers | $3–5/box     | Hours                    | Drugstore      | No               |
+| Gloves              | $5–20        | While wearing            | Anywhere       | No               |
 
 None of these physical barriers address the underlying habit. All work only while in place. Gel is the most durable and aesthetically pleasing option but also the most expensive and potentially damaging to nail health over time.
 

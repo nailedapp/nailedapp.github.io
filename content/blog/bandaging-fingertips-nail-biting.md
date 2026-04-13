@@ -135,13 +135,13 @@ Once you've used bandaging to identify your patterns and practice competing resp
 
 Not all bandaging is equally practical:
 
-| Material | Durability | Comfort | Visibility | Cost |
-|---|---|---|---|---|
-| Standard adhesive bandages | Low (fall off easily) | Moderate | High | Low |
-| Fabric fingertip bandages | Moderate | Good | High | Low |
-| Cohesive wrap (self-stick) | Good | Good | Moderate (comes in skin tones) | Low |
-| Silicone fingertip covers | High | High | Low (clear options) | Moderate |
-| Medical finger cots | Moderate | Moderate | Moderate | Low |
+| Material                   | Durability            | Comfort  | Visibility                     | Cost     |
+| -------------------------- | --------------------- | -------- | ------------------------------ | -------- |
+| Standard adhesive bandages | Low (fall off easily) | Moderate | High                           | Low      |
+| Fabric fingertip bandages  | Moderate              | Good     | High                           | Low      |
+| Cohesive wrap (self-stick) | Good                  | Good     | Moderate (comes in skin tones) | Low      |
+| Silicone fingertip covers  | High                  | High     | Low (clear options)            | Moderate |
+| Medical finger cots        | Moderate              | Moderate | Moderate                       | Low      |
 
 Silicone fingertip covers are the most discreet and durable option. They look like translucent caps, allow some touchscreen use, and can be washed and reused. They cost more ($10–$15 for a pack) but last much longer than disposable options.
 

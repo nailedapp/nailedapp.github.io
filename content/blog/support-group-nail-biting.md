@@ -184,14 +184,14 @@ Some community members are genuinely recommending products that helped them. Oth
 
 Not all communities serve the same function. Consider building a portfolio:
 
-| Need | Best Option |
-|---|---|
-| Quick advice and diverse perspectives | Reddit (r/calmhands) |
-| Structured support with facilitation | TLC Foundation groups |
-| Real-time conversation | Discord servers |
-| Visual progress sharing | Reddit or Instagram (with a private account) |
-| Deep accountability | One-on-one accountability partner from any community |
-| Professional guidance + community | TLC conference or workshops |
+| Need                                  | Best Option                                          |
+| ------------------------------------- | ---------------------------------------------------- |
+| Quick advice and diverse perspectives | Reddit (r/calmhands)                                 |
+| Structured support with facilitation  | TLC Foundation groups                                |
+| Real-time conversation                | Discord servers                                      |
+| Visual progress sharing               | Reddit or Instagram (with a private account)         |
+| Deep accountability                   | One-on-one accountability partner from any community |
+| Professional guidance + community     | TLC conference or workshops                          |
 
 ## Starting Today
 

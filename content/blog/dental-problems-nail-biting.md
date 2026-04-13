@@ -112,15 +112,15 @@ Root resorption from nail biting is more commonly seen in people who also have o
 
 Dental damage from nail biting is expensive to fix. Here's what typical repairs cost in the United States:
 
-| Repair | Estimated Cost |
-|--------|---------------|
-| Composite bonding (per tooth) | $200–$600 |
-| Porcelain veneer (per tooth) | $900–$2,500 |
-| Dental crown (per tooth) | $800–$1,500 |
-| Root canal + crown | $1,500–$3,000 |
-| Orthodontic treatment | $3,000–$8,000 |
-| TMJ night guard | $300–$800 |
-| Gum graft surgery (per site) | $600–$1,200 |
+| Repair                        | Estimated Cost |
+| ----------------------------- | -------------- |
+| Composite bonding (per tooth) | $200–$600      |
+| Porcelain veneer (per tooth)  | $900–$2,500    |
+| Dental crown (per tooth)      | $800–$1,500    |
+| Root canal + crown            | $1,500–$3,000  |
+| Orthodontic treatment         | $3,000–$8,000  |
+| TMJ night guard               | $300–$800      |
+| Gum graft surgery (per site)  | $600–$1,200    |
 
 Most nail biters don't need all of these. But it's common for chronic nail biters to need at least bonding or crowns on multiple front teeth by their 30s or 40s.
 

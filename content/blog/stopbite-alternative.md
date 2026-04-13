@@ -87,15 +87,15 @@ Any habit tracker can monitor "no nail biting" days. Some gamify the experience 
 
 ## Feature Comparison
 
-| Feature | StopBite | Nailed | Keen2 | Bitter Polish |
-|---|---|---|---|---|
-| Detection | Manual logging | Automatic (camera) | Automatic (motion) | Automatic (taste) |
-| Platform | Mobile | macOS | Wearable | Physical |
-| Real-time alerts | No (scheduled) | Yes (flash + beep) | Yes (vibration) | Yes (taste) |
-| Requires logging | Yes | No | No | No |
-| Privacy | App-dependent | Fully on-device | App + device | N/A |
-| Ongoing cost | Varies | $4.99 once | $149+ device | $5-10 per bottle |
-| All-day coverage | Yes (if you log) | At desk only | Yes | Yes |
+| Feature          | StopBite         | Nailed             | Keen2              | Bitter Polish     |
+| ---------------- | ---------------- | ------------------ | ------------------ | ----------------- |
+| Detection        | Manual logging   | Automatic (camera) | Automatic (motion) | Automatic (taste) |
+| Platform         | Mobile           | macOS              | Wearable           | Physical          |
+| Real-time alerts | No (scheduled)   | Yes (flash + beep) | Yes (vibration)    | Yes (taste)       |
+| Requires logging | Yes              | No                 | No                 | No                |
+| Privacy          | App-dependent    | Fully on-device    | App + device       | N/A               |
+| Ongoing cost     | Varies           | $4.99 once         | $149+ device       | $5-10 per bottle  |
+| All-day coverage | Yes (if you log) | At desk only       | Yes                | Yes               |
 
 ## Building a Stack That Works
 

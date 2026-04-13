@@ -126,12 +126,12 @@ That's the wave. Once you've surfed it three or four times, the pattern becomes 
 
 ## Urge Surfing vs. Other Approaches
 
-| Approach | Mechanism | Limitation |
-|----------|-----------|------------|
-| Willpower | Suppress the urge through force of will | Exhausting, depletes over time |
-| Distraction | Redirect attention away from the urge | Urge may return when distraction ends |
-| Competing response | Replace biting with another physical action | Requires conscious awareness to initiate |
-| Urge surfing | Observe the urge without acting until it passes naturally | Requires initial discomfort tolerance |
+| Approach           | Mechanism                                                 | Limitation                               |
+| ------------------ | --------------------------------------------------------- | ---------------------------------------- |
+| Willpower          | Suppress the urge through force of will                   | Exhausting, depletes over time           |
+| Distraction        | Redirect attention away from the urge                     | Urge may return when distraction ends    |
+| Competing response | Replace biting with another physical action               | Requires conscious awareness to initiate |
+| Urge surfing       | Observe the urge without acting until it passes naturally | Requires initial discomfort tolerance    |
 
 These approaches aren't mutually exclusive. Urge surfing works best in combination with awareness training (catching urges earlier) and competing responses (having something to do with your hands while you surf). The surf provides the fundamental insight — urges pass — while other techniques provide practical tools for daily situations.
 

@@ -128,14 +128,14 @@ The type of biting you do often shifts based on context. You might be purely aut
 
 Map your high-risk situations to the type of biting they trigger:
 
-| Situation | Likely Type | Best Strategy |
-|-----------|-------------|---------------|
-| Watching TV | Automatic | Physical barrier + hands busy |
-| Working at computer | Automatic | Awareness alerts + competing response |
-| Noticed rough nail edge | Focused | Nail file in pocket + delay |
-| Anxious waiting | Both | Fidget tool + urge surfing |
-| Bored in meeting | Automatic | Pen in hand + stimulus control |
-| Post-manicure imperfection | Focused | Nail care kit + cognitive reframe |
+| Situation                  | Likely Type | Best Strategy                         |
+| -------------------------- | ----------- | ------------------------------------- |
+| Watching TV                | Automatic   | Physical barrier + hands busy         |
+| Working at computer        | Automatic   | Awareness alerts + competing response |
+| Noticed rough nail edge    | Focused     | Nail file in pocket + delay           |
+| Anxious waiting            | Both        | Fidget tool + urge surfing            |
+| Bored in meeting           | Automatic   | Pen in hand + stimulus control        |
+| Post-manicure imperfection | Focused     | Nail care kit + cognitive reframe     |
 
 This context-specific approach is more effective than applying one blanket strategy across all situations.
 

@@ -77,14 +77,14 @@ The replacement behavior should be:
 
 Good replacements by situation:
 
-| Trigger Situation | Replacement Response |
-|---|---|
-| Working at desk | Pick up fidget cube or stress ball |
-| Watching TV | Hold a smooth stone or fidget ring |
-| In a meeting | Hold a pen, press fingertips together |
-| Driving | Grip textured steering wheel cover |
-| Reading | Hold the book/phone with both hands |
-| Rough nail edge | Use a nail file from your pocket/desk |
+| Trigger Situation | Replacement Response                  |
+| ----------------- | ------------------------------------- |
+| Working at desk   | Pick up fidget cube or stress ball    |
+| Watching TV       | Hold a smooth stone or fidget ring    |
+| In a meeting      | Hold a pen, press fingertips together |
+| Driving           | Grip textured steering wheel cover    |
+| Reading           | Hold the book/phone with both hands   |
+| Rough nail edge   | Use a nail file from your pocket/desk |
 
 ### Step 3: Write the if-then plans
 

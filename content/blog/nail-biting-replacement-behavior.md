@@ -136,12 +136,12 @@ The best competing response varies by person and context. Here's a decision fram
 
 Pay attention to when you bite most. The pattern reveals the function:
 
-| If you bite most during... | Primary function likely is... | Try these replacements... |
-|---|---|---|
-| Stressful moments, difficult emails, deadlines | Tension relief | Fist clenching, stress ball, activity switching |
-| Passive activities (watching video, reading, scrolling) | Understimulation / regulation | Fidget tools, textured objects, gum |
-| Focused work (coding, writing, studying) | Concentration / automatic routine | Flat press, object gripping, cuticle oil |
-| Emotional upset, arguments, frustration | Emotional regulation | Hand clasping, deep breaths + flat press, walking |
+| If you bite most during...                              | Primary function likely is...     | Try these replacements...                         |
+| ------------------------------------------------------- | --------------------------------- | ------------------------------------------------- |
+| Stressful moments, difficult emails, deadlines          | Tension relief                    | Fist clenching, stress ball, activity switching   |
+| Passive activities (watching video, reading, scrolling) | Understimulation / regulation     | Fidget tools, textured objects, gum               |
+| Focused work (coding, writing, studying)                | Concentration / automatic routine | Flat press, object gripping, cuticle oil          |
+| Emotional upset, arguments, frustration                 | Emotional regulation              | Hand clasping, deep breaths + flat press, walking |
 
 ### Match to Your Context
 

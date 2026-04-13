@@ -76,16 +76,16 @@ HabitAware's Keen2 is a smart bracelet designed specifically for BFRBs. It uses 
 
 ### Comparing Detection Approaches
 
-| Factor | Camera-Based (Nailed) | Wearable (HabitAware) |
-|---|---|---|
-| BFRBs covered | Nail biting | Multiple (trainable) |
-| Detection method | Visual landmark recognition | Motion pattern matching |
-| Context coverage | At computer only | Anywhere |
+| Factor              | Camera-Based (Nailed)       | Wearable (HabitAware)             |
+| ------------------- | --------------------------- | --------------------------------- |
+| BFRBs covered       | Nail biting                 | Multiple (trainable)              |
+| Detection method    | Visual landmark recognition | Motion pattern matching           |
+| Context coverage    | At computer only            | Anywhere                          |
 | False positive rate | Lower (sees actual gesture) | Higher (infers from wrist motion) |
-| Hardware required | None (uses existing camera) | Bracelet purchase |
-| Operating cost | $4.99 one-time | ~$149 one-time |
-| Social visibility | None | Low (bracelet) |
-| Battery/charging | N/A | Required |
+| Hardware required   | None (uses existing camera) | Bracelet purchase                 |
+| Operating cost      | $4.99 one-time              | ~$149 one-time                    |
+| Social visibility   | None                        | Low (bracelet)                    |
+| Battery/charging    | N/A                         | Required                          |
 
 ## BFRB Tracking and Logging Apps
 

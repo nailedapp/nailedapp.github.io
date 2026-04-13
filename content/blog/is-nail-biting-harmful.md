@@ -108,11 +108,11 @@ The psychological impact is real and valid. If nail biting is affecting your con
 
 Not all nail biting is equal. There's a spectrum:
 
-| Severity | What it looks like | Health risk |
-|---|---|---|
-| **Mild/occasional** | Nibbling edges when stressed, no visible damage | Minimal — mainly cosmetic and hygiene |
-| **Moderate** | Regular biting, nails consistently short, some skin damage | Moderate — dental wear, infection risk, social impact |
-| **Severe/chronic** | Biting to the quick, bleeding, compulsive urge, skin damage | Significant — cumulative dental, dermatological, and psychological effects |
+| Severity            | What it looks like                                          | Health risk                                                                |
+| ------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------- |
+| **Mild/occasional** | Nibbling edges when stressed, no visible damage             | Minimal — mainly cosmetic and hygiene                                      |
+| **Moderate**        | Regular biting, nails consistently short, some skin damage  | Moderate — dental wear, infection risk, social impact                      |
+| **Severe/chronic**  | Biting to the quick, bleeding, compulsive urge, skin damage | Significant — cumulative dental, dermatological, and psychological effects |
 
 The research doesn't suggest you should panic about occasional nail nibbling. But it does show that chronic, persistent biting carries cumulative risks that are worth taking seriously — and worth addressing.
 

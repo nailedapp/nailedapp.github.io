@@ -66,15 +66,15 @@ The Keen2 bracelet detects hand-to-face movements using motion sensors. It vibra
 
 ## NailKeeper vs Nailed: Side-by-Side
 
-| Feature | NailKeeper | Nailed |
-|---|---|---|
-| Platform | iOS | macOS |
-| Approach | Photo tracking | Real-time detection |
-| Detection method | Manual photos | Camera + ML |
-| Alerts | None (passive tracking) | Screen flash + beep |
-| Privacy | Photos stored on device | All processing on-device |
-| Price | Free / In-app purchases | $4.99 one-time |
-| Best for | Tracking nail recovery | Catching biting in real time |
+| Feature          | NailKeeper              | Nailed                       |
+| ---------------- | ----------------------- | ---------------------------- |
+| Platform         | iOS                     | macOS                        |
+| Approach         | Photo tracking          | Real-time detection          |
+| Detection method | Manual photos           | Camera + ML                  |
+| Alerts           | None (passive tracking) | Screen flash + beep          |
+| Privacy          | Photos stored on device | All processing on-device     |
+| Price            | Free / In-app purchases | $4.99 one-time               |
+| Best for         | Tracking nail recovery  | Catching biting in real time |
 
 ## Which Approach Is Right for You?
 

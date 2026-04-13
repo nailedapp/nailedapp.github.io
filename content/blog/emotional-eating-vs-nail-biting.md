@@ -41,14 +41,14 @@ This shared blueprint exists because both behaviors are serving the same functio
 
 The triggers for emotional eating and nail biting are remarkably similar:
 
-| Trigger | Emotional Eating | Nail Biting |
-|---|---|---|
-| Stress | Comfort food craving | Repetitive biting for tension release |
-| Boredom | Snacking for stimulation | Biting for something to do |
-| Anxiety | Eating to soothe | Biting to self-regulate |
-| Concentration | Mindless munching while working | Mindless biting while focused |
-| Loneliness | Eating as emotional companionship | Biting as self-soothing |
-| Tiredness | Sugar/carb craving for energy | Increased impulsivity, reduced control |
+| Trigger       | Emotional Eating                  | Nail Biting                            |
+| ------------- | --------------------------------- | -------------------------------------- |
+| Stress        | Comfort food craving              | Repetitive biting for tension release  |
+| Boredom       | Snacking for stimulation          | Biting for something to do             |
+| Anxiety       | Eating to soothe                  | Biting to self-regulate                |
+| Concentration | Mindless munching while working   | Mindless biting while focused          |
+| Loneliness    | Eating as emotional companionship | Biting as self-soothing                |
+| Tiredness     | Sugar/carb craving for energy     | Increased impulsivity, reduced control |
 
 The emotional states that drive both behaviors are identical. The body just has different available responses, and which one it reaches for may depend on context, environment, and individual wiring.
 

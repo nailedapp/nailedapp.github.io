@@ -117,13 +117,13 @@ The most useful thing you can do is track where you bite for one week. Not why. 
 
 A simple format works:
 
-| Time | Location | Activity | Biting? |
-|------|----------|----------|---------|
-| 9:15 | Desk | Reading email | Yes |
-| 10:30 | Kitchen | Making coffee | No |
-| 11:00 | Desk | Video call | No |
-| 14:00 | Desk | Reading docs | Yes |
-| 19:00 | Couch | Watching TV | Yes |
+| Time  | Location | Activity      | Biting? |
+| ----- | -------- | ------------- | ------- |
+| 9:15  | Desk     | Reading email | Yes     |
+| 10:30 | Kitchen  | Making coffee | No      |
+| 11:00 | Desk     | Video call    | No      |
+| 14:00 | Desk     | Reading docs  | Yes     |
+| 19:00 | Couch    | Watching TV   | Yes     |
 
 After seven days, the environmental pattern becomes obvious. You'll see that the behavior isn't random — it's concentrated in specific physical contexts. Those contexts are where you focus your environmental modifications.
 

@@ -145,14 +145,14 @@ These are some of the easiest triggers to address because the intervention is en
 
 The whole point of trigger journaling is building targeted interventions. Here's the translation:
 
-| Trigger Type | Example | Intervention |
-|---|---|---|
-| Anxiety | Work presentation | Deep breathing before, fidget during |
-| Frustration | Stuck on a problem | 5-minute break when frustration peaks |
-| Boredom | Waiting room | Phone game, book, fidget toy |
-| Physical | Hangnail | Clipper and file always accessible |
-| Cognitive load | Studying | Bitter polish + fidget pre-study |
-| Habit stack | TV + biting | Hold pillow, fold laundry, squish putty |
+| Trigger Type   | Example            | Intervention                            |
+| -------------- | ------------------ | --------------------------------------- |
+| Anxiety        | Work presentation  | Deep breathing before, fidget during    |
+| Frustration    | Stuck on a problem | 5-minute break when frustration peaks   |
+| Boredom        | Waiting room       | Phone game, book, fidget toy            |
+| Physical       | Hangnail           | Clipper and file always accessible      |
+| Cognitive load | Studying           | Bitter polish + fidget pre-study        |
+| Habit stack    | TV + biting        | Hold pillow, fold laundry, squish putty |
 
 Each trigger gets its own response. This is the precision that general advice ("just stop biting") completely lacks.
 

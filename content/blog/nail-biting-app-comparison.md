@@ -117,18 +117,18 @@ Several apps in iOS/Android app stores offer manual biting episode tracking:
 
 ## Feature Comparison Table
 
-| Feature | Nailed | HabitAware Keen2 | Tracking Apps | Photo Apps |
-|---|---|---|---|---|
-| Real-time detection | Yes (camera) | Yes (motion) | No | No |
-| Works at computer | Yes | Yes | Yes (manual) | Yes (manual) |
-| Works away from computer | No | Yes | Yes (manual) | Yes (manual) |
-| Passive (no user action) | Yes | Yes | No | No |
-| Platform | macOS | iOS/Android + bracelet | iOS/Android | iOS/Android |
-| One-time price | $4.99 | ~$149 | Free-$60/yr | Free-$36/yr |
-| Privacy | No data collection | Device-local + app data | Varies | Varies |
-| Covers multiple BFRBs | Nail biting focus | Yes (trainable) | If designed for BFRBs | No |
-| Trigger pattern analysis | No | Via companion app | Yes | No |
-| Requires hardware | No (uses Mac camera) | Yes (bracelet) | No | No |
+| Feature                  | Nailed               | HabitAware Keen2        | Tracking Apps         | Photo Apps   |
+| ------------------------ | -------------------- | ----------------------- | --------------------- | ------------ |
+| Real-time detection      | Yes (camera)         | Yes (motion)            | No                    | No           |
+| Works at computer        | Yes                  | Yes                     | Yes (manual)          | Yes (manual) |
+| Works away from computer | No                   | Yes                     | Yes (manual)          | Yes (manual) |
+| Passive (no user action) | Yes                  | Yes                     | No                    | No           |
+| Platform                 | macOS                | iOS/Android + bracelet  | iOS/Android           | iOS/Android  |
+| One-time price           | $4.99                | ~$149                   | Free-$60/yr           | Free-$36/yr  |
+| Privacy                  | No data collection   | Device-local + app data | Varies                | Varies       |
+| Covers multiple BFRBs    | Nail biting focus    | Yes (trainable)         | If designed for BFRBs | No           |
+| Trigger pattern analysis | No                   | Via companion app       | Yes                   | No           |
+| Requires hardware        | No (uses Mac camera) | Yes (bracelet)          | No                    | No           |
 
 ## Which Approach Is Right for You?
 

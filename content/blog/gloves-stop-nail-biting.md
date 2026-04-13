@@ -98,13 +98,13 @@ During the first 1–2 weeks of actively trying to break the habit, the urges ar
 
 ## Choosing the Right Gloves
 
-| Type | Comfort | Dexterity | Breathability | Cost | Best Use |
-|---|---|---|---|---|---|
-| Thin cotton (white) | High | Moderate | High | $3–$8/pair | Sleeping, home use |
-| Touchscreen knit | Moderate | Good | Moderate | $8–$15/pair | Light daily use, phone accessible |
-| Nitrile (disposable) | Low | Good | None | $10–$15/box | Short-duration protection |
-| Moisturizing gel-lined | High | Low | Low | $10–$20/pair | Overnight with moisturizer |
-| Fingerless | High | Excellent | High | $5–$10/pair | Don't work — nails are exposed |
+| Type                   | Comfort  | Dexterity | Breathability | Cost         | Best Use                          |
+| ---------------------- | -------- | --------- | ------------- | ------------ | --------------------------------- |
+| Thin cotton (white)    | High     | Moderate  | High          | $3–$8/pair   | Sleeping, home use                |
+| Touchscreen knit       | Moderate | Good      | Moderate      | $8–$15/pair  | Light daily use, phone accessible |
+| Nitrile (disposable)   | Low      | Good      | None          | $10–$15/box  | Short-duration protection         |
+| Moisturizing gel-lined | High     | Low       | Low           | $10–$20/pair | Overnight with moisturizer        |
+| Fingerless             | High     | Excellent | High          | $5–$10/pair  | Don't work — nails are exposed    |
 
 Important: fingerless gloves do NOT work for nail biting. They leave the nails completely accessible. If you see this suggested, ignore it.
 

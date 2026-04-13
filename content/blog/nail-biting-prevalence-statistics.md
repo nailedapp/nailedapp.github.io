@@ -73,13 +73,13 @@ If there is a gender difference, it's small enough that study methodology matter
 
 Nail biting has been documented in every population studied:
 
-| Region | Reported Range | Notes |
-|---|---|---|
-| North America/Europe | 20–30% (adults), 25–45% (adolescents) | Most-studied regions |
-| Middle East/South Asia | 25–36% (children and adolescents) | Several large school-based studies |
-| East Asia | 15–25% (limited data) | Cultural nail care emphasis may influence reporting |
-| Sub-Saharan Africa | 20–40% (children, limited data) | Consistent with global averages |
-| Latin America | 25–35% (children) | Limited data beyond Brazil and Mexico |
+| Region                 | Reported Range                        | Notes                                               |
+| ---------------------- | ------------------------------------- | --------------------------------------------------- |
+| North America/Europe   | 20–30% (adults), 25–45% (adolescents) | Most-studied regions                                |
+| Middle East/South Asia | 25–36% (children and adolescents)     | Several large school-based studies                  |
+| East Asia              | 15–25% (limited data)                 | Cultural nail care emphasis may influence reporting |
+| Sub-Saharan Africa     | 20–40% (children, limited data)       | Consistent with global averages                     |
+| Latin America          | 25–35% (children)                     | Limited data beyond Brazil and Mexico               |
 
 When studies use comparable methodologies, cross-cultural differences narrow considerably. Nail biting appears to be a genuinely universal human behavior.
 
@@ -87,12 +87,12 @@ When studies use comparable methodologies, cross-cultural differences narrow con
 
 Nail biting doesn't exist in isolation:
 
-| Population | Nail Biting Rate | General Rate |
-|---|---|---|
-| People with ADHD | 35–50% | 20–30% |
-| People with anxiety disorders | 30–45% | 20–30% |
-| People with other BFRBs | 40–60% | 20–30% |
-| People with OCD | 25–35% | 20–30% |
+| Population                    | Nail Biting Rate | General Rate |
+| ----------------------------- | ---------------- | ------------ |
+| People with ADHD              | 35–50%           | 20–30%       |
+| People with anxiety disorders | 30–45%           | 20–30%       |
+| People with other BFRBs       | 40–60%           | 20–30%       |
+| People with OCD               | 25–35%           | 20–30%       |
 
 The elevated ADHD and anxiety rates are clinically significant — they suggest shared underlying mechanisms involving dopaminergic and serotonergic pathways.
 

@@ -106,12 +106,12 @@ The response needs to be something you can do without drawing attention — beca
 
 Specific distorted thoughts about nails respond to cognitive restructuring:
 
-| Distorted Thought | More Realistic Alternative |
-|---|---|
-| "Everyone will see my nails and think I'm disgusting" | "Most people don't look at others' nails closely. Those who notice probably won't care." |
-| "Short nails mean I have no self-control" | "Nail biting is an extremely common behavior. It says nothing about my character." |
-| "I can't shake hands or people will judge me" | "People focus on the handshake itself, not a detailed inspection of fingernails." |
-| "I need to hide my hands at all times" | "Hiding increases my anxiety. Leaving my hands visible is uncomfortable but not dangerous." |
+| Distorted Thought                                     | More Realistic Alternative                                                                  |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| "Everyone will see my nails and think I'm disgusting" | "Most people don't look at others' nails closely. Those who notice probably won't care."    |
+| "Short nails mean I have no self-control"             | "Nail biting is an extremely common behavior. It says nothing about my character."          |
+| "I can't shake hands or people will judge me"         | "People focus on the handshake itself, not a detailed inspection of fingernails."           |
+| "I need to hide my hands at all times"                | "Hiding increases my anxiety. Leaving my hands visible is uncomfortable but not dangerous." |
 
 ## Managing High-Risk Situations
 

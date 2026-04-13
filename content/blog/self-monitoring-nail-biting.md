@@ -84,9 +84,9 @@ The simplest approach. A small notebook or a folded index card in your pocket. E
 ```
 Date: ___________
 
-Time | Location | Activity | Feeling | E/U/I | Notes
------|----------|----------|---------|-------|------
-     |          |          |         |       |
+| Time | Location | Activity | Feeling | E/U/I | Notes |
+| ---- | -------- | -------- | ------- | ----- | ----- |
+|      |          |          |         |
 ```
 
 ### Method 2: Tally Counter

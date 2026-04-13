@@ -69,11 +69,11 @@ Recording the circumstances surrounding a behavior. When did it happen? Where? W
 
 Example context log for nail biting:
 
-| Time | Location | Activity | Emotion | Trigger |
-|------|----------|----------|---------|---------|
-| 10:30 AM | Desk | Reading email | Frustrated | Passive-aggressive message from coworker |
-| 1:15 PM | Meeting room | Video call | Bored | Long, irrelevant meeting |
-| 3:45 PM | Desk | Coding | Stressed | Stuck on a bug |
+| Time     | Location     | Activity      | Emotion    | Trigger                                  |
+| -------- | ------------ | ------------- | ---------- | ---------------------------------------- |
+| 10:30 AM | Desk         | Reading email | Frustrated | Passive-aggressive message from coworker |
+| 1:15 PM  | Meeting room | Video call    | Bored      | Long, irrelevant meeting                 |
+| 3:45 PM  | Desk         | Coding        | Stressed   | Stuck on a bug                           |
 
 After a week, patterns emerge. Maybe 80% of your nail biting happens at your desk during specific emotional states. That's actionable data.
 

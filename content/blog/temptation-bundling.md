@@ -107,13 +107,13 @@ For nail biting, this typically includes:
 
 Match temptations with behaviors, then set rules:
 
-| Desired Behavior | Bundled Temptation | Rule |
-|---|---|---|
-| Nightly nail care | Favorite podcast | Only listen during hand care |
-| Using fidget tools | Social media | Only scroll with fidget in hand |
-| Daily check-in | Morning coffee | Review triggers during first cup |
-| Watching trigger shows | Hands occupied | Show only plays when hands are on fidget tools |
-| Weekly nail progress photos | Favorite treat | Treat accompanies photo session |
+| Desired Behavior            | Bundled Temptation | Rule                                           |
+| --------------------------- | ------------------ | ---------------------------------------------- |
+| Nightly nail care           | Favorite podcast   | Only listen during hand care                   |
+| Using fidget tools          | Social media       | Only scroll with fidget in hand                |
+| Daily check-in              | Morning coffee     | Review triggers during first cup               |
+| Watching trigger shows      | Hands occupied     | Show only plays when hands are on fidget tools |
+| Weekly nail progress photos | Favorite treat     | Treat accompanies photo session                |
 
 ### Step 4: Make it physically easy
 

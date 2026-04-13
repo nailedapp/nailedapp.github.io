@@ -87,15 +87,15 @@ Mavala Stop, Ella+Mila No More Biting, and similar products coat your nails with
 
 ## Hands Off vs Nailed: Direct Comparison
 
-| Feature | Hands Off | Nailed |
-|---|---|---|
-| Approach | Reminders + self-reporting | Automatic ML detection |
-| Detection | Manual (you report) | Automatic (camera-based) |
-| Alerts | Scheduled reminders | Real-time flash + beep |
-| Platform | Mobile | macOS |
+| Feature           | Hands Off                        | Nailed                   |
+| ----------------- | -------------------------------- | ------------------------ |
+| Approach          | Reminders + self-reporting       | Automatic ML detection   |
+| Detection         | Manual (you report)              | Automatic (camera-based) |
+| Alerts            | Scheduled reminders              | Real-time flash + beep   |
+| Platform          | Mobile                           | macOS                    |
 | Behaviors covered | Face-touching, nail biting, more | Nail biting specifically |
-| Data collection | Varies | None (fully on-device) |
-| Price model | Varies | $4.99 one-time |
+| Data collection   | Varies                           | None (fully on-device)   |
+| Price model       | Varies                           | $4.99 one-time           |
 
 ## Matching the Tool to the Problem
 

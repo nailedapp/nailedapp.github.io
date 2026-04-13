@@ -71,13 +71,13 @@ The competing response must be:
 
 **Effective competing responses for nail biting:**
 
-| Response | How to do it | When it works best |
-|---|---|---|
-| Fist clenching | Clench both fists firmly, hold for 60 seconds | At a desk, in meetings, anywhere |
-| Flat press | Press palms flat on desk or thighs, hold firmly | Seated at a desk or table |
-| Object grip | Grip a pen, stress ball, or phone tightly | When an object is available |
-| Hand clasping | Interlace fingers and squeeze, hold in lap | Meetings, public settings |
-| Arm crossing | Cross arms firmly with hands tucked under | Standing, walking, casual settings |
+| Response       | How to do it                                    | When it works best                 |
+| -------------- | ----------------------------------------------- | ---------------------------------- |
+| Fist clenching | Clench both fists firmly, hold for 60 seconds   | At a desk, in meetings, anywhere   |
+| Flat press     | Press palms flat on desk or thighs, hold firmly | Seated at a desk or table          |
+| Object grip    | Grip a pen, stress ball, or phone tightly       | When an object is available        |
+| Hand clasping  | Interlace fingers and squeeze, hold in lap      | Meetings, public settings          |
+| Arm crossing   | Cross arms firmly with hands tucked under       | Standing, walking, casual settings |
 
 The specific choice matters less than consistency. Pick one, practice it deliberately (not just during urges — rehearse it many times per day), and use it every time you notice an urge or catch yourself biting.
 

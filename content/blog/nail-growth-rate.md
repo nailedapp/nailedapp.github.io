@@ -54,12 +54,12 @@ Interestingly, nail growth rates have increased over the past century. A 1930s s
 Not all fingers are created equal. Data from multiple studies shows a consistent pattern:
 
 | Finger | Relative Growth Rate |
-|--------|---------------------|
-| Middle | Fastest |
-| Index | Second fastest |
-| Ring | Third |
-| Thumb | Fourth |
-| Pinky | Slowest |
+| ------ | -------------------- |
+| Middle | Fastest              |
+| Index  | Second fastest       |
+| Ring   | Third                |
+| Thumb  | Fourth               |
+| Pinky  | Slowest              |
 
 The middle finger's nail grows 10-15% faster than the pinky's. The pattern correlates with finger length (longer fingers = faster growth), which likely relates to blood supply volume.
 

@@ -105,16 +105,16 @@ Developers build for iOS first. The Mac App Store has far fewer nail biting or B
 
 ## Head-to-Head Comparison
 
-| Capability | iOS | macOS |
-|---|---|---|
-| Real-time detection | Limited (positioning issues) | Strong (sustained camera view) |
-| Habit tracking | Excellent (always with you) | Weak (fewer apps, less portable) |
-| Reminders | Excellent (push notifications) | Basic |
-| Photo tracking | Excellent (camera quality) | Poor |
-| Continuous monitoring | Limited (battery, OS restrictions) | Strong (power + processing) |
-| Portability | Everywhere | Desk only |
-| Available apps | Many (tracking/logging) | Few (Nailed for detection) |
-| ML processing | Constrained | Unconstrained |
+| Capability            | iOS                                | macOS                            |
+| --------------------- | ---------------------------------- | -------------------------------- |
+| Real-time detection   | Limited (positioning issues)       | Strong (sustained camera view)   |
+| Habit tracking        | Excellent (always with you)        | Weak (fewer apps, less portable) |
+| Reminders             | Excellent (push notifications)     | Basic                            |
+| Photo tracking        | Excellent (camera quality)         | Poor                             |
+| Continuous monitoring | Limited (battery, OS restrictions) | Strong (power + processing)      |
+| Portability           | Everywhere                         | Desk only                        |
+| Available apps        | Many (tracking/logging)            | Few (Nailed for detection)       |
+| ML processing         | Constrained                        | Unconstrained                    |
 
 ## When Each Platform Makes Sense
 

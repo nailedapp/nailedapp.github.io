@@ -114,13 +114,13 @@ After a week, patterns emerge. Maybe 60% of your biting happens at your desk dur
 
 For each trigger, choose a replacement behavior that serves the same psychological function:
 
-| Trigger | Function | Replacement |
-|---|---|---|
-| Stress | Physical release | Squeeze a stress ball, press palms together hard for 5 seconds |
-| Boredom | Stimulation | Fidget tool, textured object, chewing gum |
-| Concentration | Body-based focus | Pen spinning, foot tapping, rubber band on wrist |
-| Physical trigger | Perfection-seeking | Nail file, cuticle oil, moisturizer |
-| Emotional | Self-soothing | Deep breaths, hand massage, warm drink |
+| Trigger          | Function           | Replacement                                                    |
+| ---------------- | ------------------ | -------------------------------------------------------------- |
+| Stress           | Physical release   | Squeeze a stress ball, press palms together hard for 5 seconds |
+| Boredom          | Stimulation        | Fidget tool, textured object, chewing gum                      |
+| Concentration    | Body-based focus   | Pen spinning, foot tapping, rubber band on wrist               |
+| Physical trigger | Perfection-seeking | Nail file, cuticle oil, moisturizer                            |
+| Emotional        | Self-soothing      | Deep breaths, hand massage, warm drink                         |
 
 The replacement doesn't need to be permanent or elegant. It needs to be available and satisfying enough to compete with the biting urge in the moment.
 

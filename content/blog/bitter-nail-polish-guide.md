@@ -93,11 +93,11 @@ It's a form of aversive stimulus — the same principle used in other habit-brea
 
 ### Quick Comparison
 
-| Product | Bitterness | Duration | Price | Best for |
-|---|---|---|---|---|
-| Mavala Stop | High | 2-3 days | $15-$18 | Reliable all-around choice |
-| Orly No Bite | Very high | 3-5 days | $8-$12 | Maximum deterrent |
-| Ella+Mila | Moderate-high | 2-3 days | $10-$12 | Sensitive users, clean formula |
+| Product      | Bitterness    | Duration | Price   | Best for                       |
+| ------------ | ------------- | -------- | ------- | ------------------------------ |
+| Mavala Stop  | High          | 2-3 days | $15-$18 | Reliable all-around choice     |
+| Orly No Bite | Very high     | 3-5 days | $8-$12  | Maximum deterrent              |
+| Ella+Mila    | Moderate-high | 2-3 days | $10-$12 | Sensitive users, clean formula |
 
 ## Application Tips for Maximum Effectiveness
 

@@ -53,13 +53,13 @@ By the end of week two, you'll see clear patterns. Maybe you bite during Zoom ca
 For each of your top 3 triggers, create a specific response plan. Not "I'll try not to bite" — a concrete physical action.
 
 **Examples:**
-| Trigger | Competing Response |
-|---|---|
-| Zoom calls | Hold a pen or stress ball in your dominant hand |
-| Reading | Wear thin cotton gloves or sit on your hands |
-| Problem-solving at desk | Keep a textured fidget within arm's reach |
-| Watching TV | Hold a pillow, fold laundry, or use hand cream |
-| Driving | Grip the steering wheel at 10 and 2 |
+| Trigger                 | Competing Response                              |
+| ----------------------- | ----------------------------------------------- |
+| Zoom calls              | Hold a pen or stress ball in your dominant hand |
+| Reading                 | Wear thin cotton gloves or sit on your hands    |
+| Problem-solving at desk | Keep a textured fidget within arm's reach       |
+| Watching TV             | Hold a pillow, fold laundry, or use hand cream  |
+| Driving                 | Grip the steering wheel at 10 and 2             |
 
 The competing response needs to be:
 1. **Physically incompatible** with biting — your hands must be unable to reach your mouth
@@ -136,14 +136,14 @@ If you've tried quitting before and failed, here's what's probably different now
 
 ## The 2026 Calendar
 
-| Month | Focus | Key Action |
-|---|---|---|
-| January 1-14 | Awareness | Track every biting episode |
+| Month         | Focus               | Key Action                               |
+| ------------- | ------------------- | ---------------------------------------- |
+| January 1-14  | Awareness           | Track every biting episode               |
 | January 15-31 | Competing responses | Practice alternatives for top 3 triggers |
-| February | Environment design | Set up physical barriers and tools |
-| March | Recovery and care | Start weekly nail care routine |
-| April | Identity shift | Reframe self-talk |
-| May-June | Maintenance | Monthly check-ins, adjust as needed |
+| February      | Environment design  | Set up physical barriers and tools       |
+| March         | Recovery and care   | Start weekly nail care routine           |
+| April         | Identity shift      | Reframe self-talk                        |
+| May-June      | Maintenance         | Monthly check-ins, adjust as needed      |
 
 ## Start January 1st, Not January 2nd
 

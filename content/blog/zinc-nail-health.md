@@ -60,19 +60,19 @@ If you don't fall into any of these categories and eat a varied diet, you're pro
 
 The best approach to zinc status is through food. Here are the top sources:
 
-| Food | Serving | Zinc (mg) |
-|------|---------|-----------|
-| Oysters | 3 oz | 74 mg |
-| Beef chuck roast | 3 oz | 7.0 mg |
-| Crab | 3 oz | 6.5 mg |
-| Beef patty | 3 oz | 5.3 mg |
-| Pork chop | 3 oz | 2.9 mg |
-| Dark meat chicken | 3 oz | 2.4 mg |
-| Pumpkin seeds | 1 oz | 2.2 mg |
-| Cashews | 1 oz | 1.6 mg |
-| Chickpeas | ½ cup | 1.3 mg |
-| Lentils | ½ cup | 1.3 mg |
-| Oatmeal | 1 cup cooked | 1.1 mg |
+| Food              | Serving      | Zinc (mg) |
+| ----------------- | ------------ | --------- |
+| Oysters           | 3 oz         | 74 mg     |
+| Beef chuck roast  | 3 oz         | 7.0 mg    |
+| Crab              | 3 oz         | 6.5 mg    |
+| Beef patty        | 3 oz         | 5.3 mg    |
+| Pork chop         | 3 oz         | 2.9 mg    |
+| Dark meat chicken | 3 oz         | 2.4 mg    |
+| Pumpkin seeds     | 1 oz         | 2.2 mg    |
+| Cashews           | 1 oz         | 1.6 mg    |
+| Chickpeas         | ½ cup        | 1.3 mg    |
+| Lentils           | ½ cup        | 1.3 mg    |
+| Oatmeal           | 1 cup cooked | 1.1 mg    |
 
 Oysters are in a league of their own — a single serving provides several times the daily requirement. For practical everyday eating, beef. pumpkin seeds, and legumes are reliable sources.
 

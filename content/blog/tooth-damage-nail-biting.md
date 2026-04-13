@@ -119,13 +119,13 @@ Signs of concurrent bruxism to watch for:
 
 When nail biting damage requires professional repair, costs add up:
 
-| Procedure | Cost Per Tooth | Typical Lifespan |
-|-----------|---------------|-------------------|
-| Composite bonding | $200–$600 | 5–10 years |
-| Porcelain veneers | $900–$2,500 | 10–20 years |
-| Dental crowns | $800–$1,500 | 10–15 years |
-| Root canal + crown | $1,500–$3,000 | 10–15 years |
-| Orthodontics (full) | $3,000–$8,000 | Permanent (if retained) |
+| Procedure           | Cost Per Tooth | Typical Lifespan        |
+| ------------------- | -------------- | ----------------------- |
+| Composite bonding   | $200–$600      | 5–10 years              |
+| Porcelain veneers   | $900–$2,500    | 10–20 years             |
+| Dental crowns       | $800–$1,500    | 10–15 years             |
+| Root canal + crown  | $1,500–$3,000  | 10–15 years             |
+| Orthodontics (full) | $3,000–$8,000  | Permanent (if retained) |
 
 Most repairs aren't permanent. Bonding chips and stains. Veneers can fracture. Crowns need replacement. If nail biting continues after repair, the restoration fails faster.
 

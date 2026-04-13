@@ -56,14 +56,14 @@ The nail bed is the skin beneath the plate. Psoriasis here causes:
 
 In nail biters with psoriasis, distinguishing between biting damage and psoriatic changes is critical for treatment. Here's the overlap:
 
-| Feature | Biting Damage | Nail Psoriasis | Both |
-|---------|--------------|----------------|------|
-| Pitting | Irregular, shallow | Regular, deep | ✓ |
-| Ridging | Horizontal (trauma lines) | May be horizontal or vertical | ✓ |
-| Nail lifting | From the tip (where biting occurs) | From the tip or sides | ✓ |
-| Thickening | Unusual | Common (subungual hyperkeratosis) | — |
-| Oil drop sign | Never | Characteristic | — |
-| Splinter hemorrhage | Possible from trauma | Common | ✓ |
+| Feature             | Biting Damage                      | Nail Psoriasis                    | Both |
+| ------------------- | ---------------------------------- | --------------------------------- | ---- |
+| Pitting             | Irregular, shallow                 | Regular, deep                     | ✓    |
+| Ridging             | Horizontal (trauma lines)          | May be horizontal or vertical     | ✓    |
+| Nail lifting        | From the tip (where biting occurs) | From the tip or sides             | ✓    |
+| Thickening          | Unusual                            | Common (subungual hyperkeratosis) | —    |
+| Oil drop sign       | Never                              | Characteristic                    | —    |
+| Splinter hemorrhage | Possible from trauma               | Common                            | ✓    |
 
 If you have psoriasis and bite your nails, a dermatologist often needs to evaluate your nails to determine which changes are from biting and which are psoriatic. This distinction determines treatment.
 

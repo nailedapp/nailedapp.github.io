@@ -111,17 +111,17 @@ Use whatever is easiest to access quickly — your phone's notes app, a small po
 
 **Record these fields for every episode:**
 
-| Field | What to record |
-|---|---|
-| **Time** | Approximate time of day |
-| **Location** | Where you were |
-| **Activity** | What you were doing |
-| **Emotion** | What you were feeling (even "nothing" or "not sure") |
-| **Awareness** | Did you catch yourself before, during, or after biting? |
-| **Body state** | Hungry? Tired? Caffeinated? Physical tension? |
-| **Social context** | Alone, with people, on a call? |
-| **Duration** | How long the episode lasted |
-| **Which fingers** | Track if specific fingers are targeted |
+| Field              | What to record                                          |
+| ------------------ | ------------------------------------------------------- |
+| **Time**           | Approximate time of day                                 |
+| **Location**       | Where you were                                          |
+| **Activity**       | What you were doing                                     |
+| **Emotion**        | What you were feeling (even "nothing" or "not sure")    |
+| **Awareness**      | Did you catch yourself before, during, or after biting? |
+| **Body state**     | Hungry? Tired? Caffeinated? Physical tension?           |
+| **Social context** | Alone, with people, on a call?                          |
+| **Duration**       | How long the episode lasted                             |
+| **Which fingers**  | Track if specific fingers are targeted                  |
 
 ### Example Entries
 

@@ -134,13 +134,13 @@ This is where technology can bridge the gap. [Nailed](https://apps.apple.com/app
 
 ### Matching Fidgets to Triggers
 
-| Your primary trigger | Best fidget types |
-|---|---|
-| Stress / anxiety | Stress balls, therapy putty |
-| Boredom / understimulation | Fidget cubes, puzzle fidgets |
-| Sensory seeking | Textured rings, putty, worry stones |
-| Nervous energy | Stress balls, clickable fidgets |
-| Cuticle picking | Textured fidgets, peeling toys |
+| Your primary trigger       | Best fidget types                   |
+| -------------------------- | ----------------------------------- |
+| Stress / anxiety           | Stress balls, therapy putty         |
+| Boredom / understimulation | Fidget cubes, puzzle fidgets        |
+| Sensory seeking            | Textured rings, putty, worry stones |
+| Nervous energy             | Stress balls, clickable fidgets     |
+| Cuticle picking            | Textured fidgets, peeling toys      |
 
 ### Placement Strategy
 

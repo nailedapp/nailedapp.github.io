@@ -111,15 +111,15 @@ This matters because camera data is among the most sensitive information an app 
 
 ## Edge Computing vs. Cloud: A Technical Comparison
 
-| Factor | Cloud Processing | On-Device (Edge) |
-|---|---|---|
-| Latency | 100–500ms+ | 1–10ms |
-| Offline support | No | Yes |
-| Privacy | Data leaves device | Data stays local |
-| Accuracy | Potentially higher (larger models) | Excellent for focused tasks |
-| Scalability | Server costs scale with users | Zero server cost |
-| Reliability | Depends on internet + server uptime | Always available |
-| Cost to developer | Ongoing infrastructure costs | One-time model optimization |
+| Factor            | Cloud Processing                    | On-Device (Edge)            |
+| ----------------- | ----------------------------------- | --------------------------- |
+| Latency           | 100–500ms+                          | 1–10ms                      |
+| Offline support   | No                                  | Yes                         |
+| Privacy           | Data leaves device                  | Data stays local            |
+| Accuracy          | Potentially higher (larger models)  | Excellent for focused tasks |
+| Scalability       | Server costs scale with users       | Zero server cost            |
+| Reliability       | Depends on internet + server uptime | Always available            |
+| Cost to developer | Ongoing infrastructure costs        | One-time model optimization |
 
 For focused, real-time tasks like gesture detection, the edge computing approach is strictly superior on almost every axis. The one area where cloud has a theoretical advantage — the ability to run much larger models — doesn't apply to tasks where lightweight, optimized models already achieve the necessary accuracy.
 

@@ -94,14 +94,14 @@ Most interventions focus on reflective motivation (education, persuasion). But a
 
 When a behavior isn't happening, diagnose which component is missing:
 
-| Question | Component |
-|----------|-----------|
-| "Do they know how?" | Psychological capability |
-| "Can they physically do it?" | Physical capability |
-| "Does their environment support it?" | Physical opportunity |
-| "Do others around them do it?" | Social opportunity |
-| "Do they intend to?" | Reflective motivation |
-| "Does it feel automatic or emotionally driven?" | Automatic motivation |
+| Question                                        | Component                |
+| ----------------------------------------------- | ------------------------ |
+| "Do they know how?"                             | Psychological capability |
+| "Can they physically do it?"                    | Physical capability      |
+| "Does their environment support it?"            | Physical opportunity     |
+| "Do others around them do it?"                  | Social opportunity       |
+| "Do they intend to?"                            | Reflective motivation    |
+| "Does it feel automatic or emotionally driven?" | Automatic motivation     |
 
 Fix the weakest component first. Strengthening motivation when the real barrier is opportunity is wasted effort.
 

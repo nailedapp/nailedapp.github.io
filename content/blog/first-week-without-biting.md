@@ -127,14 +127,14 @@ Use whatever tools work. You can phase them out later as the new patterns streng
 
 ## The Week One Summary
 
-| Day | Primary Challenge | Key Strategy |
-|-----|------------------|--------------|
-| 1 | Awareness of frequency | Observe, don't perfect |
-| 2 | Sensory cravings | File nails, use oil, fidget tools |
-| 3 | Emotional triggers | Competing responses, lower other expectations |
-| 4 | Bargaining and "fixing" | Carry a file, name the negotiation |
-| 5 | Awkward growth stage | Notice progress, take photos |
-| 6-7 | Unstructured time risk | Plan activities, tools within reach |
+| Day | Primary Challenge       | Key Strategy                                  |
+| --- | ----------------------- | --------------------------------------------- |
+| 1   | Awareness of frequency  | Observe, don't perfect                        |
+| 2   | Sensory cravings        | File nails, use oil, fidget tools             |
+| 3   | Emotional triggers      | Competing responses, lower other expectations |
+| 4   | Bargaining and "fixing" | Carry a file, name the negotiation            |
+| 5   | Awkward growth stage    | Notice progress, take photos                  |
+| 6-7 | Unstructured time risk  | Plan activities, tools within reach           |
 
 ## What Comes Next
 
