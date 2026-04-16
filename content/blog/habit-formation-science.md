@@ -1,7 +1,7 @@
 ---
 title: "The Science of Habit Formation: What Makes Habits Stick"
 description: "The neuroscience and psychology behind habit formation. Learn about the habit loop, the 66-day myth, and what research says about making habits stick."
-date: 2026-04-12
+date: 2025-10-24
 slug: habit-formation-science
 keywords:
   - habit formation science

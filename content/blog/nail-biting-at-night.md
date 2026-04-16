@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting at Night: Causes and Solutions"
 description: "Why nail biting peaks in the evening and how to stop it. Covers executive function depletion, screen time triggers, wind-down routines, and practical nighttime strategies."
-date: 2026-04-12
+date: 2026-02-17
 slug: nail-biting-at-night
 keywords:
   - nail biting at night

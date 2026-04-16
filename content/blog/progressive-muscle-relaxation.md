@@ -1,7 +1,7 @@
 ---
 title: "Progressive Muscle Relaxation for Nail Biters"
 description: "How progressive muscle relaxation (PMR) reduces nail biting by relieving the physical tension that drives the habit. Full step-by-step routine included."
-date: 2026-04-12
+date: 2025-11-26
 slug: progressive-muscle-relaxation
 keywords:
   - progressive muscle relaxation

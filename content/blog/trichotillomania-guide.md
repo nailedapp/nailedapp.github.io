@@ -1,7 +1,7 @@
 ---
 title: "Trichotillomania: Understanding Hair-Pulling Disorder"
 description: "Complete guide to trichotillomania (hair-pulling disorder). Learn about symptoms, DSM-5 criteria, prevalence, and evidence-based treatments like HRT and medication."
-date: 2026-04-12
+date: 2026-02-04
 slug: trichotillomania-guide
 keywords:
   - trichotillomania

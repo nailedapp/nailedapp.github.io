@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting During Pregnancy: Risks and How to Stop"
 description: "Nail biting during pregnancy carries unique infection risks. Learn why it often worsens, safe strategies to stop, and when to talk to your OB-GYN."
-date: 2026-04-12
+date: 2025-11-21
 slug: nail-biting-pregnancy
 keywords:
   - nail biting pregnancy

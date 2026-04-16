@@ -1,7 +1,7 @@
 ---
 title: "Best Nail Biting App in 2025: A Comprehensive Review"
 description: "An honest roundup of the best nail biting apps in 2025. Tracking, detection, wearable, and educational tools reviewed with real pros and cons."
-date: 2026-04-12
+date: 2025-10-28
 slug: best-nail-biting-app-2025
 keywords:
   - best nail biting app 2025

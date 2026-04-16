@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Myths Debunked: Separating Fact from Fiction"
 description: "Common nail biting myths debunked with science. Learn what's actually true about onychophagia, why people bite their nails, and what the research says."
-date: 2026-04-12
+date: 2026-03-27
 slug: nail-biting-myths-debunked
 keywords:
   - nail biting myths

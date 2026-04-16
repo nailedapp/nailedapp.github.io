@@ -1,7 +1,7 @@
 ---
 title: "Using CBT to Stop Nail Biting: What the Research Shows"
 description: "How cognitive behavioral therapy treats nail biting. Research-backed CBT techniques including cognitive restructuring, behavioral experiments, and finding a therapist."
-date: 2026-04-12
+date: 2026-03-11
 slug: cbt-nail-biting
 keywords:
   - cognitive behavioral therapy nail biting

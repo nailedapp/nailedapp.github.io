@@ -1,7 +1,7 @@
 ---
 title: "Does Nail Biting Affect Job Performance? What Managers Think"
 description: "How nail biting affects professional perception, job performance reviews, and career advancement. What managers and coworkers actually think about the habit."
-date: 2026-04-12
+date: 2026-01-17
 slug: nail-biting-job-performance
 keywords:
   - nail biting job performance

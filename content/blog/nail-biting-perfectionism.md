@@ -1,7 +1,7 @@
 ---
 title: "Perfectionism and Nail Biting: An Unexpected Link"
 description: "Research shows perfectionism drives nail biting through frustration intolerance and control needs. Learn why perfectionists bite and strategies to break free."
-date: 2026-04-12
+date: 2026-04-03
 slug: nail-biting-perfectionism
 keywords:
   - perfectionism nail biting

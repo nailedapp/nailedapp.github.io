@@ -1,7 +1,7 @@
 ---
 title: "Bandaging Your Fingertips to Stop Nail Biting: Pros and Cons"
 description: "Using bandages or finger wraps to prevent nail biting — when it helps, when it backfires, how to do it right, and better alternatives."
-date: 2026-04-12
+date: 2026-03-31
 slug: bandaging-fingertips-nail-biting
 keywords:
   - bandage fingertips nail biting

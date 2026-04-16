@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Anxiety — Understanding the Connection"
 description: "Explore the link between nail biting and anxiety, when it becomes a clinical concern, and practical strategies that reduce both anxiety and the urge to bite."
-date: 2026-04-12
+date: 2025-11-19
 slug: nail-biting-and-anxiety
 keywords:
   - nail biting anxiety

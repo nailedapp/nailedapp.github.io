@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Prevalence: Global Statistics and Demographics"
 description: "How many people bite their nails? Explore global nail biting statistics broken down by age, gender, geography, and severity from population-level studies."
-date: 2026-04-12
+date: 2026-04-08
 slug: nail-biting-prevalence-statistics
 keywords:
   - nail biting prevalence

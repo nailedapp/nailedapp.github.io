@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Stomach Problems: The Gut-Hand Connection"
 description: "Nail biting can cause stomach pain, nausea, and GI issues. Learn how swallowed nail fragments and bacteria affect your digestive system and what to do about it."
-date: 2026-04-12
+date: 2026-03-08
 slug: nail-biting-stomach-problems
 keywords:
   - nail biting stomach

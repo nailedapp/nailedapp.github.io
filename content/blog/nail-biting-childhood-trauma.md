@@ -1,7 +1,7 @@
 ---
 title: "Childhood Trauma and Nail Biting: Understanding the Connection"
 description: "Research links adverse childhood experiences to nail biting and other BFRBs. Learn how early trauma shapes coping behaviors and what treatment approaches help."
-date: 2026-04-12
+date: 2026-02-28
 slug: nail-biting-childhood-trauma
 keywords:
   - childhood trauma nail biting

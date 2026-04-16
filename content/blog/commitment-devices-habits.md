@@ -1,7 +1,7 @@
 ---
 title: "Commitment Devices: Engineering Your Environment Against Bad Habits"
 description: "Commitment devices make bad habits harder and good habits easier. Learn how to engineer your environment to stop nail biting using precommitment strategies."
-date: 2026-04-12
+date: 2026-03-09
 slug: commitment-devices-habits
 keywords:
   - commitment device habits

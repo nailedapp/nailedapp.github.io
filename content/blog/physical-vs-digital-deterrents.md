@@ -1,7 +1,7 @@
 ---
 title: "Physical vs Digital Deterrents for Nail Biting"
 description: "Compare physical deterrents like bitter polish and gloves with digital tools like detection apps for nail biting. See which approach fits your habit."
-date: 2026-04-12
+date: 2026-03-23
 slug: physical-vs-digital-deterrents
 keywords:
   - nail biting deterrents comparison

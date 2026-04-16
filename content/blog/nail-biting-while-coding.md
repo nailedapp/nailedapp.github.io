@@ -1,7 +1,7 @@
 ---
 title: "Why Programmers Bite Their Nails (and How to Stop)"
 description: "Nail biting while coding is surprisingly common. Learn why programmers bite their nails and practical developer-specific strategies to break the habit."
-date: 2026-04-12
+date: 2026-01-30
 slug: nail-biting-while-coding
 keywords:
   - nail biting while coding

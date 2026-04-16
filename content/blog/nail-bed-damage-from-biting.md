@@ -1,7 +1,7 @@
 ---
 title: "Nail Bed Damage from Biting: Can It Be Reversed?"
 description: "Nail biting damages the nail bed and matrix, causing short nail beds and deformed growth. Learn what's reversible, what's permanent, and recovery timelines."
-date: 2026-04-12
+date: 2025-10-18
 slug: nail-bed-damage-from-biting
 keywords:
   - nail bed damage biting

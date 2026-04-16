@@ -1,7 +1,7 @@
 ---
 title: "Ingrown Nails from Biting: Causes and Solutions"
 description: "Nail biting can cause painful ingrown nails on your fingers. Learn why it happens, how to treat ingrown fingernails at home, and when to see a doctor."
-date: 2026-04-12
+date: 2026-01-16
 slug: ingrown-nails-biting
 keywords:
   - ingrown nail biting

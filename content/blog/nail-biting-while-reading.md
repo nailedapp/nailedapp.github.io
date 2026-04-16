@@ -1,7 +1,7 @@
 ---
 title: "Why You Bite Your Nails While Reading (and How to Stop)"
 description: "Reading triggers nail biting for many people. Learn why absorption and flow states cause unconscious biting and practical strategies to break the pattern."
-date: 2026-04-12
+date: 2026-02-24
 slug: nail-biting-while-reading
 keywords:
   - nail biting while reading

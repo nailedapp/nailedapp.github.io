@@ -1,7 +1,7 @@
 ---
 title: "How Fast Do Nails Grow? Everything You Need to Know"
 description: "How fast do fingernails and toenails grow? Learn about nail growth rates, what affects growth speed, and how long it takes to recover from nail biting."
-date: 2026-04-12
+date: 2025-12-22
 slug: nail-growth-rate
 keywords:
   - nail growth rate

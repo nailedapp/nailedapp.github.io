@@ -1,7 +1,7 @@
 ---
 title: "How to Track Your Nail Growth Progress (With Photos)"
 description: "Photo tracking makes nail growth visible and keeps you motivated. Here's a simple system for documenting your recovery journey from bitten to healthy nails."
-date: 2026-04-12
+date: 2025-11-21
 slug: nail-growth-tracking
 keywords:
   - track nail growth

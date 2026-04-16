@@ -1,7 +1,7 @@
 ---
 title: "Is Nail Biting Genetic? What Studies Show"
 description: "Twin studies and family research reveal a genetic component to nail biting. Learn what science says about hereditary factors, environment, and epigenetics."
-date: 2026-04-12
+date: 2026-01-10
 slug: nail-biting-genetics
 keywords:
   - genetic predisposition nail biting

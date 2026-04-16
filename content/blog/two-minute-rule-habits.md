@@ -1,7 +1,7 @@
 ---
 title: "The Two-Minute Rule: Tiny Habits That Lead to Big Changes"
 description: "The two-minute rule makes any habit change feel effortless. Learn how scaling behaviors down to two minutes builds momentum that stops nail biting."
-date: 2026-04-12
+date: 2026-03-22
 slug: two-minute-rule-habits
 keywords:
   - two minute rule habits

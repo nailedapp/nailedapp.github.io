@@ -1,7 +1,7 @@
 ---
 title: "When Does Nail Biting Become a Disorder?"
 description: "Most nail biting is harmless. Learn the signs that separate a common habit from pathological nail biting, including clinical criteria, distress markers, and when to seek help."
-date: 2026-04-12
+date: 2026-04-07
 slug: when-nail-biting-becomes-disorder
 keywords:
   - when nail biting becomes disorder

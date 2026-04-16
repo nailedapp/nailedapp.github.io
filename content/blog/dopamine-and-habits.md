@@ -1,7 +1,7 @@
 ---
 title: "Dopamine and Habits: Why Bad Habits Feel Good"
 description: "Why do bad habits feel so satisfying? Learn how dopamine drives habit formation, the reward prediction system, and why your brain keeps choosing behaviors you want to quit."
-date: 2026-04-12
+date: 2026-02-06
 slug: dopamine-and-habits
 keywords:
   - dopamine habits

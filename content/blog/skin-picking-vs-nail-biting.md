@@ -1,7 +1,7 @@
 ---
 title: "Skin Picking vs Nail Biting: Two BFRBs Compared"
 description: "Compare skin picking and nail biting as BFRBs. Learn about shared neurobiology, different manifestations, co-occurrence rates, and treatment overlap."
-date: 2026-04-12
+date: 2026-02-01
 slug: skin-picking-vs-nail-biting
 keywords:
   - skin picking vs nail biting

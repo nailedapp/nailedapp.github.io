@@ -1,7 +1,7 @@
 ---
 title: "Does Nail Biting Spread Disease? What Science Says"
 description: "Find out whether nail biting can spread disease. We cover the science behind germ transfer, which infections are linked to the habit, and how to reduce risk."
-date: 2026-04-12
+date: 2026-04-01
 slug: does-nail-biting-spread-disease
 keywords:
   - nail biting spread disease

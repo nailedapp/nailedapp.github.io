@@ -1,7 +1,7 @@
 ---
 title: "Nail Recovery Timeline: What to Expect After You Stop Biting"
 description: "Week-by-week nail recovery timeline after quitting nail biting. See what happens at each stage and how long it takes nails to fully grow back."
-date: 2026-04-12
+date: 2026-03-25
 slug: nail-recovery-timeline
 keywords:
   - nail recovery timeline

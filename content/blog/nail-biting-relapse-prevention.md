@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Relapse: How to Get Back on Track"
 description: "What to do when you start biting your nails again after weeks or months of progress. Practical relapse recovery strategies backed by habit science."
-date: 2026-04-12
+date: 2026-03-21
 slug: nail-biting-relapse-prevention
 keywords:
   - nail biting relapse

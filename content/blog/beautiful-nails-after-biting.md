@@ -1,7 +1,7 @@
 ---
 title: "Getting Beautiful Nails After Years of Biting"
 description: "How to recover and care for your nails after years of biting. Covers nail bed recovery, strengthening treatments, shaping, and realistic before-and-after timelines."
-date: 2026-04-12
+date: 2026-03-03
 slug: beautiful-nails-after-biting
 keywords:
   - beautiful nails after biting

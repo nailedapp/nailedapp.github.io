@@ -1,7 +1,7 @@
 ---
 title: "White Spots on Nails: What They Really Mean"
 description: "The truth about white spots on nails. Learn what leukonychia actually is, what causes it, and when white marks on fingernails need medical attention."
-date: 2026-04-12
+date: 2025-12-08
 slug: white-spots-nails
 keywords:
   - white spots nails

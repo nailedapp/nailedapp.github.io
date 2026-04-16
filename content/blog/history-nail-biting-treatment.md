@@ -1,7 +1,7 @@
 ---
 title: "History of Nail Biting Treatment: From Punishment to Technology"
 description: "Explore the evolution of nail biting treatment from ancient punishments to bitter polish to modern BFRB therapy and technology-based approaches."
-date: 2026-04-12
+date: 2026-01-05
 slug: history-nail-biting-treatment
 keywords:
   - history nail biting treatment

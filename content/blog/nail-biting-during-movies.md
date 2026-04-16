@@ -1,7 +1,7 @@
 ---
 title: "Why Do You Bite Your Nails During Movies?"
 description: "The psychology behind nail biting during movies and TV, why suspenseful scenes are the worst, and how to keep your hands safe during screen time."
-date: 2026-04-12
+date: 2026-01-27
 slug: nail-biting-during-movies
 keywords:
   - nail biting movies

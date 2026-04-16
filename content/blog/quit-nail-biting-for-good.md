@@ -1,7 +1,7 @@
 ---
 title: "How to Quit Nail Biting for Good: A Realistic Plan"
 description: "A step-by-step plan to stop biting your nails permanently. Covers awareness building, competing responses, relapse handling, and timeline expectations."
-date: 2026-04-12
+date: 2026-01-13
 slug: quit-nail-biting-for-good
 keywords:
   - quit nail biting for good

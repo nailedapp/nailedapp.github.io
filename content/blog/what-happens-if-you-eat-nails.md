@@ -1,7 +1,7 @@
 ---
 title: "What Happens If You Swallow Your Nails? Is It Dangerous?"
 description: "Swallowing bitten fingernails is common but not harmless. Learn what happens in your digestive system, when to worry, and the real risks backed by evidence."
-date: 2026-04-12
+date: 2026-01-21
 slug: what-happens-if-you-eat-nails
 keywords:
   - swallow nails dangerous

@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Consequences: Health Risks You Should Know About"
 description: "Learn about nail biting damage including dental problems, infections, and nail deformities. Evidence-based look at the real health risks of onychophagia."
-date: 2026-04-12
+date: 2026-01-11
 slug: nail-biting-damage
 keywords:
   - nail biting damage

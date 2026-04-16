@@ -1,7 +1,7 @@
 ---
 title: "How to Help Children Stop Biting Their Nails"
 description: "A parent's guide to helping kids stop nail biting with age-appropriate strategies, positive reinforcement, and knowing when professional help is needed."
-date: 2026-04-12
+date: 2025-12-10
 slug: stop-nail-biting-children
 keywords:
   - stop nail biting children

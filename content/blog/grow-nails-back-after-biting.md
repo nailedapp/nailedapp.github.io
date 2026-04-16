@@ -1,7 +1,7 @@
 ---
 title: "How to Grow Your Nails Back After Years of Biting"
 description: "A practical guide to growing your nails back after biting — nail growth timeline, care tips, nail bed recovery, and when to see a dermatologist."
-date: 2026-04-12
+date: 2026-03-04
 slug: grow-nails-back-after-biting
 keywords:
   - how to grow nails after biting

@@ -1,7 +1,7 @@
 ---
 title: "How Apple Silicon Makes On-Device ML Apps Possible"
 description: "Apple Silicon's Neural Engine enables real-time on-device ML on Macs. Learn how M1 and later chips power apps like Nailed without cloud processing."
-date: 2026-04-12
+date: 2026-02-13
 slug: apple-silicon-ml-apps
 keywords:
   - Apple Silicon ML apps

@@ -1,7 +1,7 @@
 ---
 title: "Dating with Bitten Nails: Overcoming Self-Consciousness"
 description: "Self-conscious about bitten nails while dating? Practical advice on managing appearance anxiety, when to disclose, and building confidence."
-date: 2026-04-12
+date: 2026-03-30
 slug: dating-with-bitten-nails
 keywords:
   - dating bitten nails

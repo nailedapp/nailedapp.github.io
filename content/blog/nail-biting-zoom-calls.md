@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Biting Your Nails During Zoom Calls"
 description: "Video calls trigger nail biting for millions. Learn why Zoom meetings make it worse and practical strategies to stop biting during virtual meetings."
-date: 2026-04-12
+date: 2025-12-28
 slug: nail-biting-zoom-calls
 keywords:
   - nail biting Zoom call

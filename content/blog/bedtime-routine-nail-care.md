@@ -1,7 +1,7 @@
 ---
 title: "Bedtime Nail Care Routine: Protect Your Nails While You Sleep"
 description: "A practical bedtime nail care routine that repairs damage, strengthens nails overnight, and reinforces your commitment to stop biting."
-date: 2026-04-12
+date: 2025-11-06
 slug: bedtime-routine-nail-care
 keywords:
   - bedtime nail care

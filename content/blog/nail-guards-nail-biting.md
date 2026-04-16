@@ -1,7 +1,7 @@
 ---
 title: "Nail Guards and Finger Covers for Nail Biting: A Complete Guide"
 description: "Everything about nail guards, finger protectors, and thumb guards for adult nail biters — types, effectiveness, where to buy, and how to use them."
-date: 2026-04-12
+date: 2026-03-12
 slug: nail-guards-nail-biting
 keywords:
   - nail guards nail biting

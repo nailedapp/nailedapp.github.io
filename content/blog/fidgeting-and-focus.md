@@ -1,7 +1,7 @@
 ---
 title: "The Science of Fidgeting: Why Your Body Needs to Move"
 description: "Fidgeting isn't a character flaw — it's your brain regulating focus and arousal. Learn the neuroscience behind fidgeting and how it connects to BFRBs."
-date: 2026-04-12
+date: 2025-10-17
 slug: fidgeting-and-focus
 keywords:
   - fidgeting science

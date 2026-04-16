@@ -1,7 +1,7 @@
 ---
 title: "Implementation Intentions: The If-Then Plan for Stopping Nail Biting"
 description: "Implementation intentions double your chances of following through on habit change. Learn the if-then planning method backed by 200+ studies."
-date: 2026-04-12
+date: 2025-10-18
 slug: implementation-intentions
 keywords:
   - implementation intentions

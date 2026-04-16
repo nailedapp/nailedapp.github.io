@@ -1,7 +1,7 @@
 ---
 title: "All-or-Nothing Thinking: Why One Slip Doesn't Mean Failure"
 description: "One slip doesn't erase your progress. Learn how all-or-nothing thinking sabotages habit change and what to do instead when you bite your nails again."
-date: 2026-04-12
+date: 2026-02-12
 slug: all-or-nothing-thinking-habits
 keywords:
   - all or nothing thinking habits

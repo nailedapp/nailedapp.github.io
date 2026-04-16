@@ -1,7 +1,7 @@
 ---
 title: "How Nailed Works — On-Device AI Nail-Biting Detection for Mac"
 description: "A detailed look at how Nailed uses MediaPipe machine learning models, WebAssembly, and your Mac's camera to detect nail biting in real time — with zero data collection."
-date: 2026-04-11
+date: 2025-11-23
 slug: how-nailed-works
 keywords:
   - AI nail biting detection

@@ -1,7 +1,7 @@
 ---
 title: "Extinction Bursts: Why Habits Get Worse Before They Get Better"
 description: "When you try to stop a habit, it often intensifies first. Learn what an extinction burst is, why it happens, and how to push through without giving up."
-date: 2026-04-12
+date: 2026-01-31
 slug: extinction-burst-habits
 keywords:
   - extinction burst habits

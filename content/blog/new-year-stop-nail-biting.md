@@ -1,7 +1,7 @@
 ---
 title: "New Year's Resolution: Stop Biting Your Nails (and Actually Stick to It)"
 description: "A practical guide to making your nail biting resolution stick past January. Covers goal setting, habit stacking, tracking, and avoiding the most common failure points."
-date: 2026-04-12
+date: 2025-12-31
 slug: new-year-stop-nail-biting
 keywords:
   - new year resolution stop biting nails

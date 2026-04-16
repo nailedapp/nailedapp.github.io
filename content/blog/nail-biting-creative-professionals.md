@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Creative Work: When Focus Triggers the Habit"
 description: "Why writers, artists, designers, and musicians are prone to nail biting — and how the creative focus state makes the habit harder to catch."
-date: 2026-04-12
+date: 2025-12-15
 slug: nail-biting-creative-professionals
 keywords:
   - creative professional nail biting

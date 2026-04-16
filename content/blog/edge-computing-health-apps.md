@@ -1,7 +1,7 @@
 ---
 title: "Edge Computing in Health Apps: Privacy Without Compromise"
 description: "Edge computing keeps health data on your device. Learn why local processing matters for health apps, and how apps like Nailed protect your privacy."
-date: 2026-04-12
+date: 2025-12-01
 slug: edge-computing-health-apps
 keywords:
   - edge computing health apps

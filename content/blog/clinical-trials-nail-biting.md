@@ -1,7 +1,7 @@
 ---
 title: "Clinical Trials for Nail Biting Treatments: What's Being Tested"
 description: "An overview of past and current clinical trials studying nail biting treatments, from behavioral therapy to pharmacology and digital interventions."
-date: 2026-04-12
+date: 2025-12-13
 slug: clinical-trials-nail-biting
 keywords:
   - clinical trials nail biting

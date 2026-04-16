@@ -1,7 +1,7 @@
 ---
 title: "Using Positive Reinforcement to Help Kids Stop Nail Biting"
 description: "Positive reinforcement beats punishment for kids who bite nails. Learn reward charts, praise strategies, and age-specific approaches that work."
-date: 2026-04-12
+date: 2026-01-20
 slug: positive-reinforcement-kids
 keywords:
   - positive reinforcement nail biting kids

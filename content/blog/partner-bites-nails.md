@@ -1,7 +1,7 @@
 ---
 title: "My Partner Bites Their Nails: How to Help Without Nagging"
 description: "Your partner bites their nails and you want to help. Learn the right way to support them without nagging, shaming, or making the habit worse."
-date: 2026-04-12
+date: 2026-04-05
 slug: partner-bites-nails
 keywords:
   - partner nail biter

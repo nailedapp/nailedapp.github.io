@@ -1,7 +1,7 @@
 ---
 title: "Yoga for Nail Biters: Poses That Calm Anxiety and Keep Hands Busy"
 description: "Specific yoga poses and breathing techniques that reduce nail biting urges by calming anxiety, improving body awareness, and occupying restless hands."
-date: 2026-04-12
+date: 2025-11-20
 slug: yoga-for-nail-biters
 keywords:
   - yoga nail biting

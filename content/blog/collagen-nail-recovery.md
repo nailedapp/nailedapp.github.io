@@ -1,7 +1,7 @@
 ---
 title: "Collagen for Nail Recovery: Does It Actually Work?"
 description: "Does collagen help nails recover after biting? We review the clinical evidence on collagen supplements for nail growth, strength, and brittleness."
-date: 2026-04-12
+date: 2026-03-02
 slug: collagen-nail-recovery
 keywords:
   - collagen nails

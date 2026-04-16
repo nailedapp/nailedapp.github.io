@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Before and After: What Recovery Looks Like"
 description: "What nail recovery actually looks like stage by stage. Common recovery patterns, why progress isn't linear, and tips for tracking your own journey."
-date: 2026-04-12
+date: 2026-02-07
 slug: nails-before-and-after
 keywords:
   - nails before and after

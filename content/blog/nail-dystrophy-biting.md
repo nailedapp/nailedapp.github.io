@@ -1,7 +1,7 @@
 ---
 title: "Nail Dystrophy from Biting: What You Should Know"
 description: "Understanding nail dystrophy caused by biting. Learn what dystrophic nails look like, what causes them, and how nails can recover after chronic biting."
-date: 2026-04-12
+date: 2025-10-27
 slug: nail-dystrophy-biting
 keywords:
   - nail dystrophy biting

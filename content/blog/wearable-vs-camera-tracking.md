@@ -1,7 +1,7 @@
 ---
 title: "Wearable vs Camera-Based Habit Tracking: Pros and Cons"
 description: "Wearable devices or camera-based tracking for breaking habits? Compare accuracy, privacy, cost, and practicality of each approach."
-date: 2026-04-12
+date: 2026-01-14
 slug: wearable-vs-camera-tracking
 keywords:
   - wearable vs camera tracking

@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Teenagers: A Guide for Parents and Teens"
 description: "Why nail biting peaks in adolescence and what parents and teens can do about it. Evidence-based strategies that respect teen autonomy and actually work."
-date: 2026-04-12
+date: 2026-01-03
 slug: nail-biting-teenagers
 keywords:
   - nail biting teenagers

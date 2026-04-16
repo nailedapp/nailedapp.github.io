@@ -1,7 +1,7 @@
 ---
 title: "Neuroplasticity and Habit Change: Your Brain Can Rewire Itself"
 description: "Neuroplasticity means your brain can form new neural pathways at any age. Learn how this science applies to breaking habits and building new behavioral patterns."
-date: 2026-04-12
+date: 2026-04-14
 slug: neuroplasticity-habit-change
 keywords:
   - neuroplasticity habit change

@@ -1,7 +1,7 @@
 ---
 title: "Lip Biting: Causes, Risks, and How to Stop"
 description: "Understand chronic lip biting as a BFRB. Learn about causes, physical consequences, connection to nail biting, and evidence-based treatment approaches."
-date: 2026-04-12
+date: 2026-04-06
 slug: lip-biting-guide
 keywords:
   - lip biting

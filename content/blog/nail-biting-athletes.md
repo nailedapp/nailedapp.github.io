@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Athletes: Performance Anxiety and Pre-Game Habits"
 description: "Why athletes bite their nails before competition, how it affects performance, and practical strategies to break the habit tied to sports anxiety."
-date: 2026-04-12
+date: 2026-02-09
 slug: nail-biting-athletes
 keywords:
   - athlete nail biting

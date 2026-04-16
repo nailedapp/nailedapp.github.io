@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Remote Work: Why It Gets Worse at Home"
 description: "Remote work makes nail biting worse for many people. Learn why working from home increases the habit and what you can do about it."
-date: 2026-04-12
+date: 2025-12-15
 slug: nail-biting-remote-work
 keywords:
   - nail biting remote work

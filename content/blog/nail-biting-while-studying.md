@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Biting Your Nails While Studying"
 description: "Studying triggers nail biting through boredom, frustration, and deep focus. Learn practical strategies to keep your hands away from your mouth while studying."
-date: 2026-04-12
+date: 2026-01-07
 slug: nail-biting-while-studying
 keywords:
   - nail biting while studying

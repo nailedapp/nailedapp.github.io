@@ -1,7 +1,7 @@
 ---
 title: "How to Track Your Nail Biting Habit (and Why It Matters)"
 description: "Tracking your nail biting is the most powerful first step to stopping. Here's exactly how to monitor frequency, triggers, and progress effectively."
-date: 2026-04-12
+date: 2025-11-25
 slug: habit-tracking-nail-biting
 keywords:
   - track nail biting

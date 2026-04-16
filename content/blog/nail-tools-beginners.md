@@ -1,7 +1,7 @@
 ---
 title: "Essential Nail Care Tools for Beginners (Post-Biting Edition)"
 description: "A beginner's guide to nail care tools for recovering nail biters. What you actually need, what to skip, and how to use each tool without causing damage."
-date: 2026-04-12
+date: 2025-11-23
 slug: nail-tools-beginners
 keywords:
   - nail care tools beginner

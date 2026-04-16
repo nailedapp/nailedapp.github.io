@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting with Braces: Why Your Orthodontist Is Worried"
 description: "Nail biting with braces risks bracket damage, tooth root resorption, and longer treatment times. What the research says and how to stop during orthodontic care."
-date: 2026-04-12
+date: 2025-11-27
 slug: nail-biting-and-braces
 keywords:
   - nail biting braces

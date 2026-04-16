@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting During Phone Calls: A Common Trigger"
 description: "Why phone calls are such a reliable nail biting trigger, the psychology behind it, and practical strategies for keeping your hands away from your mouth."
-date: 2026-04-12
+date: 2025-11-24
 slug: nail-biting-during-phone-calls
 keywords:
   - nail biting phone calls

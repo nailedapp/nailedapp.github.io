@@ -1,7 +1,7 @@
 ---
 title: "Does Nail Biting Get Worse in Winter? Seasonal Patterns Explained"
 description: "Why nail biting often increases during winter months. Covers seasonal triggers including dry skin, indoor confinement, reduced light, and holiday stress."
-date: 2026-04-12
+date: 2026-02-20
 slug: seasonal-nail-biting
 keywords:
   - seasonal nail biting

@@ -1,7 +1,7 @@
 ---
 title: "Acupuncture for Nail Biting: Does It Work?"
 description: "An honest look at whether acupuncture can help stop nail biting — what the research says, how it's supposed to work, and what to realistically expect."
-date: 2026-04-12
+date: 2026-01-20
 slug: acupuncture-nail-biting
 keywords:
   - acupuncture nail biting

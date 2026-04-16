@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and PTSD: How Trauma Affects Habits"
 description: "The connection between PTSD and nail biting, how trauma creates and reinforces body-focused repetitive behaviors, and what treatment approaches address both."
-date: 2026-04-12
+date: 2026-02-08
 slug: nail-biting-ptsd
 keywords:
   - nail biting PTSD

@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Around the World: Cultural Perspectives"
 description: "How different cultures view nail biting, from ancient superstitions to modern attitudes. Explore global perspectives on this universal habit."
-date: 2026-04-12
+date: 2025-11-17
 slug: nail-biting-cultural-perspectives
 keywords:
   - nail biting cultural

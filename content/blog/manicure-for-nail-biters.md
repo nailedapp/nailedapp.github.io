@@ -1,7 +1,7 @@
 ---
 title: "Getting a Manicure as a Nail Biter: What to Expect"
 description: "What actually happens when a nail biter walks into a salon — how to prepare, what to tell your tech, and why nobody is judging your hands."
-date: 2026-04-12
+date: 2025-12-18
 slug: manicure-for-nail-biters
 keywords:
   - manicure nail biters

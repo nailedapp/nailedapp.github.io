@@ -1,7 +1,7 @@
 ---
 title: "Environmental Triggers for Nail Biting: How Your Surroundings Affect Your Habit"
 description: "How your physical environment triggers nail biting. Covers common environmental cues, workspace design, and practical changes to reduce unconscious biting."
-date: 2026-04-12
+date: 2026-02-28
 slug: environmental-triggers-nail-biting
 keywords:
   - environmental triggers nail biting

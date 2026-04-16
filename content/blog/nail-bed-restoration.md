@@ -1,7 +1,7 @@
 ---
 title: "Can Damaged Nail Beds Recover? What to Expect"
 description: "Learn whether damaged nail beds can heal after nail biting. Nail matrix vs nail bed damage, what's reversible, and when to see a doctor."
-date: 2026-04-12
+date: 2026-01-06
 slug: nail-bed-restoration
 keywords:
   - nail bed restoration

@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Stress: Breaking the Cycle"
 description: "Nail biting and stress feed each other in a loop. Learn how stress triggers biting, why it temporarily helps, and evidence-based strategies to break the cycle."
-date: 2026-04-12
+date: 2025-10-22
 slug: nail-biting-stress
 keywords:
   - nail biting stress

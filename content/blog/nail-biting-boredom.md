@@ -1,7 +1,7 @@
 ---
 title: "Why You Bite Your Nails When You're Bored"
 description: "Boredom is a top trigger for nail biting. Learn why understimulation drives the habit, what your brain is actually seeking, and practical alternatives that work."
-date: 2026-04-12
+date: 2026-01-18
 slug: nail-biting-boredom
 keywords:
   - nail biting boredom

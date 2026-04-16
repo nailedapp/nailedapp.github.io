@@ -1,7 +1,7 @@
 ---
 title: "Short Nail Beds from Biting: Will They Grow Back?"
 description: "Why nail beds look short after biting and whether they grow back. Hyponychium recession, recovery potential, and tips to encourage nail bed regrowth."
-date: 2026-04-12
+date: 2025-11-06
 slug: short-nail-beds-biting
 keywords:
   - short nail beds biting

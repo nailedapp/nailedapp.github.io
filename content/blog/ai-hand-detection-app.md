@@ -1,7 +1,7 @@
 ---
 title: "How AI Hand Detection Technology Helps Stop Nail Biting"
 description: "Learn how AI hand detection and gesture recognition work to catch nail biting in real time. Explore the machine learning behind automatic behavior alerts."
-date: 2026-04-12
+date: 2025-12-05
 slug: ai-hand-detection-app
 keywords:
   - AI hand detection app

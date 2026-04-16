@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in the Tech Industry: Why Developers Are Prone"
 description: "Why nail biting is so common among software engineers, developers, and tech workers — and what the industry's screen-heavy, high-stress culture has to do with it."
-date: 2026-04-12
+date: 2026-01-25
 slug: nail-biting-tech-industry
 keywords:
   - nail biting tech industry

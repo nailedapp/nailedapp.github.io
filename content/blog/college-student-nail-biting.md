@@ -1,7 +1,7 @@
 ---
 title: "College Student's Guide to Stopping Nail Biting"
 description: "College stress makes nail biting worse. Here's a realistic, budget-friendly guide for students who want to quit biting their nails during school."
-date: 2026-04-12
+date: 2025-12-21
 slug: college-student-nail-biting
 keywords:
   - college nail biting

@@ -1,7 +1,7 @@
 ---
 title: "Attachment Styles and Nail Biting: How Early Bonds Affect Habits"
 description: "Explore the connection between attachment styles and nail biting. Learn how anxious, avoidant, and disorganized attachment relate to body-focused habits."
-date: 2026-04-12
+date: 2026-03-01
 slug: attachment-style-nail-biting
 keywords:
   - attachment style nail biting

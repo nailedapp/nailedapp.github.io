@@ -1,7 +1,7 @@
 ---
 title: "Nail Care After Years of Biting: A Step-by-Step Guide"
 description: "A practical nail care routine for recovering nail biters. Daily and weekly steps, product recommendations, and filing techniques to restore damaged nails."
-date: 2026-04-12
+date: 2026-03-17
 slug: nail-care-after-biting
 keywords:
   - nail care post biting

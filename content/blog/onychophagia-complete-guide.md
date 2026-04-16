@@ -1,7 +1,7 @@
 ---
 title: "Onychophagia: The Medical Name for Nail Biting Explained"
 description: "Onychophagia is the clinical term for chronic nail biting. Learn its etymology, classification, prevalence, and when the habit crosses into clinical territory."
-date: 2026-04-12
+date: 2026-03-30
 slug: onychophagia-complete-guide
 keywords:
   - onychophagia

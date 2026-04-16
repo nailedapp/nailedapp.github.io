@@ -1,7 +1,7 @@
 ---
 title: "Brittle Nails: Why They Break and How to Fix Them"
 description: "Causes and treatments for brittle nails. Learn why nails become fragile, what makes them break, and evidence-based strategies for stronger, healthier nails."
-date: 2026-04-12
+date: 2025-10-31
 slug: brittle-nails-causes
 keywords:
   - brittle nails causes

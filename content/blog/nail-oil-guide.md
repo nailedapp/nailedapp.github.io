@@ -1,7 +1,7 @@
 ---
 title: "Nail Oil for Recovering Biters: A Complete Guide"
 description: "Everything you need to know about using nail and cuticle oil to repair damage from nail biting — which oils work, how to apply them, and what to expect."
-date: 2026-04-12
+date: 2025-11-30
 slug: nail-oil-guide
 keywords:
   - nail oil biters

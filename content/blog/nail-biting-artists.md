@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Artists and Craftspeople: Protecting Your Hands"
 description: "How nail biting affects painters, sculptors, and craft workers. Practical strategies to protect your hands when they're your primary tools."
-date: 2026-04-12
+date: 2025-12-07
 slug: nail-biting-artists
 keywords:
   - artist nail biting

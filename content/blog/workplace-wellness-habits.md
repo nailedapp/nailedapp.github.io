@@ -1,7 +1,7 @@
 ---
 title: "Workplace Wellness: Building Healthier Habits at Your Desk"
 description: "Practical workplace wellness habits for desk workers. Reduce stress, improve posture, and break bad habits with evidence-based strategies for the office."
-date: 2026-04-12
+date: 2025-11-02
 slug: workplace-wellness-habits
 keywords:
   - workplace wellness habits

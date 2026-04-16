@@ -1,7 +1,7 @@
 ---
 title: "Press-On Nails for Nail Biters: Do They Help?"
 description: "Whether press-on nails actually help stop nail biting, how to use them on short bitten nails, durability, costs, and when they're worth trying."
-date: 2026-04-12
+date: 2025-12-06
 slug: press-on-nails-nail-biting
 keywords:
   - press-on nails nail biting

@@ -1,7 +1,7 @@
 ---
 title: "How Long Does It Take to Break a Nail-Biting Habit?"
 description: "The 21-day habit rule is a myth. Research says 66 days on average. Here's a realistic timeline for breaking nail biting, week by week."
-date: 2026-04-12
+date: 2026-01-24
 slug: how-long-to-break-nail-biting-habit
 keywords:
   - how long to break nail biting habit

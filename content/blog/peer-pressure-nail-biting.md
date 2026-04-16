@@ -1,7 +1,7 @@
 ---
 title: "Peer Pressure and Nail Biting: Helping Teens Navigate Social Judgment"
 description: "Teens who bite their nails face social pressure and embarrassment. Here's how parents can help without making it worse."
-date: 2026-04-12
+date: 2026-03-15
 slug: peer-pressure-nail-biting
 keywords:
   - peer pressure nail biting

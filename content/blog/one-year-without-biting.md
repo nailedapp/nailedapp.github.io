@@ -1,7 +1,7 @@
 ---
 title: "One Year Without Nail Biting: Lessons Learned"
 description: "What a full year without nail biting actually looks like — the milestones, setbacks, and strategies that carry you from day one to day 365."
-date: 2026-04-12
+date: 2025-12-08
 slug: one-year-without-biting
 keywords:
   - one year no nail biting

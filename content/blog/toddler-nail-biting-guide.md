@@ -1,7 +1,7 @@
 ---
 title: "Toddler Nail Biting: When to Worry and What to Do"
 description: "Toddler biting nails? Learn when it's normal, when to worry, and practical steps parents can take to help little ones break the habit early."
-date: 2026-04-12
+date: 2026-03-19
 slug: toddler-nail-biting-guide
 keywords:
   - toddler nail biting

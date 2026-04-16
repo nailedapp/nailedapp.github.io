@@ -1,7 +1,7 @@
 ---
 title: "Self-Compassion in Habit Change: Stop Beating Yourself Up"
 description: "Self-criticism makes bad habits worse. Learn how self-compassion actually accelerates habit change and helps you stop nail biting for good."
-date: 2026-04-12
+date: 2026-02-25
 slug: self-compassion-habit-change
 keywords:
   - self-compassion habits

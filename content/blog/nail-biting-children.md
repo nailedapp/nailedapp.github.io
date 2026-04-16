@@ -1,7 +1,7 @@
 ---
 title: "Why Do Children Bite Their Nails? A Parent's Guide"
 description: "Nail biting in children is common — up to 33% of kids do it. Learn causes, when to worry, and evidence-based parenting strategies to help them stop."
-date: 2026-04-12
+date: 2025-12-22
 slug: nail-biting-children
 keywords:
   - nail biting children

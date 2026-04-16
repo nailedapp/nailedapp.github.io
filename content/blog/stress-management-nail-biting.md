@@ -1,7 +1,7 @@
 ---
 title: "Stress Management Techniques That Help Break Nail Biting"
 description: "Practical stress management techniques that reduce nail biting triggers. Progressive muscle relaxation, breathing exercises, mindfulness, and more."
-date: 2026-04-12
+date: 2026-02-10
 slug: stress-management-nail-biting
 keywords:
   - stress management nail biting

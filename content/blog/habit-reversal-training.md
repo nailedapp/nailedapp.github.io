@@ -1,7 +1,7 @@
 ---
 title: "Habit Reversal Training: A Proven Method for Breaking Nail Biting"
 description: "Habit reversal training (HRT) is the most effective behavioral treatment for nail biting. Learn the 5 components and how to apply them yourself."
-date: 2026-04-12
+date: 2026-02-22
 slug: habit-reversal-training
 keywords:
   - habit reversal training

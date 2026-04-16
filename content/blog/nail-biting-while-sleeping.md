@@ -1,7 +1,7 @@
 ---
 title: "Can You Bite Your Nails in Your Sleep?"
 description: "Whether nail biting during sleep is real, how it relates to sleep bruxism and other nocturnal habits, and what to do if you wake up with bitten nails."
-date: 2026-04-12
+date: 2025-11-18
 slug: nail-biting-while-sleeping
 keywords:
   - nail biting while sleeping

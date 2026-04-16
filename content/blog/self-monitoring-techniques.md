@@ -1,7 +1,7 @@
 ---
 title: "The Power of Self-Monitoring: How Tracking Changes Behavior"
 description: "How self-monitoring and behavior tracking change habits. The psychology behind why tracking works, plus practical methods from pen-and-paper to app-based tools."
-date: 2026-04-12
+date: 2025-11-15
 slug: self-monitoring-techniques
 keywords:
   - self-monitoring techniques

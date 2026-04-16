@@ -1,7 +1,7 @@
 ---
 title: "Breaking Bad Habits at Your Desk Job"
 description: "Desk jobs breed bad habits — nail biting, snacking, slouching, and more. Learn how to use environmental design and habit stacking to break them."
-date: 2026-04-12
+date: 2026-03-22
 slug: desk-job-habit-breaking
 keywords:
   - desk job habit breaking

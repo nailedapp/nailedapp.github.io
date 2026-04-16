@@ -1,7 +1,7 @@
 ---
 title: "Finding an Accountability Partner for Breaking Bad Habits"
 description: "An accountability partner can double your chances of breaking nail biting and other bad habits. Here's how to find the right one and make it work."
-date: 2026-04-12
+date: 2026-01-23
 slug: accountability-partner-habits
 keywords:
   - accountability partner habits

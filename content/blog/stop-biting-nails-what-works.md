@@ -1,7 +1,7 @@
 ---
 title: "Best Ways to Stop Biting Your Nails — What Actually Works"
 description: "An honest look at the methods that help people stop biting their nails, from bitter polish to apps to therapy. What the evidence says about each approach."
-date: 2026-04-12
+date: 2025-10-19
 slug: stop-biting-nails-what-works
 keywords:
   - best way to stop nail biting

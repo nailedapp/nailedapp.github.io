@@ -1,7 +1,7 @@
 ---
 title: "Work Deadlines and Nail Biting: Managing Stress-Driven Habits"
 description: "How work deadlines trigger nail biting and practical strategies to manage the habit during high-pressure periods without sacrificing productivity."
-date: 2026-04-12
+date: 2025-12-17
 slug: work-deadline-nail-biting
 keywords:
   - work deadline nail biting

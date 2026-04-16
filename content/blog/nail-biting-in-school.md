@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in School: Helping Students Break the Habit"
 description: "Why nail biting is so common in students, how classroom environments trigger the behavior, and practical strategies for parents, teachers, and students."
-date: 2026-04-12
+date: 2025-11-27
 slug: nail-biting-in-school
 keywords:
   - nail biting school

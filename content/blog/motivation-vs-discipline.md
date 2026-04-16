@@ -1,7 +1,7 @@
 ---
 title: "Motivation vs Discipline: What Actually Stops Nail Biting"
 description: "Motivation fades. Discipline burns out. Learn what actually works for breaking nail biting and other stubborn habits when willpower isn't enough."
-date: 2026-04-12
+date: 2026-02-06
 slug: motivation-vs-discipline
 keywords:
   - motivation vs discipline

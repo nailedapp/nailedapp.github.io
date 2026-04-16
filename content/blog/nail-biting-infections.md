@@ -1,7 +1,7 @@
 ---
 title: "Infections from Nail Biting: What You Need to Know"
 description: "Nail biting can cause bacterial, viral, and fungal infections. Learn how biting your nails introduces pathogens and what you can do to prevent infections."
-date: 2026-04-12
+date: 2025-11-22
 slug: nail-biting-infections
 keywords:
   - nail biting infection

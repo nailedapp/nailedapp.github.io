@@ -1,7 +1,7 @@
 ---
 title: "How to Keep a Trigger Journal for Nail Biting"
 description: "A trigger journal reveals exactly why you bite your nails. Learn how to build one that identifies your specific triggers and transforms them into a quit plan."
-date: 2026-04-12
+date: 2025-10-27
 slug: trigger-journal-nail-biting
 keywords:
   - trigger journal

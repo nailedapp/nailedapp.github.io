@@ -1,7 +1,7 @@
 ---
 title: "How Nail Biting Damages Your Teeth"
 description: "Nail biting causes enamel microcracking, incisal edge wear, chipping, and malocclusion. Learn specific types of dental damage, repair costs, and prevention."
-date: 2026-04-12
+date: 2025-10-23
 slug: tooth-damage-nail-biting
 keywords:
   - nail biting teeth damage

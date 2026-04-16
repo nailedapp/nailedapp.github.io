@@ -1,7 +1,7 @@
 ---
 title: "The Neuroscience of Habits: How Your Brain Creates Automatic Behaviors"
 description: "How does your brain form habits? Learn about the basal ganglia, habit loops, chunking, and why automatic behaviors are so hard to break once established."
-date: 2026-04-12
+date: 2026-02-18
 slug: neuroscience-of-habits
 keywords:
   - neuroscience habits

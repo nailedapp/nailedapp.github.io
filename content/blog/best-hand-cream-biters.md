@@ -1,7 +1,7 @@
 ---
 title: "Best Hand Creams for Nail Biters: Healing Damaged Skin"
 description: "The best hand creams for repairing skin damaged by nail biting. Dermatologist-recommended picks for cracked cuticles, raw fingertips, and dry hands."
-date: 2026-04-12
+date: 2026-03-02
 slug: best-hand-cream-biters
 keywords:
   - hand cream nail biters

@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting as a Coping Mechanism: What It Means"
 description: "Nail biting isn't just a bad habit — it's a coping mechanism. Understand why your body uses biting for emotional regulation and discover healthier alternatives."
-date: 2026-04-12
+date: 2026-02-22
 slug: nail-biting-coping-mechanism
 keywords:
   - nail biting coping mechanism

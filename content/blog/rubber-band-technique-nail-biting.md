@@ -1,7 +1,7 @@
 ---
 title: "The Rubber Band Technique for Nail Biting: Does It Actually Help?"
 description: "An honest assessment of the rubber band snapping technique for nail biting — how it works, what the research says, and why most therapists no longer recommend it."
-date: 2026-04-12
+date: 2025-10-25
 slug: rubber-band-technique-nail-biting
 keywords:
   - rubber band nail biting

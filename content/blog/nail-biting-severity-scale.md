@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Severity Scale: Where Do You Fall?"
 description: "Use this self-assessment guide to evaluate your nail biting severity. Learn the physical and psychological indicators of mild, moderate, and severe nail biting."
-date: 2026-04-12
+date: 2025-11-14
 slug: nail-biting-severity-scale
 keywords:
   - nail biting severity scale

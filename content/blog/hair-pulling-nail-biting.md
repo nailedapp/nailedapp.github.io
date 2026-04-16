@@ -1,7 +1,7 @@
 ---
 title: "Hair Pulling and Nail Biting: When BFRBs Co-Occur"
 description: "Explore the connection between hair pulling and nail biting. Learn about co-occurrence rates, shared risk factors, and treatment strategies for multiple BFRBs."
-date: 2026-04-12
+date: 2026-01-25
 slug: hair-pulling-nail-biting
 keywords:
   - hair pulling nail biting

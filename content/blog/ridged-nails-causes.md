@@ -1,7 +1,7 @@
 ---
 title: "Ridged Nails from Biting: What Causes It and How to Help"
 description: "Why nail biting causes ridges on your nails. Understand vertical and horizontal ridges, what they mean, and how to support smoother nail regrowth."
-date: 2026-04-12
+date: 2025-11-08
 slug: ridged-nails-causes
 keywords:
   - ridged nails causes

@@ -1,7 +1,7 @@
 ---
 title: "15 Reasons to Stop Biting Your Nails Today"
 description: "Fifteen concrete reasons to quit nail biting, from health risks and dental damage to social confidence and infection prevention. No fluff, just facts."
-date: 2026-04-12
+date: 2026-01-08
 slug: motivational-reasons-stop-biting
 keywords:
   - reasons stop nail biting

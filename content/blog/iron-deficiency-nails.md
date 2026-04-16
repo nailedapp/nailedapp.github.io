@@ -1,7 +1,7 @@
 ---
 title: "Iron Deficiency and Nail Health: What You Should Know"
 description: "Iron deficiency affects your nails in visible ways. Learn the signs, understand the connection between anemia and nail health, and find out what to do about it."
-date: 2026-04-12
+date: 2025-10-20
 slug: iron-deficiency-nails
 keywords:
   - iron deficiency nails

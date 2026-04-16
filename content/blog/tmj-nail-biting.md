@@ -1,7 +1,7 @@
 ---
 title: "TMJ and Nail Biting: Is There a Connection?"
 description: "Discover how nail biting contributes to TMJ disorders, jaw pain, and temporomandibular joint problems. Symptoms, treatment, and when to see a specialist."
-date: 2026-04-12
+date: 2025-10-30
 slug: tmj-nail-biting
 keywords:
   - TMJ nail biting

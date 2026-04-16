@@ -1,7 +1,7 @@
 ---
 title: "When to Seek Professional Help for Nail Biting"
 description: "Nail biting isn't always a DIY problem. Here's how to know when it's time to see a therapist or doctor, and what professional treatment actually looks like."
-date: 2026-04-12
+date: 2025-11-11
 slug: professional-help-nail-biting
 keywords:
   - professional help nail biting

@@ -1,7 +1,7 @@
 ---
 title: "Competing Response Training: Replacing Nail Biting with Better Habits"
 description: "Master competing response training to replace nail biting with healthier habits. Step-by-step guide to choosing, practicing, and maintaining replacement behaviors."
-date: 2026-04-12
+date: 2025-11-18
 slug: competing-response-training
 keywords:
   - competing response training

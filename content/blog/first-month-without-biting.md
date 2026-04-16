@@ -1,7 +1,7 @@
 ---
 title: "One Month Without Nail Biting: Milestones and Tips"
 description: "What happens after 30 days without nail biting? Physical recovery, psychological shifts, and practical tips for the one-month milestone."
-date: 2026-04-12
+date: 2025-12-12
 slug: first-month-without-biting
 keywords:
   - first month no nail biting

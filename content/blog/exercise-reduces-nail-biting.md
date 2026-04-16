@@ -1,7 +1,7 @@
 ---
 title: "How Exercise Reduces Nail Biting Urges"
 description: "Exercise lowers anxiety and redirects restless energy that drives nail biting. Learn which workouts help most and how to use movement to break the habit."
-date: 2026-04-12
+date: 2025-10-21
 slug: exercise-reduces-nail-biting
 keywords:
   - exercise nail biting

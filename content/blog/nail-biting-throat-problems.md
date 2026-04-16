@@ -1,7 +1,7 @@
 ---
 title: "Can Swallowed Nail Fragments Cause Throat Problems?"
 description: "Swallowed nail fragments can scratch your throat, get stuck in your esophagus, or cause choking. Learn the real risks and when to see a doctor."
-date: 2026-04-12
+date: 2026-01-30
 slug: nail-biting-throat-problems
 keywords:
   - swallowing nails throat

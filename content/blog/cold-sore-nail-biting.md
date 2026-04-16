@@ -1,7 +1,7 @@
 ---
 title: "Can Nail Biting Cause Cold Sores?"
 description: "Learn how nail biting can spread HSV-1, cause cold sores, and lead to herpes whitlow. Prevention tips and treatment options explained."
-date: 2026-04-12
+date: 2025-11-12
 slug: cold-sore-nail-biting
 keywords:
   - cold sore nail biting

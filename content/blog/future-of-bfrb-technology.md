@@ -1,7 +1,7 @@
 ---
 title: "The Future of BFRB Technology: What's Coming Next"
 description: "AI, wearables, and digital therapeutics are reshaping BFRB treatment. Here's what's on the horizon for hair pulling, nail biting, and skin picking tech."
-date: 2026-04-12
+date: 2026-04-01
 slug: future-of-bfrb-technology
 keywords:
   - future BFRB technology

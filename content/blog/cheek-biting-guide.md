@@ -1,7 +1,7 @@
 ---
 title: "Cheek Biting: Another Common BFRB"
 description: "Learn about cheek biting (morsicatio buccarum) as a BFRB. Understand causes, oral tissue damage, treatment approaches, and the connection to nail biting."
-date: 2026-04-12
+date: 2026-02-21
 slug: cheek-biting-guide
 keywords:
   - cheek biting

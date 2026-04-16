@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting During Panic Attacks: What's Happening"
 description: "Why nail biting intensifies during panic attacks, the neuroscience behind it, and grounding techniques that address both the panic and the behavior."
-date: 2026-04-12
+date: 2025-12-19
 slug: nail-biting-panic-attacks
 keywords:
   - nail biting panic attack

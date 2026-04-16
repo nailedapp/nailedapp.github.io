@@ -1,7 +1,7 @@
 ---
 title: "Nail Discoloration After Biting: Causes and Solutions"
 description: "Why nails change color after biting — yellow, white, green, or dark spots. Learn the causes of nail discoloration and when to see a doctor."
-date: 2026-04-12
+date: 2026-01-31
 slug: nail-discoloration-causes
 keywords:
   - nail discoloration causes

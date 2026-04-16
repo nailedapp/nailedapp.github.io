@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in the DSM-5: How It's Classified"
 description: "Learn how nail biting is classified in the DSM-5 and ICD-10, its diagnostic criteria, and what this means for clinical recognition and treatment options."
-date: 2026-04-12
+date: 2025-12-31
 slug: nail-biting-dsm-5
 keywords:
   - nail biting DSM-5

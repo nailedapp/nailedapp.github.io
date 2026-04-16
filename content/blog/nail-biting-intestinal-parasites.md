@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Intestinal Parasites: Understanding the Risk"
 description: "Nail biting is a primary transmission route for intestinal parasites like pinworms. Learn how it happens, symptoms to watch for, and how to break the cycle."
-date: 2026-04-12
+date: 2026-03-08
 slug: nail-biting-intestinal-parasites
 keywords:
   - nail biting parasites

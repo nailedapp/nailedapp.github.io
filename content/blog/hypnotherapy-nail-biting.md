@@ -1,7 +1,7 @@
 ---
 title: "Hypnotherapy for Nail Biting: Does It Work?"
 description: "What hypnotherapy for nail biting actually involves, what the evidence says, costs, limitations, and how to find a qualified practitioner."
-date: 2026-04-12
+date: 2026-03-28
 slug: hypnotherapy-nail-biting
 keywords:
   - hypnotherapy nail biting

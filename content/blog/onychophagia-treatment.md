@@ -1,7 +1,7 @@
 ---
 title: "Onychophagia Treatment Options: From Therapy to Digital Tools"
 description: "Comprehensive guide to onychophagia treatment options including HRT, CBT, NAC supplements, bitter polish, and digital tools backed by clinical research."
-date: 2026-04-12
+date: 2025-10-31
 slug: onychophagia-treatment
 keywords:
   - onychophagia treatment

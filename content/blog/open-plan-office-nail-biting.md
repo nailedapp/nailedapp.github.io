@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Open Plan Offices: The Visibility Problem"
 description: "How open plan offices make nail biting harder to hide and easier to fix. Workplace strategies, desk setups, and tools that help without drawing attention."
-date: 2026-04-12
+date: 2026-02-23
 slug: open-plan-office-nail-biting
 keywords:
   - open plan office nail biting

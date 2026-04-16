@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting as Self-Soothing: The Neuroscience Behind It"
 description: "Discover why nail biting feels calming. Explore the neuroscience of self-soothing — dopamine, endorphins, and autonomic nervous system regulation explained."
-date: 2026-04-12
+date: 2025-12-26
 slug: nail-biting-self-soothing
 keywords:
   - self-soothing nail biting

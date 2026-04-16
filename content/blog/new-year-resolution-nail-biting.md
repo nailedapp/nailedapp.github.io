@@ -1,7 +1,7 @@
 ---
 title: "New Year's Resolution: Stop Biting Nails in 2026"
 description: "Make 2026 the year you finally stop biting your nails. A realistic, no-nonsense plan that survives past January with proven habit-breaking strategies."
-date: 2026-04-12
+date: 2026-01-13
 slug: new-year-resolution-nail-biting
 keywords:
   - new year resolution nail biting

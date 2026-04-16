@@ -1,7 +1,7 @@
 ---
 title: "Famous People Who Bite Their Nails: You're Not Alone"
 description: "From presidents to pop stars, famous nail biters prove the habit crosses every boundary. Meet the notable people who share your habit."
-date: 2026-04-12
+date: 2026-03-01
 slug: famous-nail-biters
 keywords:
   - famous nail biters

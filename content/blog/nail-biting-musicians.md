@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Musicians: When Your Instrument Requires Healthy Nails"
 description: "How nail biting affects guitarists, pianists, and other musicians. Practical strategies to protect your nails when your livelihood depends on them."
-date: 2026-04-12
+date: 2025-12-24
 slug: nail-biting-musicians
 keywords:
   - musician nail biting

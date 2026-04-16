@@ -1,7 +1,7 @@
 ---
 title: "Keratin and Nail Recovery After Biting"
 description: "How biting disrupts keratin in nails and what helps recovery. Keratin biology, treatments, diet support, and what actually rebuilds damaged nails."
-date: 2026-04-12
+date: 2026-01-08
 slug: keratin-nail-recovery
 keywords:
   - keratin nails after damage

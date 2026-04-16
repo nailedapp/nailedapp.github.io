@@ -1,7 +1,7 @@
 ---
 title: "KeenLite Alternative: Wristband vs Camera Detection"
 description: "Comparing KeenLite and HabitAware wristbands with camera-based detection like Nailed. Pros, cons, and when each approach makes more sense."
-date: 2026-04-12
+date: 2026-04-10
 slug: keenlite-alternative
 keywords:
   - KeenLite alternative

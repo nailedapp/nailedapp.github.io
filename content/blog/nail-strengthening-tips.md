@@ -1,7 +1,7 @@
 ---
 title: "Nail Strengthening Tips for Former Biters"
 description: "Proven nail strengthening strategies for nails damaged by biting. Hardeners, diet, filing techniques, and what actually works vs marketing claims."
-date: 2026-04-12
+date: 2025-12-23
 slug: nail-strengthening-tips
 keywords:
   - nail strengthening after damage

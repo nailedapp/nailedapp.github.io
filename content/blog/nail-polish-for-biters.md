@@ -1,7 +1,7 @@
 ---
 title: "Best Nail Polish for Nail Biters: From Bitter to Beautiful"
 description: "A practical breakdown of the best nail polishes for nail biters — bitter deterrents, strengtheners, and regular polish that works on short nails."
-date: 2026-04-12
+date: 2026-03-04
 slug: nail-polish-for-biters
 keywords:
   - nail polish biters

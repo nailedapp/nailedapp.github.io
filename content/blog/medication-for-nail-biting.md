@@ -1,7 +1,7 @@
 ---
 title: "Medication for Nail Biting: Options and Effectiveness"
 description: "SSRIs, NAC, and other medications used to treat nail biting. What the research says about pharmacological options, when they're appropriate, and what to expect."
-date: 2026-04-12
+date: 2025-12-11
 slug: medication-for-nail-biting
 keywords:
   - medication nail biting

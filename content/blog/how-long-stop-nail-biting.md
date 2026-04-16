@@ -1,7 +1,7 @@
 ---
 title: "How Long Does It Take to Stop Biting Nails? Realistic Timelines"
 description: "Forget the 21-day myth. Here's how long it actually takes to quit nail biting based on research, and what determines whether you'll succeed."
-date: 2026-04-12
+date: 2025-12-27
 slug: how-long-stop-nail-biting
 keywords:
   - how long stop nail biting

@@ -1,7 +1,7 @@
 ---
 title: "A Healthy Nail Care Routine for Recovering Biters"
 description: "Build a nail care routine that supports recovery from nail biting. Practical tips for strengthening, moisturizing, and protecting damaged nails as they grow."
-date: 2026-04-12
+date: 2025-11-04
 slug: healthy-nail-care-routine
 keywords:
   - healthy nail care routine

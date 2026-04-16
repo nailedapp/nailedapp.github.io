@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Healthcare Workers: Hygiene Implications"
 description: "Why nail biting is a serious hygiene concern for nurses, doctors, and other healthcare workers — and practical strategies for stopping in clinical settings."
-date: 2026-04-12
+date: 2026-02-13
 slug: nail-biting-healthcare-workers
 keywords:
   - nail biting healthcare

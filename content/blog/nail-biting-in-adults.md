@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Adults — Why It's More Common Than You Think"
 description: "Up to 30% of adults bite their nails. Learn the real prevalence data, why adults keep biting, and why shame makes the habit harder to break."
-date: 2026-04-12
+date: 2026-01-07
 slug: nail-biting-in-adults
 keywords:
   - nail biting adults

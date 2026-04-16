@@ -1,7 +1,7 @@
 ---
 title: "OCD Spectrum Disorders: Where Nail Biting Fits"
 description: "Explore the OCD spectrum of disorders including BFRBs, trichotillomania, excoriation, and hoarding. Learn where nail biting fits and what these conditions share."
-date: 2026-04-12
+date: 2025-12-17
 slug: ocd-spectrum-disorders
 keywords:
   - OCD spectrum disorders

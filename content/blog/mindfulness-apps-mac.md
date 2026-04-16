@@ -1,7 +1,7 @@
 ---
 title: "Mindfulness Apps for Mac Users"
 description: "The best mindfulness and meditation apps for macOS. Compare Mac-native options for meditation, breathing exercises, focus enhancement, and stress relief."
-date: 2026-04-12
+date: 2025-12-16
 slug: mindfulness-apps-mac
 keywords:
   - mindfulness apps Mac

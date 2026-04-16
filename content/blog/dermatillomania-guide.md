@@ -1,7 +1,7 @@
 ---
 title: "Dermatillomania: Understanding Skin-Picking Disorder"
 description: "Complete guide to dermatillomania (excoriation disorder). Learn about symptoms, clinical classification, prevalence, treatment options, and where to find support."
-date: 2026-04-12
+date: 2026-02-27
 slug: dermatillomania-guide
 keywords:
   - dermatillomania

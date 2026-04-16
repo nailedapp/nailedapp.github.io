@@ -1,7 +1,7 @@
 ---
 title: "Can a Gel Manicure Stop Nail Biting?"
 description: "Whether gel manicures actually deter nail biting, how the thick coating works as a barrier, costs and risks, and when it helps versus when it doesn't."
-date: 2026-04-12
+date: 2026-03-18
 slug: gel-manicure-nail-biting
 keywords:
   - gel manicure nail biting

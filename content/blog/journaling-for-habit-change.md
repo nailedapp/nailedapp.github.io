@@ -1,7 +1,7 @@
 ---
 title: "Journaling for Habit Change: A Practical Guide for Nail Biters"
 description: "Journaling is one of the most effective tools for breaking nail biting. Here's a practical, no-fluff guide to using a habit journal that actually works."
-date: 2026-04-12
+date: 2026-01-12
 slug: journaling-for-habit-change
 keywords:
   - journaling habits

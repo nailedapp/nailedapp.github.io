@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting While Waiting: Why Idle Time Triggers the Habit"
 description: "Why waiting rooms, lines, and idle moments trigger nail biting, the neuroscience of boredom-driven habits, and practical strategies for waiting without biting."
-date: 2026-04-12
+date: 2025-12-01
 slug: nail-biting-while-waiting
 keywords:
   - nail biting while waiting

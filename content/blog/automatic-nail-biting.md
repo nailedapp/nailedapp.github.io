@@ -1,7 +1,7 @@
 ---
 title: "Automatic vs. Focused Nail Biting: Understanding Your Habit"
 description: "Learn the difference between automatic and focused nail biting. Understanding which type you have changes how you treat it effectively."
-date: 2026-04-12
+date: 2025-11-05
 slug: automatic-nail-biting
 keywords:
   - automatic nail biting

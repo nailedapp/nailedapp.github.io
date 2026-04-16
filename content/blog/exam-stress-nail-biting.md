@@ -1,7 +1,7 @@
 ---
 title: "Exam Stress and Nail Biting: A Student's Guide"
 description: "How exam stress triggers nail biting in students and practical strategies for managing the habit during study sessions, test prep, and exam day."
-date: 2026-04-12
+date: 2026-03-13
 slug: exam-stress-nail-biting
 keywords:
   - exam stress nail biting

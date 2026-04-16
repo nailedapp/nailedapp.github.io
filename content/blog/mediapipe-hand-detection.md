@@ -1,7 +1,7 @@
 ---
 title: "How MediaPipe Powers Real-Time Hand Detection"
 description: "A technical look at how Google's MediaPipe framework detects hands in real time. Learn about hand landmarks, face detection, and how Nailed uses it."
-date: 2026-04-12
+date: 2026-03-29
 slug: mediapipe-hand-detection
 keywords:
   - MediaPipe hand detection

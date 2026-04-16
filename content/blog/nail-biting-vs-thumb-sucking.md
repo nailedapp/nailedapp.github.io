@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting vs Thumb Sucking: Different Habits, Similar Roots"
 description: "Compare nail biting and thumb sucking — two oral habits with overlapping causes but different trajectories. Learn how age, triggers, and treatment differ."
-date: 2026-04-12
+date: 2026-02-19
 slug: nail-biting-vs-thumb-sucking
 keywords:
   - nail biting vs thumb sucking

@@ -1,7 +1,7 @@
 ---
 title: "Can Nail Biting Cause Permanent Damage?"
 description: "Can nail biting cause permanent damage to your nails, teeth, or health? An honest look at what's reversible, what's not, and where the line is."
-date: 2026-04-12
+date: 2026-04-13
 slug: permanent-nail-damage
 keywords:
   - permanent nail damage

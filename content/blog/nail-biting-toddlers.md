@@ -1,7 +1,7 @@
 ---
 title: "Toddlers Who Bite Their Nails: When to Worry"
 description: "Is your toddler biting their nails? Learn when it's normal exploration, when it signals a problem, and what strategies actually help young children stop."
-date: 2026-04-12
+date: 2026-01-10
 slug: nail-biting-toddlers
 keywords:
   - nail biting toddlers

@@ -1,7 +1,7 @@
 ---
 title: "The Social Stigma of Nail Biting: Why We Hide It"
 description: "Nail biting carries real social stigma. Learn why people hide the habit, how it affects relationships and work, and what to do about the shame."
-date: 2026-04-12
+date: 2026-01-03
 slug: nail-biting-social-stigma
 keywords:
   - nail biting social stigma

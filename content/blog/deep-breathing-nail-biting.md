@@ -1,7 +1,7 @@
 ---
 title: "Deep Breathing Techniques to Stop Nail Biting in the Moment"
 description: "Learn specific deep breathing exercises that interrupt the nail biting urge. Step-by-step techniques you can use anywhere, anytime."
-date: 2026-04-12
+date: 2025-12-21
 slug: deep-breathing-nail-biting
 keywords:
   - deep breathing nail biting

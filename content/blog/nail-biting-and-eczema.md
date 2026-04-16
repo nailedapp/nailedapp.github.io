@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Eczema: When Skin Conditions and BFRBs Overlap"
 description: "How nail biting and eczema interact, why the combination is harder to treat, and practical strategies for managing both conditions simultaneously."
-date: 2026-04-12
+date: 2026-01-12
 slug: nail-biting-and-eczema
 keywords:
   - nail biting eczema

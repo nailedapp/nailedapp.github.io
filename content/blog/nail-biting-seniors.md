@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Seniors: It's Never Too Late to Stop"
 description: "Nail biting doesn't have an age limit. If you've bitten your nails for decades, here's why it's worth stopping now and realistic strategies for older adults."
-date: 2026-04-12
+date: 2026-02-15
 slug: nail-biting-seniors
 keywords:
   - nail biting seniors

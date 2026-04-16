@@ -1,7 +1,7 @@
 ---
 title: "How Clinicians Assess Nail Biting Severity"
 description: "Learn how psychologists and clinicians assess nail biting severity using tools like the Milwaukee Inventory, adapted Y-BOCS, clinical interviews, and photo scales."
-date: 2026-04-12
+date: 2025-11-02
 slug: clinical-assessment-nail-biting
 keywords:
   - clinical assessment nail biting

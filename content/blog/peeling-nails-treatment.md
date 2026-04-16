@@ -1,7 +1,7 @@
 ---
 title: "Peeling Nails: Causes, Treatment, and Prevention"
 description: "Why nails peel and split in layers. Understand onychoschizia — its causes from moisture cycling to nutritional factors — and how to stop peeling nails."
-date: 2026-04-12
+date: 2026-02-16
 slug: peeling-nails-treatment
 keywords:
   - peeling nails treatment

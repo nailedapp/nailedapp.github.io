@@ -1,7 +1,7 @@
 ---
 title: "What Pediatricians Say About Nail Biting in Children"
 description: "Pediatricians share what parents need to know about nail biting in children — when it's normal, when it isn't, and what treatments actually work."
-date: 2026-04-12
+date: 2025-10-29
 slug: pediatrician-nail-biting
 keywords:
   - pediatrician nail biting

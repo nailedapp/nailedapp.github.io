@@ -1,7 +1,7 @@
 ---
 title: "Hangnails from Nail Biting: Prevention and Treatment Guide"
 description: "Nail biters get hangnails constantly. Learn why biting causes them, how to treat hangnails without making them worse, and how to prevent them for good."
-date: 2026-04-12
+date: 2026-03-21
 slug: hangnails-prevention-treatment
 keywords:
   - hangnails

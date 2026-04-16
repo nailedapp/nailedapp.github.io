@@ -1,7 +1,7 @@
 ---
 title: "Damaged Skin Around Nails from Biting: Repair Guide"
 description: "Nail biting destroys the skin around your nails. Learn how to repair damaged cuticles, heal the perionychium, and restore healthy skin around your nails."
-date: 2026-04-12
+date: 2025-11-10
 slug: nail-biting-skin-around-nails
 keywords:
   - damaged skin nails

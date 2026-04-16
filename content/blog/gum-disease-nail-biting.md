@@ -1,7 +1,7 @@
 ---
 title: "Gum Disease and Nail Biting: The Hidden Connection"
 description: "Nail biting introduces bacteria and sharp fragments to your gums, increasing gingivitis and periodontal disease risk. Learn the connection and prevention."
-date: 2026-04-12
+date: 2025-12-28
 slug: gum-disease-nail-biting
 keywords:
   - gum disease nail biting

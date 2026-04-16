@@ -1,7 +1,7 @@
 ---
 title: "Zinc for Nail Health: Does It Help After Biting?"
 description: "Does zinc help nails recover after biting? Learn how zinc affects nail growth, signs of deficiency, the best food sources, and whether supplements are worth it."
-date: 2026-04-12
+date: 2025-12-18
 slug: zinc-nail-health
 keywords:
   - zinc nail health

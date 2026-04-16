@@ -1,7 +1,7 @@
 ---
 title: "Fidget Toys for Nail Biting: Do They Actually Help?"
 description: "Which fidget toys help with nail biting, the evidence behind them, when they work and when they don't, and why awareness is the missing piece."
-date: 2026-04-12
+date: 2026-03-16
 slug: fidget-toys-nail-biting
 keywords:
   - fidget toy nail biting

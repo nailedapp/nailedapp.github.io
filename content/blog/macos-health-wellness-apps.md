@@ -1,7 +1,7 @@
 ---
 title: "Best macOS Health and Wellness Apps for 2025"
 description: "The best health and wellness apps for Mac in 2025. From posture to focus to habit tracking — apps built for people who work at a desk all day."
-date: 2026-04-12
+date: 2025-10-28
 slug: macos-health-wellness-apps
 keywords:
   - macOS health apps

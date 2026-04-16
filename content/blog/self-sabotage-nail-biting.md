@@ -1,7 +1,7 @@
 ---
 title: "Self-Sabotage and Nail Biting: Breaking the Cycle of Self-Defeat"
 description: "Understand the link between self-sabotage and nail biting. Learn why you undermine your own progress and how to break the self-defeating cycle."
-date: 2026-04-12
+date: 2026-02-12
 slug: self-sabotage-nail-biting
 keywords:
   - self-sabotage nail biting

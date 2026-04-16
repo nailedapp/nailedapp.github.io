@@ -1,7 +1,7 @@
 ---
 title: "Body Image and Nail Biting: How Hands Affect Self-Perception"
 description: "Discover how nail biting affects body image and self-confidence. Learn why bitten nails impact self-perception and what to do about the shame cycle."
-date: 2026-04-12
+date: 2026-04-11
 slug: body-image-nail-biting
 keywords:
   - body image nails

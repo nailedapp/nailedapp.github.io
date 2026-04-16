@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Food Service: Hygiene Concerns and Solutions"
 description: "Nail biting in the restaurant industry creates real hygiene risks. Learn the health code facts, contamination concerns, and practical ways to stop."
-date: 2026-04-12
+date: 2025-11-13
 slug: nail-biting-food-service
 keywords:
   - nail biting food service

@@ -1,7 +1,7 @@
 ---
 title: "Does Biotin Help Nails Grow Back After Biting?"
 description: "What the evidence says about biotin for nail growth after biting. Dosage, timeline, side effects, and other supplements worth considering."
-date: 2026-04-12
+date: 2026-03-20
 slug: biotin-nail-growth
 keywords:
   - biotin nail growth

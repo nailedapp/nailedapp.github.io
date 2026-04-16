@@ -1,7 +1,7 @@
 ---
 title: "Mindfulness Techniques to Stop Nail Biting"
 description: "Practical mindfulness techniques for nail biting: body scan, urge surfing, mindful pauses. How present-moment awareness breaks automatic habits."
-date: 2026-04-12
+date: 2026-04-03
 slug: mindfulness-nail-biting
 keywords:
   - mindfulness nail biting

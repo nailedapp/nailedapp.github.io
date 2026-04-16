@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in High-Stakes Professions: Lawyers"
 description: "Why lawyers are prone to nail biting, how the legal profession's stress patterns drive the habit, and practical strategies for managing it in court and at the office."
-date: 2026-04-12
+date: 2025-11-29
 slug: nail-biting-lawyers
 keywords:
   - lawyer nail biting

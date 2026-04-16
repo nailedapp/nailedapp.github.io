@@ -1,7 +1,7 @@
 ---
 title: "Operant Conditioning and Habit Breaking: How Feedback Changes Behavior"
 description: "Operant conditioning explains how consequences shape behavior. Learn how reinforcement, punishment, and real-time feedback help break habits like nail biting."
-date: 2026-04-12
+date: 2025-11-24
 slug: operant-conditioning-habits
 keywords:
   - operant conditioning habits

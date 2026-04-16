@@ -1,7 +1,7 @@
 ---
 title: "Stop Nail Biting at Work: Strategies for the Office"
 description: "Practical strategies to stop biting your nails during meetings, Zoom calls, and desk work. Workplace-specific tips that actually work."
-date: 2026-04-12
+date: 2026-01-09
 slug: nail-biting-at-work-meetings
 keywords:
   - nail biting work meeting

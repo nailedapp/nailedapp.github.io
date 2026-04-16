@@ -1,7 +1,7 @@
 ---
 title: "Anxiety Management Techniques for Daily Life"
 description: "Evidence-based anxiety management techniques you can use every day. From grounding exercises to cognitive strategies, practical tools for reducing anxiety."
-date: 2026-04-12
+date: 2026-02-16
 slug: anxiety-management-techniques
 keywords:
   - anxiety management techniques

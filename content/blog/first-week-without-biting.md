@@ -1,7 +1,7 @@
 ---
 title: "Your First Week Without Nail Biting: What to Expect"
 description: "The first week without nail biting is the hardest. Here's a day-by-day guide to what happens, what to watch for, and how to get through it."
-date: 2026-04-12
+date: 2025-11-22
 slug: first-week-without-biting
 keywords:
   - first week no nail biting

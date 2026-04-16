@@ -1,7 +1,7 @@
 ---
 title: "Why WebAssembly Apps Offer Better Privacy Than Cloud-Based Tools"
 description: "Learn how WebAssembly enables complex ML tasks locally on your device. Compare WASM privacy to cloud processing with real app examples."
-date: 2026-04-12
+date: 2025-11-03
 slug: webassembly-privacy-apps
 keywords:
   - WebAssembly app privacy

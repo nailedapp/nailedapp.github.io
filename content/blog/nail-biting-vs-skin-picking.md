@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting vs Skin Picking: Comparing Two Common BFRBs"
 description: "Compare nail biting and skin picking — two of the most common body-focused repetitive behaviors. Learn how they differ in triggers, treatment, and impact."
-date: 2026-04-12
+date: 2026-03-07
 slug: nail-biting-vs-skin-picking
 keywords:
   - nail biting vs skin picking

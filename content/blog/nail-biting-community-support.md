@@ -1,7 +1,7 @@
 ---
 title: "Finding Support: Nail Biting Communities and Resources"
 description: "Discover nail biting support communities on Reddit, the TLC Foundation, BFRB groups, and online forums that can help you stop for good."
-date: 2026-04-12
+date: 2025-12-27
 slug: nail-biting-community-support
 keywords:
   - nail biting community

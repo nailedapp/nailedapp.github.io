@@ -1,7 +1,7 @@
 ---
 title: "Digital Health Interventions: How Apps Are Changing Habit Formation"
 description: "How digital health interventions and mHealth apps use behavioral science to change habits. Explore the evidence behind app-based behavior change tools."
-date: 2026-04-12
+date: 2026-01-22
 slug: digital-health-interventions
 keywords:
   - digital health interventions

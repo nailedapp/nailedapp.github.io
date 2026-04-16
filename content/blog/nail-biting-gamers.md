@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Gamers: Why Gaming Sessions Trigger the Habit"
 description: "Gaming and nail biting go hand in hand. Learn why gaming sessions trigger biting, how it affects your gameplay, and practical ways to stop."
-date: 2026-04-12
+date: 2025-11-11
 slug: nail-biting-gamers
 keywords:
   - gamer nail biting

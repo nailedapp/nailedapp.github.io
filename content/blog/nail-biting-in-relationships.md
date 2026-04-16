@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Relationships: When Habits Become a Point of Friction"
 description: "Nail biting can cause friction in relationships. Learn why it bothers partners, how to communicate about it, and when the issue is really about control."
-date: 2026-04-12
+date: 2025-10-25
 slug: nail-biting-in-relationships
 keywords:
   - nail biting relationships

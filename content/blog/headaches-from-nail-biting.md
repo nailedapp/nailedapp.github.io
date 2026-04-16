@@ -1,7 +1,7 @@
 ---
 title: "Can Nail Biting Cause Headaches?"
 description: "Learn how nail biting causes tension headaches and TMJ-related head pain. Understand the jaw-headache connection and practical prevention strategies."
-date: 2026-04-12
+date: 2025-11-01
 slug: headaches-from-nail-biting
 keywords:
   - headaches nail biting

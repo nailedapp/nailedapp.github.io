@@ -1,7 +1,7 @@
 ---
 title: "When to See a Dermatologist About Nail Biting"
 description: "Learn when nail biting requires professional help. Signs you need a dermatologist, what to expect at your appointment, and treatment options."
-date: 2026-04-12
+date: 2026-02-11
 slug: nail-biting-dermatologist
 keywords:
   - nail biting dermatologist

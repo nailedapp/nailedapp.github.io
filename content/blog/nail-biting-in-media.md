@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Movies and TV: How Media Portrays the Habit"
 description: "From nervous sitcom ticks to thriller tension, nail biting in movies and TV shapes how we see the habit. A look at media portrayals and their impact."
-date: 2026-04-12
+date: 2025-12-20
 slug: nail-biting-in-media
 keywords:
   - nail biting movies TV

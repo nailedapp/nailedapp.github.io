@@ -1,7 +1,7 @@
 ---
 title: "How Sleep Quality Affects Your Habits: The Tired-Brain Connection"
 description: "Poor sleep weakens impulse control, raises anxiety, and fuels habits like nail biting. Learn how sleep deprivation sabotages your willpower and what to do."
-date: 2026-04-12
+date: 2025-12-02
 slug: sleep-quality-habits
 keywords:
   - sleep quality habits

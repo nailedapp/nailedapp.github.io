@@ -1,7 +1,7 @@
 ---
 title: "Habit Stacking: Using Existing Routines to Break Nail Biting"
 description: "Habit stacking uses your current routines as anchors for new behaviors. Learn how to apply this technique from Atomic Habits to stop nail biting for good."
-date: 2026-04-12
+date: 2026-03-14
 slug: habit-stacking-nail-biting
 keywords:
   - habit stacking nail biting

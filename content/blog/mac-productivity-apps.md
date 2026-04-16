@@ -1,7 +1,7 @@
 ---
 title: "Mac Productivity Apps for Better Habits"
 description: "A guide to Mac productivity apps that help build better habits. From menu bar tools to wellness trackers, find the right macOS apps for your workflow."
-date: 2026-04-12
+date: 2025-10-24
 slug: mac-productivity-apps
 keywords:
   - Mac productivity apps

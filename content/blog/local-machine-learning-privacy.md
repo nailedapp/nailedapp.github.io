@@ -1,7 +1,7 @@
 ---
 title: "Local Machine Learning: Why On-Device Processing Matters for Privacy"
 description: "Local machine learning keeps your data on your device. Learn why on-device processing matters for privacy and how apps like Nailed use edge ML."
-date: 2026-04-12
+date: 2026-03-11
 slug: local-machine-learning-privacy
 keywords:
   - local machine learning

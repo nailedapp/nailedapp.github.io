@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Job Interviews: Making a Good Impression"
 description: "Job interviews trigger nail biting from anxiety. Learn how to manage pre-interview anxiety, protect your nails, and present your best professional image."
-date: 2026-04-12
+date: 2026-01-19
 slug: nail-biting-job-interview
 keywords:
   - nail biting job interview

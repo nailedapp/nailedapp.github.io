@@ -1,7 +1,7 @@
 ---
 title: "Stop Biting Your Nails Before Your Wedding: A Timeline"
 description: "A week-by-week plan to stop nail biting before your wedding. Covers realistic timelines, recovery stages, and strategies that work under deadline pressure."
-date: 2026-04-12
+date: 2025-12-14
 slug: stop-nail-biting-before-wedding
 keywords:
   - stop nail biting before wedding

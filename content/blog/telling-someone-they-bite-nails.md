@@ -1,7 +1,7 @@
 ---
 title: "How to Tell Someone They Bite Their Nails (Without Being Rude)"
 description: "Want to tell someone they bite their nails without offending them? Learn the right timing, words, and approach for a sensitive conversation about habits."
-date: 2026-04-12
+date: 2026-04-09
 slug: telling-someone-they-bite-nails
 keywords:
   - tell someone nail biting

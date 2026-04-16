@@ -1,7 +1,7 @@
 ---
 title: "Identity-Based Habits: Becoming a Person Who Doesn't Bite Nails"
 description: "Stop focusing on what you want to achieve and start focusing on who you want to become. Identity-based habits are the key to lasting behavior change."
-date: 2026-04-12
+date: 2025-11-09
 slug: identity-based-habits
 keywords:
   - identity habits

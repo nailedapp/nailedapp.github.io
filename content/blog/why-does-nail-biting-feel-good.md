@@ -1,7 +1,7 @@
 ---
 title: "Why Does Nail Biting Feel Good? The Neuroscience of the Urge"
 description: "Nail biting feels satisfying because of dopamine, endorphins, and sensory regulation. Here's the neuroscience behind the pleasure and why knowing it helps."
-date: 2026-04-12
+date: 2025-12-24
 slug: why-does-nail-biting-feel-good
 keywords:
   - why nail biting feels good

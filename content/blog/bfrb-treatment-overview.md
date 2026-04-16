@@ -1,7 +1,7 @@
 ---
 title: "BFRB Treatment Options: A Comprehensive Overview"
 description: "Overview of evidence-based BFRB treatments including HRT, ComB, ACT, medication, digital tools, and support groups. Learn what works and the evidence behind each."
-date: 2026-04-12
+date: 2026-03-31
 slug: bfrb-treatment-overview
 keywords:
   - BFRB treatment

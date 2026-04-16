@@ -1,7 +1,7 @@
 ---
 title: "Growth Mindset and Breaking Habits: Believing You Can Change"
 description: "A fixed mindset keeps bad habits locked in place. Learn how growth mindset principles help you break nail biting and other stubborn behaviors."
-date: 2026-04-12
+date: 2026-01-28
 slug: growth-mindset-breaking-habits
 keywords:
   - growth mindset habits

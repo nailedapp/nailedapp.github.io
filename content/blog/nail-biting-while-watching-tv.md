@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting While Watching TV: Breaking the Habit"
 description: "TV watching is a major trigger for nail biting. Learn why screen time causes unconscious biting and practical strategies to keep your hands busy."
-date: 2026-04-12
+date: 2026-02-15
 slug: nail-biting-while-watching-tv
 keywords:
   - nail biting watching TV

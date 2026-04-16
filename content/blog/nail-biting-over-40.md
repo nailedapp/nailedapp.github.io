@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting After 40: Breaking a Lifelong Habit"
 description: "Think you're too old to stop biting your nails? Neuroplasticity research says otherwise. Practical strategies for adults breaking a decades-long habit."
-date: 2026-04-12
+date: 2026-03-13
 slug: nail-biting-over-40
 keywords:
   - nail biting adults over 40

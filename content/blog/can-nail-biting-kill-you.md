@@ -1,7 +1,7 @@
 ---
 title: "Can Nail Biting Kill You? The Extremely Rare but Real Risks"
 description: "Can nail biting actually kill you? We cover the documented fatal cases, the infections involved, and why the real risks are serious but rarely life-threatening."
-date: 2026-04-12
+date: 2026-02-14
 slug: can-nail-biting-kill-you
 keywords:
   - can nail biting kill you

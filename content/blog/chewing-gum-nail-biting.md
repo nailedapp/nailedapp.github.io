@@ -1,7 +1,7 @@
 ---
 title: "Does Chewing Gum Help Stop Nail Biting?"
 description: "Whether chewing gum is an effective substitute for nail biting, how oral fixation works, the evidence for and against, and better alternatives."
-date: 2026-04-12
+date: 2026-03-26
 slug: chewing-gum-nail-biting
 keywords:
   - chewing gum nail biting

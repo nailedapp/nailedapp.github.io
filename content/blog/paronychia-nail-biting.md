@@ -1,7 +1,7 @@
 ---
 title: "Paronychia from Nail Biting: Causes, Treatment, and Prevention"
 description: "Learn how nail biting causes paronychia, a painful nail fold infection. Symptoms, home treatment, when to see a doctor, and prevention strategies."
-date: 2026-04-12
+date: 2025-12-11
 slug: paronychia-nail-biting
 keywords:
   - paronychia nail biting

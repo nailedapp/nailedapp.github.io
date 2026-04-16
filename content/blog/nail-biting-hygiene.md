@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Hygiene: What Germs Are on Your Fingers?"
 description: "What bacteria, viruses, and parasites live under your fingernails? Learn what studies say about subungual germs and how nail biting transfers them."
-date: 2026-04-12
+date: 2025-12-02
 slug: nail-biting-hygiene
 keywords:
   - nail biting hygiene

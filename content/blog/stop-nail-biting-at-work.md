@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Biting Your Nails at Work"
 description: "Practical strategies to stop nail biting while working at your computer, in meetings, and on video calls. Desk-based tools and workplace habit-breaking tips."
-date: 2026-04-12
+date: 2025-12-03
 slug: stop-nail-biting-at-work
 keywords:
   - nail biting while working at computer

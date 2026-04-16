@@ -1,7 +1,7 @@
 ---
 title: "How to Create a Reward System for Breaking Bad Habits"
 description: "Reward systems accelerate habit change when designed correctly. Learn how to build one that actually works for breaking nail biting and similar habits."
-date: 2026-04-12
+date: 2025-11-17
 slug: reward-system-breaking-habits
 keywords:
   - reward system habits

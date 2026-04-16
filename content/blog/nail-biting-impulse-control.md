@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Impulse Control: What the Research Says"
 description: "Explore the science behind nail biting and impulse control. Learn what research reveals about impulsivity, executive function, and the neurology of BFRBs."
-date: 2026-04-12
+date: 2026-02-08
 slug: nail-biting-impulse-control
 keywords:
   - nail biting impulse control

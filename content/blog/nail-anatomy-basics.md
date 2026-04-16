@@ -1,7 +1,7 @@
 ---
 title: "Nail Anatomy 101: Understanding How Your Nails Work"
 description: "A clear guide to nail anatomy — the nail matrix, nail bed, cuticle, and how nails grow. Understand your nail structure to better care for and protect them."
-date: 2026-04-12
+date: 2025-10-22
 slug: nail-anatomy-basics
 keywords:
   - nail anatomy

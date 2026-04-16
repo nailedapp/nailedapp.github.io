@@ -1,7 +1,7 @@
 ---
 title: "Does Nail Biting Affect Your Immune System?"
 description: "Does nail biting strengthen or weaken your immune system? We explore the hygiene hypothesis, bacterial exposure through nails, and what immunology research says."
-date: 2026-04-12
+date: 2026-02-20
 slug: nail-biting-immune-system
 keywords:
   - nail biting immune system

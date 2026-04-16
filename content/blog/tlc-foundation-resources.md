@@ -1,7 +1,7 @@
 ---
 title: "TLC Foundation for BFRBs: Resources and Support"
 description: "Guide to the TLC Foundation for Body-Focused Repetitive Behaviors. Explore their education, conferences, therapist directory, support groups, and research."
-date: 2026-04-12
+date: 2026-04-08
 slug: tlc-foundation-resources
 keywords:
   - TLC Foundation resources

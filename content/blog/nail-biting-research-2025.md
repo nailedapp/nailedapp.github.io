@@ -1,7 +1,7 @@
 ---
 title: "Latest Nail Biting Research: What Studies Show in 2025"
 description: "A summary of recent nail biting and onychophagia research from 2023-2025, covering neuroscience, treatment approaches, genetics, and BFRB breakthroughs."
-date: 2026-04-12
+date: 2026-03-24
 slug: nail-biting-research-2025
 keywords:
   - nail biting research

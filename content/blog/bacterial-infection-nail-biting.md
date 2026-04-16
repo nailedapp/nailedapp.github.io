@@ -1,7 +1,7 @@
 ---
 title: "Bacterial Infections from Nail Biting: Risks and Prevention"
 description: "Specific bacteria found under fingernails can cause serious infections when nail biting breaks the skin. Learn the risks, warning signs, and prevention."
-date: 2026-04-12
+date: 2026-02-07
 slug: bacterial-infection-nail-biting
 keywords:
   - bacterial infection nail biting

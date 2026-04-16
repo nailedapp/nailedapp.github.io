@@ -1,7 +1,7 @@
 ---
 title: "Getting a Professional Manicure with Bitten Nails: What to Expect"
 description: "Nervous about getting a manicure with bitten nails? Here's exactly what happens, how to find the right salon, and why nail techs won't judge you."
-date: 2026-04-12
+date: 2026-01-23
 slug: professional-manicure-bitten-nails
 keywords:
   - manicure bitten nails

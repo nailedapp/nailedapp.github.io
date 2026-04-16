@@ -1,7 +1,7 @@
 ---
 title: "Mental Health Apps for Mac: What's Available"
 description: "A guide to mental health apps available for macOS. From meditation to habit breaking, explore Mac-native tools for anxiety, focus, and behavioral health."
-date: 2026-04-12
+date: 2026-02-05
 slug: mental-health-apps-mac
 keywords:
   - mental health apps Mac

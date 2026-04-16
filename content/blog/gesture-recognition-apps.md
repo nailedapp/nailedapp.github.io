@@ -1,7 +1,7 @@
 ---
 title: "Gesture Recognition Apps: How They Work and What They Can Do"
 description: "Gesture recognition apps use ML and computer vision to detect hand movements. Learn how the technology works and where it's being applied today."
-date: 2026-04-12
+date: 2026-01-05
 slug: gesture-recognition-apps
 keywords:
   - gesture recognition app

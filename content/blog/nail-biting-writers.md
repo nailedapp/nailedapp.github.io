@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Writers: The Connection Between Creativity and BFRBs"
 description: "Why writers are prone to nail biting, how it connects to the creative process, and practical strategies to stop biting while writing."
-date: 2026-04-12
+date: 2026-01-21
 slug: nail-biting-writers
 keywords:
   - writer nail biting

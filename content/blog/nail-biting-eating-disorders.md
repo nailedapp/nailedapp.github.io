@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Eating Disorders: Overlapping Behaviors"
 description: "How nail biting and eating disorders share common psychological roots, why they frequently co-occur, and what integrated treatment looks like."
-date: 2026-04-12
+date: 2025-11-10
 slug: nail-biting-eating-disorders
 keywords:
   - nail biting eating disorder

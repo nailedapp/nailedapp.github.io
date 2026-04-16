@@ -1,7 +1,7 @@
 ---
 title: "Environment Design: Setting Up Your Space to Prevent Nail Biting"
 description: "Your environment shapes your habits more than willpower does. Here's how to redesign your physical spaces to make nail biting harder and alternatives easier."
-date: 2026-04-12
+date: 2026-02-11
 slug: environment-design-habits
 keywords:
   - environment design habits

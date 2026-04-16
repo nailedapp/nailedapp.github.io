@@ -1,7 +1,7 @@
 ---
 title: "Back to School Nail Biting: Helping Kids and Teens Cope"
 description: "Why nail biting spikes when school starts and what parents can do about it. Age-appropriate strategies for kids and teens dealing with school anxiety."
-date: 2026-04-12
+date: 2025-12-10
 slug: back-to-school-nail-biting
 keywords:
   - back to school anxiety nails

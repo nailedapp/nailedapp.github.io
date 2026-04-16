@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Cold Sores: Herpetic Whitlow Risk"
 description: "Nail biting while you have a cold sore can spread herpes to your fingers. Learn about herpetic whitlow, how it happens, symptoms, and how to prevent it."
-date: 2026-04-12
+date: 2025-11-15
 slug: nail-biting-and-herpes
 keywords:
   - nail biting herpes

@@ -1,7 +1,7 @@
 ---
 title: "A Brief History of Nail Biting: From Ancient Times to Modern Science"
 description: "Trace the history of nail biting from ancient Greek references to modern neuroscience. How our understanding of the habit has evolved over centuries."
-date: 2026-04-12
+date: 2026-01-09
 slug: history-of-nail-biting
 keywords:
   - history nail biting

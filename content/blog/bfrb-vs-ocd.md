@@ -1,7 +1,7 @@
 ---
 title: "BFRB vs OCD: What's the Difference?"
 description: "BFRBs and OCD share similarities but differ in key ways. Learn how body-focused repetitive behaviors compare to obsessive-compulsive disorder in diagnosis and treatment."
-date: 2026-04-12
+date: 2026-03-06
 slug: bfrb-vs-ocd
 keywords:
   - BFRB vs OCD

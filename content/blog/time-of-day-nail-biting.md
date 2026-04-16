@@ -1,7 +1,7 @@
 ---
 title: "When Do People Bite Their Nails Most? Time-of-Day Patterns"
 description: "Research-backed breakdown of when nail biting peaks throughout the day. Covers morning, work hours, evening, and pre-sleep patterns with practical countermeasures."
-date: 2026-04-12
+date: 2026-03-26
 slug: time-of-day-nail-biting
 keywords:
   - time of day nail biting

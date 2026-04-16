@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Psoriasis: A Complicated Relationship"
 description: "How nail biting triggers and worsens psoriasis through the Koebner phenomenon. Managing nail psoriasis when you're also dealing with biting habits."
-date: 2026-04-12
+date: 2025-11-08
 slug: nail-biting-and-psoriasis
 keywords:
   - nail biting psoriasis

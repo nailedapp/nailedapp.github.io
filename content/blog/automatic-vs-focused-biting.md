@@ -1,7 +1,7 @@
 ---
 title: "Automatic vs Focused Nail Biting: Two Types of One Habit"
 description: "Research identifies two distinct types of nail biting—automatic and focused. Learn which type you have and why it matters for choosing the right treatment."
-date: 2026-04-12
+date: 2026-04-14
 slug: automatic-vs-focused-biting
 keywords:
   - automatic vs focused biting

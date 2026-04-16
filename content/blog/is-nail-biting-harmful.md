@@ -1,7 +1,7 @@
 ---
 title: "Is Nail Biting Harmful? What the Research Says"
 description: "Is nail biting actually harmful? We look at what research says about dental damage, infections, nail deformities, and other real health risks of nail biting."
-date: 2026-04-12
+date: 2026-02-19
 slug: is-nail-biting-harmful
 keywords:
   - is nail biting harmful

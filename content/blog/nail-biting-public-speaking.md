@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Before Public Speaking: Managing Pre-Talk Anxiety"
 description: "Public speaking anxiety triggers nail biting before presentations. Learn calming techniques and preparation strategies to protect your nails and your confidence."
-date: 2026-04-12
+date: 2026-04-02
 slug: nail-biting-public-speaking
 keywords:
   - nail biting public speaking

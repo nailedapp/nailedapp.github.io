@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Depression: What's the Link?"
 description: "Understand the connection between nail biting and depression. Learn about comorbidity research, emotional regulation, and when nail biting may signal deeper issues."
-date: 2026-04-12
+date: 2026-02-24
 slug: nail-biting-depression
 keywords:
   - nail biting depression

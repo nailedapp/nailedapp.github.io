@@ -1,7 +1,7 @@
 ---
 title: "Jaw Pain from Nail Biting: Causes and Relief"
 description: "Why nail biting causes jaw pain, which muscles are affected, and how to get relief. Jaw exercises, home remedies, and when to see a doctor."
-date: 2026-04-12
+date: 2025-12-30
 slug: jaw-pain-nail-biting
 keywords:
   - jaw pain nail biting

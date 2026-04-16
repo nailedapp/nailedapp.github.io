@@ -1,7 +1,7 @@
 ---
 title: "Dental Problems Caused by Nail Biting"
 description: "Nail biting causes enamel erosion, tooth fractures, malocclusion, gum damage, and TMJ. Learn the dental consequences and how to protect your teeth."
-date: 2026-04-12
+date: 2026-02-09
 slug: dental-problems-nail-biting
 keywords:
   - dental problems nail biting

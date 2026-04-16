@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and Autism: Understanding Stimming Behaviors"
 description: "Why nail biting is common in autistic individuals, how it connects to stimming, and practical approaches for managing self-stimulatory behaviors safely."
-date: 2026-04-12
+date: 2026-03-18
 slug: nail-biting-autism
 keywords:
   - nail biting autism

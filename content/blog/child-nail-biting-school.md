@@ -1,7 +1,7 @@
 ---
 title: "My Child Bites Nails at School: Talking to Teachers and Counselors"
 description: "Your child bites their nails at school. Here's how to talk to teachers and school counselors about it without making things worse."
-date: 2026-04-12
+date: 2025-11-14
 slug: child-nail-biting-school
 keywords:
   - child nail biting school

@@ -1,7 +1,7 @@
 ---
 title: "Is Nail Biting Contagious? Social Learning and Habits"
 description: "Can you catch nail biting from someone else? Learn how social learning, mirror neurons, and family environment contribute to picking up the habit."
-date: 2026-04-12
+date: 2026-01-15
 slug: nail-biting-contagious
 keywords:
   - nail biting contagious

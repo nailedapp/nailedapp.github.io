@@ -1,7 +1,7 @@
 ---
 title: "How Gesture Recognition Works: The Technology Behind Habit Detection"
 description: "How does gesture recognition actually work? A plain-English look at the ML and computer vision tech behind detecting habits like nail biting."
-date: 2026-04-12
+date: 2026-02-02
 slug: how-gesture-recognition-works
 keywords:
   - gesture recognition technology

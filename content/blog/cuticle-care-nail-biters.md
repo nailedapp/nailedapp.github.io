@@ -1,7 +1,7 @@
 ---
 title: "Cuticle Care for Recovering Nail Biters"
 description: "How to care for damaged cuticles after nail biting. Cuticle anatomy, recovery steps, product recommendations, and infection prevention tips."
-date: 2026-04-12
+date: 2025-12-04
 slug: cuticle-care-nail-biters
 keywords:
   - cuticle care nail biters

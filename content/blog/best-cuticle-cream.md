@@ -1,7 +1,7 @@
 ---
 title: "Best Cuticle Creams for Recovering Nail Biters (2025)"
 description: "Find the best cuticle creams to repair damaged cuticles after nail biting. Dermatologist-backed picks for healing cracked, torn skin around nails."
-date: 2026-04-12
+date: 2026-01-29
 slug: best-cuticle-cream
 keywords:
   - best cuticle cream

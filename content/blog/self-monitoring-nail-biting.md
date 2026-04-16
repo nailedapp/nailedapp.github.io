@@ -1,7 +1,7 @@
 ---
 title: "Self-Monitoring for Nail Biting: Tracking Your Way to Change"
 description: "Learn how self-monitoring reduces nail biting through the reactivity effect. Practical tracking methods, templates, and tips for consistent behavior logging."
-date: 2026-04-12
+date: 2026-03-24
 slug: self-monitoring-nail-biting
 keywords:
   - self-monitoring nail biting

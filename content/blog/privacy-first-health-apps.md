@@ -1,7 +1,7 @@
 ---
 title: "Privacy-First Health Apps: Why On-Device Processing Matters"
 description: "Health apps that process data on your device protect your privacy in ways cloud-based apps can't. Here's why on-device processing matters."
-date: 2026-04-12
+date: 2026-01-26
 slug: privacy-first-health-apps
 keywords:
   - privacy health apps

@@ -1,7 +1,7 @@
 ---
 title: "Temptation Bundling: Pair What You Want With What You Need to Do"
 description: "Temptation bundling links enjoyable activities with difficult ones. Learn how this behavioral economics strategy helps break nail biting and build habits."
-date: 2026-04-12
+date: 2026-02-03
 slug: temptation-bundling
 keywords:
   - temptation bundling

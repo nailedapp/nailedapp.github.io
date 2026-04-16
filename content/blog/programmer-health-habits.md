@@ -1,7 +1,7 @@
 ---
 title: "Health Habits for Programmers: Beyond the Standing Desk"
 description: "A practical guide to programmer health covering RSI, eye strain, posture, mental health, and unconscious habits. Go beyond the standing desk."
-date: 2026-04-12
+date: 2026-04-04
 slug: programmer-health-habits
 keywords:
   - programmer health habits

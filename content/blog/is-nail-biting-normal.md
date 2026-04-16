@@ -1,7 +1,7 @@
 ---
 title: "Is Nail Biting Normal? Understanding When It's a Problem"
 description: "Is nail biting normal or a sign of something more serious? Learn when the habit crosses from common quirk to clinical concern and what to do about it."
-date: 2026-04-12
+date: 2025-12-30
 slug: is-nail-biting-normal
 keywords:
   - is nail biting normal

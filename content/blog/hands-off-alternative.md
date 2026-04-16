@@ -1,7 +1,7 @@
 ---
 title: "Hands Off Alternative: Comparing Nail Biting Approaches"
 description: "Exploring Hands Off alternatives for nail biting? Compare approaches from manual tracking to real-time ML detection. Honest pros and cons of each."
-date: 2026-04-12
+date: 2026-03-17
 slug: hands-off-alternative
 keywords:
   - Hands Off alternative

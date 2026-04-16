@@ -1,7 +1,7 @@
 ---
 title: "Social Anxiety and Nail Biting: Breaking Both Cycles"
 description: "How social anxiety fuels nail biting, why the two reinforce each other, and practical strategies to break both cycles including awareness tools."
-date: 2026-04-12
+date: 2026-04-10
 slug: nail-biting-social-anxiety
 keywords:
   - social anxiety nail biting

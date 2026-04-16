@@ -1,7 +1,7 @@
 ---
 title: "Is Nail Biting a Sign of Intelligence? The Research Behind the Claim"
 description: "Does nail biting mean you're smarter? We examine the perfectionism study, the actual science, and why this popular claim needs serious context."
-date: 2026-04-12
+date: 2025-11-13
 slug: is-nail-biting-sign-intelligence
 keywords:
   - nail biting intelligence

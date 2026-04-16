@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Support Groups: Where to Find Community Online"
 description: "You're not alone in biting your nails. Here's where to find online support groups, communities, and people who actually understand what you're going through."
-date: 2026-04-12
+date: 2025-11-04
 slug: support-group-nail-biting
 keywords:
   - nail biting support group

@@ -1,7 +1,7 @@
 ---
 title: "Holiday Stress and Nail Biting: Surviving the Season Without Relapse"
 description: "Holiday stress triggers nail biting relapses. Learn why the season is so hard for nail biters and practical strategies to protect your progress."
-date: 2026-04-12
+date: 2025-12-09
 slug: holiday-stress-nail-biting
 keywords:
   - holiday stress nail biting

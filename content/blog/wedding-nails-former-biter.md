@@ -1,7 +1,7 @@
 ---
 title: "Beautiful Wedding Nails for Former Nail Biters"
 description: "Wedding coming up and your nails are a mess from biting? Here's your complete timeline and options for gorgeous wedding nails, no matter how short they are now."
-date: 2026-04-12
+date: 2026-01-18
 slug: wedding-nails-former-biter
 keywords:
   - wedding nails nail biter

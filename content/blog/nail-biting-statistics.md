@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting Statistics: How Common Is It Really?"
 description: "Data-driven look at nail biting prevalence by age, gender, and related conditions. Real statistics from published studies on onychophagia."
-date: 2026-04-12
+date: 2025-10-20
 slug: nail-biting-statistics
 keywords:
   - nail biting statistics

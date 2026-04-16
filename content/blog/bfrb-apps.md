@@ -1,7 +1,7 @@
 ---
 title: "The Best BFRB Apps for Managing Body-Focused Habits"
 description: "A comprehensive guide to BFRB apps and tools for nail biting, hair pulling, and skin picking, including detection apps, trackers, and wearables."
-date: 2026-04-12
+date: 2026-01-04
 slug: bfrb-apps
 keywords:
   - BFRB apps

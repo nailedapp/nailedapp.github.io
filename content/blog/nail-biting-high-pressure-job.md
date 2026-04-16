@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in High-Pressure Jobs: Managing the Stress"
 description: "High-pressure careers in finance, law, medicine, and tech worsen nail biting. Learn stress management strategies specific to demanding work environments."
-date: 2026-04-12
+date: 2026-01-29
 slug: nail-biting-high-pressure-job
 keywords:
   - nail biting high-pressure job

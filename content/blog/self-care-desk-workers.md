@@ -1,7 +1,7 @@
 ---
 title: "Self-Care for Desk Workers: Small Changes That Matter"
 description: "Practical self-care tips for desk workers. Combat the physical and mental toll of sedentary work with evidence-based habits that fit into your workday."
-date: 2026-04-12
+date: 2025-11-28
 slug: self-care-desk-workers
 keywords:
   - self-care desk workers

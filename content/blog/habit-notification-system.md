@@ -1,7 +1,7 @@
 ---
 title: "How Smart Notifications Help You Break Habits Like Nail Biting"
 description: "Compare manual reminders, smart detection alerts, and wearables for breaking nail biting. Learn why real-time interruption works best."
-date: 2026-04-12
+date: 2026-04-07
 slug: habit-notification-system
 keywords:
   - notification system habits

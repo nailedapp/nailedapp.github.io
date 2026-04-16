@@ -1,7 +1,7 @@
 ---
 title: "Fungal Infections from Nail Biting: What to Watch For"
 description: "Nail biting creates entry points for Candida and dermatophyte fungi. Learn the signs of fungal nail infections, treatment options, and prevention strategies."
-date: 2026-04-12
+date: 2026-03-06
 slug: fungal-infection-nail-biting
 keywords:
   - fungal infection nail biting

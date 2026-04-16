@@ -1,7 +1,7 @@
 ---
 title: "How On-Device AI Detection Works (Without Sending Your Data Anywhere)"
 description: "Learn how on-device AI detection processes data locally using machine learning, WebAssembly, and MediaPipe — no cloud servers, no data leaving your computer."
-date: 2026-04-12
+date: 2026-03-19
 slug: on-device-ai-detection
 keywords:
   - on-device AI detection

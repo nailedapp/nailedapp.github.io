@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and OCD: Understanding the Connection"
 description: "Is nail biting a form of OCD? Learn how nail biting relates to the OCD spectrum, key differences between BFRBs and OCD, and when to seek professional help."
-date: 2026-04-12
+date: 2026-02-17
 slug: nail-biting-ocd
 keywords:
   - nail biting OCD

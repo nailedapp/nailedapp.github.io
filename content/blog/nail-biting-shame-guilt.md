@@ -1,7 +1,7 @@
 ---
 title: "The Shame of Nail Biting: Why It Feels So Hard to Talk About"
 description: "Why nail biting carries so much shame, how secrecy makes the habit worse, and practical steps for moving past the guilt and embarrassment."
-date: 2026-04-12
+date: 2025-11-09
 slug: nail-biting-shame-guilt
 keywords:
   - nail biting shame

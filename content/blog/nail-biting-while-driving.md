@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting While Driving: A Surprising Trigger"
 description: "Traffic jams and commutes trigger nail biting for many drivers. Learn why driving causes biting and safe strategies to stop the habit behind the wheel."
-date: 2026-04-12
+date: 2025-10-29
 slug: nail-biting-while-driving
 keywords:
   - nail biting while driving

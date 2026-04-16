@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in Men vs Women: What the Data Shows"
 description: "Research on gender differences in nail biting: prevalence rates, triggers, age patterns, and why stigma affects men and women differently."
-date: 2026-04-12
+date: 2026-01-16
 slug: nail-biting-men-vs-women
 keywords:
   - nail biting men vs women

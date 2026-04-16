@@ -1,7 +1,7 @@
 ---
 title: "Urge Surfing: Riding Out the Nail Biting Impulse"
 description: "Urge surfing is a mindfulness technique for nail biting that teaches you to observe the urge without acting on it. Full guide with step-by-step instructions."
-date: 2026-04-12
+date: 2025-12-29
 slug: urge-surfing-technique
 keywords:
   - urge surfing

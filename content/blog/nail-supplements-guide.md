@@ -1,7 +1,7 @@
 ---
 title: "Supplements for Nail Growth After Biting: What Works"
 description: "Evidence-based review of nail supplements: biotin, collagen, iron, zinc, silica, and omega-3. Which ones work, which don't, and a diet-first approach."
-date: 2026-04-12
+date: 2026-02-26
 slug: nail-supplements-guide
 keywords:
   - nail supplements

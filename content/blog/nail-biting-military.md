@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting in the Military: High-Stress Environments and BFRBs"
 description: "Military life creates extreme stress that fuels nail biting. How service members can manage BFRBs in high-stress, low-privacy environments."
-date: 2026-04-12
+date: 2026-04-05
 slug: nail-biting-military
 keywords:
   - military nail biting

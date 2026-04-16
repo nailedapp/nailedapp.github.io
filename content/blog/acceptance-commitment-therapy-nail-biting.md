@@ -1,7 +1,7 @@
 ---
 title: "ACT for Nail Biting: An Alternative to Traditional CBT"
 description: "Learn how Acceptance and Commitment Therapy (ACT) treats nail biting through psychological flexibility, cognitive defusion, and values-based action."
-date: 2026-04-12
+date: 2026-03-10
 slug: acceptance-commitment-therapy-nail-biting
 keywords:
   - acceptance commitment therapy nail biting

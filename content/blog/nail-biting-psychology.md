@@ -1,7 +1,7 @@
 ---
 title: "The Psychology of Nail Biting: Why Do People Do It?"
 description: "Explore the psychology behind nail biting — from emotional regulation to pathological grooming theory. Learn why people bite their nails and what drives the habit."
-date: 2026-04-12
+date: 2025-12-13
 slug: nail-biting-psychology
 keywords:
   - nail biting psychology

@@ -1,7 +1,7 @@
 ---
 title: "Best Nail File for Recovering Nail Biters"
 description: "A practical guide to choosing the right nail file when you're recovering from nail biting — glass, crystal, ceramic, and what to avoid."
-date: 2026-04-12
+date: 2025-12-25
 slug: best-nail-file-biters
 keywords:
   - nail file biters

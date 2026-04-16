@@ -1,7 +1,7 @@
 ---
 title: "New Parents: Why Nail Biting Gets Worse (and How to Manage It)"
 description: "Sleep deprivation, constant worry, and zero downtime — new parenthood is a perfect storm for nail biting. Here's how to manage the habit during the hardest months."
-date: 2026-04-12
+date: 2025-12-19
 slug: new-parents-nail-biting
 keywords:
   - new parent nail biting

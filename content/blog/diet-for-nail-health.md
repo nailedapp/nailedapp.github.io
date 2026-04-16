@@ -1,7 +1,7 @@
 ---
 title: "Best Diet for Nail Health After Biting"
 description: "Learn which foods support nail recovery after biting. A practical guide to the nutrients, vitamins, and dietary patterns that help nails grow back stronger."
-date: 2026-04-12
+date: 2025-12-06
 slug: diet-for-nail-health
 keywords:
   - diet nail health

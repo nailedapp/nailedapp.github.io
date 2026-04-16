@@ -1,7 +1,7 @@
 ---
 title: "Nighttime Nail Biting: Causes and Solutions for Nocturnal Habits"
 description: "Why nail biting happens at night and during sleep, what drives unconscious nocturnal biting, and practical strategies to stop it."
-date: 2026-04-12
+date: 2025-11-07
 slug: nighttime-nail-biting
 keywords:
   - nighttime nail biting

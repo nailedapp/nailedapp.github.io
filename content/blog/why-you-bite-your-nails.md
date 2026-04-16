@@ -1,7 +1,7 @@
 ---
 title: "Why You Bite Your Nails and How to Break the Cycle"
 description: "Understand the psychology behind nail biting — stress, boredom, concentration triggers — and learn practical steps to finally break the cycle."
-date: 2026-04-12
+date: 2026-04-13
 slug: why-you-bite-your-nails
 keywords:
   - why do I bite my nails

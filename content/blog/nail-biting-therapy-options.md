@@ -1,7 +1,7 @@
 ---
 title: "Therapy for Nail Biting: Finding the Right Approach"
 description: "Overview of therapy options for nail biting: HRT, CBT, ACT, and DBT skills. How to find a therapist, costs, online options, and what to expect."
-date: 2026-04-12
+date: 2025-11-30
 slug: nail-biting-therapy-options
 keywords:
   - therapy nail biting

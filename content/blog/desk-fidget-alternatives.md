@@ -1,7 +1,7 @@
 ---
 title: "Desk Fidget Alternatives to Nail Biting: A Complete Guide"
 description: "The best desk fidget toys and tactile alternatives to nail biting for work and home. Quiet, discreet options that keep hands busy and away from your mouth."
-date: 2026-04-12
+date: 2025-12-05
 slug: desk-fidget-alternatives
 keywords:
   - desk fidget alternative

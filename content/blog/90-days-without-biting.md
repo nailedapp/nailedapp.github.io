@@ -1,7 +1,7 @@
 ---
 title: "90 Days Without Nail Biting: The Habit-Breaking Sweet Spot"
 description: "Three months without nail biting is where real change solidifies. What to expect at 90 days, how to handle complacency, and why this milestone matters."
-date: 2026-04-12
+date: 2026-03-15
 slug: 90-days-without-biting
 keywords:
   - 90 days no nail biting

@@ -1,7 +1,7 @@
 ---
 title: "The Case for One-Time Purchase Apps Over Subscriptions"
 description: "Subscription fatigue is real. Learn why one-time purchase apps like Nailed offer better value for utility software, and when subscriptions actually make sense."
-date: 2026-04-12
+date: 2025-11-16
 slug: no-subscription-apps
 keywords:
   - no subscription app

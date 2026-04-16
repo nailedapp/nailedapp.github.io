@@ -1,7 +1,7 @@
 ---
 title: "Webcam-Based Apps and Privacy: What You Need to Know"
 description: "Webcam apps raise real privacy concerns. Learn the difference between cloud and local processing, what to look for, and how Nailed keeps your camera data private."
-date: 2026-04-12
+date: 2025-11-19
 slug: webcam-apps-privacy
 keywords:
   - webcam apps privacy

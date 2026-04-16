@@ -1,7 +1,7 @@
 ---
 title: "How to Stop Biting Your Nails Before Summer"
 description: "Get your nails summer-ready with proven strategies to stop biting before sandal season. Practical tips for breaking the habit when it matters most."
-date: 2026-04-12
+date: 2025-11-05
 slug: stop-biting-nails-summer
 keywords:
   - stop nail biting summer

@@ -1,7 +1,7 @@
 ---
 title: "Six Months Without Nail Biting: A Progress Report"
 description: "What happens after six months without biting your nails. Full physical recovery, long-term brain changes, relapse patterns, and maintaining the new normal."
-date: 2026-04-12
+date: 2025-10-19
 slug: six-months-nail-recovery
 keywords:
   - 6 months no nail biting

@@ -1,7 +1,7 @@
 ---
 title: "Warts from Nail Biting: Fact or Fiction?"
 description: "Can nail biting cause warts? Learn how HPV spreads through nail biting, what periungual warts are, and how to treat and prevent them."
-date: 2026-04-12
+date: 2026-01-02
 slug: warts-from-nail-biting
 keywords:
   - warts nail biting

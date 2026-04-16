@@ -1,7 +1,7 @@
 ---
 title: "CBT vs HRT for Nail Biting: Which Therapy Works Better?"
 description: "Compare cognitive behavioral therapy and habit reversal training for nail biting. Learn how each works, what research says, and which fits your situation."
-date: 2026-04-12
+date: 2026-02-21
 slug: cbt-vs-hrt-nail-biting
 keywords:
   - CBT vs HRT

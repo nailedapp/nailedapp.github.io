@@ -1,7 +1,7 @@
 ---
 title: "Hand Exercises as a Nail Biting Alternative"
 description: "Targeted hand exercises that redirect nail biting urges by engaging the same muscles differently. Specific routines for desk, couch, and on-the-go."
-date: 2026-04-12
+date: 2025-12-04
 slug: hand-exercises-alternative
 keywords:
   - hand exercises nail biting

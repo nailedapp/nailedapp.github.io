@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting During Travel: Managing Your Habit on the Go"
 description: "Why travel makes nail biting worse and practical strategies for managing the habit during flights, road trips, and unfamiliar environments."
-date: 2026-04-12
+date: 2025-10-23
 slug: nail-biting-during-travel
 keywords:
   - nail biting travel

@@ -1,7 +1,7 @@
 ---
 title: "Emotional Eating vs Nail Biting: Two Coping Mechanisms Compared"
 description: "Comparing emotional eating and nail biting as stress coping mechanisms — shared triggers, different consequences, and strategies that address both."
-date: 2026-04-12
+date: 2025-10-26
 slug: emotional-eating-vs-nail-biting
 keywords:
   - emotional eating vs nail biting

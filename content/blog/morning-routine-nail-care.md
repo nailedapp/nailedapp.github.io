@@ -1,7 +1,7 @@
 ---
 title: "Building a Morning Nail Care Routine After Biting"
 description: "A simple morning nail care routine protects growing nails and reduces biting triggers. Here's a practical 5-minute routine for recovering nail biters."
-date: 2026-04-12
+date: 2026-03-28
 slug: morning-routine-nail-care
 keywords:
   - morning nail care

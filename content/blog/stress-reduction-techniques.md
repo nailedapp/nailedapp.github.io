@@ -1,7 +1,7 @@
 ---
 title: "Stress Reduction Techniques That Actually Work"
 description: "Evidence-based stress reduction techniques that deliver real results. Learn proven methods for managing stress, from breathing exercises to behavioral tools."
-date: 2026-04-12
+date: 2026-04-04
 slug: stress-reduction-techniques
 keywords:
   - stress reduction techniques

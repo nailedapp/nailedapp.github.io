@@ -1,7 +1,7 @@
 ---
 title: "Choosing Replacement Behaviors: A Guide to Replacing Nail Biting"
 description: "Practical guide to competing responses for nail biting. Physical, sensory, and behavioral alternatives that actually work based on habit reversal science."
-date: 2026-04-12
+date: 2025-12-14
 slug: nail-biting-replacement-behavior
 keywords:
   - nail biting replacement behavior

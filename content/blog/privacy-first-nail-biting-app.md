@@ -1,7 +1,7 @@
 ---
 title: "Privacy-First Nail Biting Detection: Why Local Processing Matters"
 description: "Why a privacy-first nail biting app with local processing matters. Learn how Nailed keeps your camera data on-device with zero data collection."
-date: 2026-04-12
+date: 2025-12-09
 slug: privacy-first-nail-biting-app
 keywords:
   - privacy-first nail biting app

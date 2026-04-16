@@ -1,7 +1,7 @@
 ---
 title: "How to Identify Your Nail Biting Triggers"
 description: "A practical guide to identifying your nail biting triggers through self-monitoring, trigger diaries, and pattern recognition across emotional and situational categories."
-date: 2026-04-12
+date: 2026-01-01
 slug: nail-biting-trigger-identification
 keywords:
   - nail biting trigger identification

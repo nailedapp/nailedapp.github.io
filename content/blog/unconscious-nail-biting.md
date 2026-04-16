@@ -1,7 +1,7 @@
 ---
 title: "Unconscious Nail Biting: Why You Don't Realize You're Doing It"
 description: "The neuroscience of why nail biting happens without awareness. Covers automatic behavior, the basal ganglia, habit loops, and how to build awareness of an unconscious habit."
-date: 2026-04-12
+date: 2026-01-14
 slug: unconscious-nail-biting
 keywords:
   - unconscious nail biting

@@ -1,7 +1,7 @@
 ---
 title: "Cognitive Distortions That Keep You Biting Your Nails"
 description: "Your thinking patterns might be keeping your nail biting habit alive. Learn the cognitive distortions that sabotage habit change and how to counter them."
-date: 2026-04-12
+date: 2026-03-27
 slug: cognitive-distortions-habits
 keywords:
   - cognitive distortions habits

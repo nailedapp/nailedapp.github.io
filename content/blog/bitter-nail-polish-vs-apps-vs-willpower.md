@@ -1,7 +1,7 @@
 ---
 title: "Bitter Nail Polish vs Apps vs Willpower — An Honest Comparison"
 description: "Comparing the three most common approaches to stopping nail biting: physical deterrents, detection apps, and sheer willpower. What works, what doesn't, and why."
-date: 2026-04-10
+date: 2025-11-01
 slug: bitter-nail-polish-vs-apps-vs-willpower
 keywords:
   - bitter nail polish

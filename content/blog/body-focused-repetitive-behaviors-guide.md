@@ -1,7 +1,7 @@
 ---
 title: "Body-Focused Repetitive Behaviors — A Complete Guide"
 description: "A complete guide to BFRBs including nail biting, hair pulling, and skin picking. Learn about causes, clinical classification, and evidence-based treatments."
-date: 2026-04-12
+date: 2026-01-01
 slug: body-focused-repetitive-behaviors-guide
 keywords:
   - body-focused repetitive behavior

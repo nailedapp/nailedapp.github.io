@@ -1,7 +1,7 @@
 ---
 title: "Visualization Techniques for Breaking Nail Biting"
 description: "Use mental imagery and visualization to rewire your nail biting habit. Specific techniques including future-self visualization and covert sensitization."
-date: 2026-04-12
+date: 2026-01-26
 slug: visualization-techniques-habits
 keywords:
   - visualization habit breaking

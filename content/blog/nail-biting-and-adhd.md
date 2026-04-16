@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting and ADHD — What's the Link?"
 description: "Nail biting is significantly more common in people with ADHD. Learn why, how stimming and impulse control play a role, and ADHD-specific strategies to stop."
-date: 2026-04-12
+date: 2026-03-23
 slug: nail-biting-and-adhd
 keywords:
   - nail biting ADHD

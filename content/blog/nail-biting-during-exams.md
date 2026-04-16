@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting During Exams: Strategies for Students"
 description: "Exam stress triggers nail biting in students. Learn why tests make it worse and practical strategies to stop biting during study sessions and exams."
-date: 2026-04-12
+date: 2026-03-14
 slug: nail-biting-during-exams
 keywords:
   - nail biting exams

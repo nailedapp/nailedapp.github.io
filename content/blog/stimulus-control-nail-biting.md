@@ -1,7 +1,7 @@
 ---
 title: "Stimulus Control for Nail Biting: Changing Your Environment"
 description: "Use stimulus control strategies to reduce nail biting by modifying your environment, removing triggers, and adding barriers that make the habit harder."
-date: 2026-04-12
+date: 2026-03-05
 slug: stimulus-control-nail-biting
 keywords:
   - stimulus control nail biting

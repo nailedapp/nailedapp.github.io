@@ -1,7 +1,7 @@
 ---
 title: "Do Gloves Help Stop Nail Biting?"
 description: "An honest look at whether wearing gloves stops nail biting — types that work, practical limitations, and when gloves make sense as part of a strategy."
-date: 2026-04-12
+date: 2025-12-26
 slug: gloves-stop-nail-biting
 keywords:
   - gloves nail biting

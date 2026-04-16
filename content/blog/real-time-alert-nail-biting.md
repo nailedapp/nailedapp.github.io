@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Alerts for Nail Biting: How Instant Intervention Works"
 description: "Learn why real-time nail biting alerts work better than delayed feedback, the science of instant behavior interruption, and how detection technology works."
-date: 2026-04-12
+date: 2025-12-23
 slug: real-time-alert-nail-biting
 keywords:
   - real-time nail biting alert

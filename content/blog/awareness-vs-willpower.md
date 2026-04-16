@@ -1,7 +1,7 @@
 ---
 title: "Awareness vs Willpower: Why Knowing Matters More Than Trying Harder"
 description: "Discover why awareness beats willpower for breaking habits like nail biting. Learn the science behind why trying harder fails and noticing succeeds."
-date: 2026-04-12
+date: 2026-01-17
 slug: awareness-vs-willpower
 keywords:
   - awareness vs willpower

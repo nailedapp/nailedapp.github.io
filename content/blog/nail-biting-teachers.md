@@ -1,7 +1,7 @@
 ---
 title: "Nail Biting as a Teacher: Managing Habits in the Classroom"
 description: "How teachers can manage nail biting when they're on stage all day — strategies that work within the constraints of a classroom environment."
-date: 2026-04-12
+date: 2026-02-03
 slug: nail-biting-teachers
 keywords:
   - teacher nail biting

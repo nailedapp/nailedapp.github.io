@@ -1,7 +1,7 @@
 ---
 title: "How Long Does It Take for Nails to Grow Back?"
 description: "Fingernail growth rates, recovery timelines after biting, and what affects how fast your nails grow back. Science-backed numbers and practical advice."
-date: 2026-04-12
+date: 2026-03-10
 slug: how-long-nails-grow-back
 keywords:
   - how long nails grow back

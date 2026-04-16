@@ -1,7 +1,7 @@
 ---
 title: "Behavior Change Models: Understanding How People Change"
 description: "An overview of major behavior change models including the Transtheoretical Model, COM-B, and stages of change. Understand the science behind lasting change."
-date: 2026-04-12
+date: 2025-11-26
 slug: behavior-change-models
 keywords:
   - behavior change models
