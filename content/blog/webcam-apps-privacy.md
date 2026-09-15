@@ -119,10 +119,9 @@ Nailed is a macOS menu bar app that uses your webcam to detect nail biting gestu
 - It has no server component — there's literally nothing to connect to
 - Every feature works identically whether your Mac is online or completely offline
 
-**Business model:**
-- $4.99 one-time purchase on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224)
+**Cost:**
+- Free on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224)
 - No subscription. No in-app purchases. No ads.
-- Revenue comes from the purchase price, not from data
 
 This architecture is a deliberate choice. A nail biting detection app that sends video of you biting your nails to a server would be asking you to share an embarrassing personal habit with a company's servers. Local processing means your habit stays between you and your Mac.
 

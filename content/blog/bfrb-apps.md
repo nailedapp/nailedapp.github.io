@@ -46,7 +46,7 @@ These shared features mean that [effective interventions](/blog/stop-biting-nail
 
 **Platform**: macOS 12.0+, Apple M1 or later
 
-**Price**: [$4.99 one-time](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) from the Mac App Store
+**Price**: [Free](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) on the Mac App Store
 
 **Privacy**: This is where Nailed stands out. All ML inference runs on your Mac. Camera frames are processed in real-time memory and never saved, stored, or transmitted. No accounts, no servers, no analytics, no data collection of any kind. The app works completely offline. For a tool that's watching you through a camera, this matters.
 
@@ -83,7 +83,7 @@ HabitAware's Keen2 is a smart bracelet designed specifically for BFRBs. It uses 
 | Context coverage    | At computer only            | Anywhere                          |
 | False positive rate | Lower (sees actual gesture) | Higher (infers from wrist motion) |
 | Hardware required   | None (uses existing camera) | Bracelet purchase                 |
-| Operating cost      | $4.99 one-time              | ~$149 one-time                    |
+| Operating cost      | Free                        | ~$149 one-time                    |
 | Social visibility   | None                        | Low (bracelet)                    |
 | Battery/charging    | N/A                         | Required                          |
 

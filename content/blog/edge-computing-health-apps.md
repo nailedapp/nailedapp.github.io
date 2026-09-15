@@ -110,7 +110,7 @@ The architecture:
 
 This is what edge computing looks like in practice for a health app. The entire ML pipeline runs on your hardware. The app works offline. No account creation. No data collection. No analytics. No crash reporting that might include sensitive context.
 
-The business model aligns with this architecture: $4.99 one-time purchase. No subscription to fund servers that don't exist. No free tier that would need data monetization to sustain.
+Nailed is free, with no subscription and no servers to fund.
 
 For a behavioral health app that watches you through a camera — monitoring a habit you're probably embarrassed about — this architecture isn't just a technical choice. It's the only ethical one.
 
@@ -142,4 +142,4 @@ Five years ago, running real-time ML inference on a laptop was impractical for m
 
 The remaining gap between cloud and edge ML is narrowing every year. For health apps — where the privacy stakes are highest — edge computing is already good enough for most use cases. And "good enough with perfect privacy" beats "slightly better with your health data on someone else's server."
 
-Nailed is available on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224). Edge computing. Zero data collection. $4.99, once.
+Nailed is available on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224). Edge computing. Zero data collection. Free.

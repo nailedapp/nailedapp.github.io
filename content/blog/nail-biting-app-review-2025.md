@@ -13,7 +13,7 @@ faq:
   - q: "What are the most common complaints about nail biting apps?"
     a: "The top complaints are: subscriptions for basic features, apps that abandon updates after launch, false positive alerts (especially with wearables), and tracking-only apps that don't help in the moment. Users also dislike apps that feel like generic habit trackers repackaged for nail biting."
   - q: "Is Nailed worth it based on user feedback?"
-    a: "Users praise Nailed for its simplicity, one-time pricing, and privacy. The detection works well for desk-based biting. The main limitation users note is that it's macOS-only, so it only covers time at the computer. For the $4.99 price, most users find it's worth trying."
+    a: "Users praise Nailed for its simplicity and privacy. The detection works well for desk-based biting. The main limitation users note is that it's macOS-only, so it only covers time at the computer. Nailed is free on the Mac App Store."
   - q: "Which nail biting app has the best reviews?"
     a: "Ratings vary across platforms and time. HabitAware Keen2 has loyal users who credit it with real behavior change, but also frustrated users who experienced false positives. Nailed gets strong marks for simplicity and privacy. NailKeeper users appreciate the visual tracking. No single app has universally great reviews — each has tradeoffs users feel strongly about."
 ---
@@ -63,7 +63,6 @@ Active maintenance and updates signal commitment and earn trust.
 **What users praise:**
 - "It just works. I didn't have to configure anything."
 - Automatic detection without manual input
-- One-time $4.99 price—no subscription
 - Complete on-device privacy (zero data collection)
 - Minimal resource usage in the menu bar
 
@@ -178,7 +177,7 @@ The top complaints are: subscriptions for basic features, apps that abandon upda
 
 **Is Nailed worth it based on user feedback?**
 
-Users praise Nailed for its simplicity, one-time pricing, and privacy. The detection works well for desk-based biting. The main limitation users note is that it's macOS-only, so it only covers time at the computer. For the $4.99 price, most users find it's worth trying.
+Users praise Nailed for its simplicity and privacy. The detection works well for desk-based biting. The main limitation users note is that it's macOS-only, so it only covers time at the computer. Nailed is free on the Mac App Store.
 
 **Which nail biting app has the best reviews?**
 

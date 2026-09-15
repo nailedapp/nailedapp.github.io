@@ -47,7 +47,7 @@ If any of those resonate, here are the alternatives.
 
 No logging. No reminders to dismiss. The app sits in your menu bar and watches while you work.
 
-Everything runs locally through MediaPipe and WebAssembly—no data leaves your machine. One-time purchase at $4.99.
+Everything runs locally through MediaPipe and WebAssembly—no data leaves your machine. It's free.
 
 **Best for:** People who bite unconsciously while working at a Mac. The detection is automatic, so it catches what you miss.
 
@@ -94,7 +94,7 @@ Any habit tracker can monitor "no nail biting" days. Some gamify the experience 
 | Real-time alerts | No (scheduled)   | Yes (flash + beep) | Yes (vibration)    | Yes (taste)       |
 | Requires logging | Yes              | No                 | No                 | No                |
 | Privacy          | App-dependent    | Fully on-device    | App + device       | N/A               |
-| Ongoing cost     | Varies           | $4.99 once         | $149+ device       | $5-10 per bottle  |
+| Ongoing cost     | Varies           | Free               | $149+ device       | $5-10 per bottle  |
 | All-day coverage | Yes (if you log) | At desk only       | Yes                | Yes               |
 
 ## Building a Stack That Works

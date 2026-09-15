@@ -53,7 +53,7 @@ The insight from time tracking often drives behavior change on its own. Seeing t
 
 The menu bar is the Mac's best feature for habit-related apps. It's always visible, never intrusive, and perfect for tools that should run continuously without demanding attention.
 
-**Nailed** sits in the menu bar and detects nail biting using on-device machine learning. It runs MediaPipe hand and face landmark models through your webcam, identifying when your fingers are near your mouth in a biting gesture. When it detects biting, a screen flash and beep alert you immediately. Everything processes locally — no data collection, no cloud, no subscription. [$4.99 on the Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224).
+**Nailed** sits in the menu bar and detects nail biting using on-device machine learning. It runs MediaPipe hand and face landmark models through your webcam, identifying when your fingers are near your mouth in a biting gesture. When it detects biting, a screen flash and beep alert you immediately. Everything processes locally — no data collection, no cloud, no subscription. [Free on the Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224).
 
 What makes Nailed effective as a habit tool is the real-time detection. Nail biting is usually automatic — people don't realize they're doing it. An app that catches you in the act creates awareness exactly when it matters. Not an end-of-day report. Not a morning reminder. Right now, as it's happening.
 

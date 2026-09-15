@@ -157,7 +157,7 @@ What required a data center five years ago runs on a laptop today. What requires
 
 For users, this shift is unambiguously good. Faster responses, better privacy, offline capability, and no dependency on someone else's infrastructure. The tradeoff — slightly smaller models with slightly narrower capabilities — is a tradeoff most people would happily make for a camera-based application that runs eight hours a day.
 
-[Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) is built entirely on this principle. A $4.99 one-time purchase, running on your Mac, processing everything locally, collecting nothing. That's what on-device AI detection looks like in practice.
+[Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) is built entirely on this principle. A free app, running on your Mac, processing everything locally, collecting nothing. That's what on-device AI detection looks like in practice.
 
 ## Frequently Asked Questions
 

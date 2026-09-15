@@ -42,7 +42,7 @@ And there's no Mac version. If you spend most of your day working on a computer�
 
 [Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) takes a completely different approach. Instead of tracking damage after the fact, it uses your Mac's built-in camera and on-device machine learning to detect when your hand moves toward your mouth. When it spots the gesture, it flashes your screen and plays a beep—snapping you out of the habit in real time.
 
-It sits in your menu bar, runs entirely on-device (no data leaves your Mac), and costs a one-time $4.99. No subscription.
+It sits in your menu bar, runs entirely on-device (no data leaves your Mac), and is free. No subscription.
 
 **Where Nailed wins:** Real-time interruption of the habit. You don't need to remember to do anything—it watches for you. For people who bite unconsciously while working at their desk, this is a direct solution.
 
@@ -73,7 +73,7 @@ The Keen2 bracelet detects hand-to-face movements using motion sensors. It vibra
 | Detection method | Manual photos           | Camera + ML                  |
 | Alerts           | None (passive tracking) | Screen flash + beep          |
 | Privacy          | Photos stored on device | All processing on-device     |
-| Price            | Free / In-app purchases | $4.99 one-time               |
+| Price            | Free / In-app purchases | Free                         |
 | Best for         | Tracking nail recovery  | Catching biting in real time |
 
 ## Which Approach Is Right for You?

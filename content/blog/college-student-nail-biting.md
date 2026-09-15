@@ -56,7 +56,7 @@ The most powerful anti-biting technique costs nothing.
 
 For one week, mark a tally on your hand every time you catch yourself biting or about to bite. At the end of each day, count the tallies. By day three, you'll know your triggers. By day seven, the simple act of noticing has already reduced frequency by 20-30%.
 
-If you study at your computer, tools like [Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) can run in the background on your Mac and alert you when your hand moves toward your mouth. It's a one-time $4.99 purchase — less than a coffee — and it catches the biting you don't notice during study sessions and lectures.
+If you study at your computer, tools like [Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) can run in the background on your Mac and alert you when your hand moves toward your mouth. It's free, and it catches the biting you don't notice during study sessions and lectures.
 
 ### Under $5: Bitter Nail Polish
 
