@@ -84,7 +84,7 @@ Being transparent about limitations matters:
 
 - **It only works at your computer.** Nailed needs your Mac's camera, so it can't help when you're away from your desk, commuting, or on your phone.
 - **It's not a medical device.** Nailed is a behavioral awareness tool. It doesn't diagnose or treat any condition.
-- **Detection isn't 100% accurate.** False positives (alerting when you're not biting) and false negatives (missing a genuine episode) both happen occasionally. The system improves with proper camera positioning and lighting.
+- **Detection isn't 100% accurate.** False positives (alerting when you're not biting) and false negatives (missing a genuine episode) both happen occasionally. The system improves with proper camera positioning and lighting, and [getting the framing right takes about a minute](/blog/nailed-setup-camera-placement/).
 - **It doesn't track or log your behavior.** There's no history, no statistics, no streak counter. This is a deliberate design choice to keep things simple and to avoid storing any data.
 
 ## Who it's for

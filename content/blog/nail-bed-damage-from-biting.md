@@ -47,7 +47,7 @@ The nail plate is attached to the nail bed by tiny longitudinal ridges—like Ve
 
 Each time this happens, the remaining attachment point recedes slightly. Over months and years, the nail bed effectively shortens—the point where the pink nail ends and the white free edge begins moves closer to the cuticle.
 
-This is why chronic nail biters often have noticeably short nail beds.
+This is why chronic nail biters often have noticeably short nail beds. Separation has non-biting causes too, so on a nail you've never bitten it's worth [working through the other explanations](/blog/short-nail-beds-causes/) first.
 
 ### Matrix Damage
 

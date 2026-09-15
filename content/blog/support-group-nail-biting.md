@@ -100,6 +100,8 @@ TLC runs facilitated online support groups that meet regularly via video call. T
 
 TLC hosts an annual conference (in-person and virtual options) with presentations from researchers, clinicians, and people with BFRBs. The conference community aspect — meeting hundreds of people who share your experience — is transformative for many attendees.
 
+If a recurring group feels like too much to start with, note that the calendar peaks once a year: [an awareness week every October, with a separate research-and-community conference alongside it](/blog/bfrb-awareness-week/).
+
 ### The BFRB Podcast
 
 TLC produces a podcast featuring personal stories, expert interviews, and research updates. Listening to others' experiences can provide a sense of community even without active participation.

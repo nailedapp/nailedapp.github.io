@@ -99,6 +99,8 @@ Chronic picking around the nail matrix (the tissue under the cuticle that produc
 
 Some of this damage is permanent. The nail matrix, once scarred, may never produce a normal nail plate again.
 
+One pattern in particular — a ladder of horizontal ridges up the center of a thumbnail — comes from working the fold at the base of the nail with a finger of the same hand, and is [worth identifying separately](/blog/habit-tic-nail-deformity/).
+
 ### Tissue and Skin Damage
 
 - **Scarring**: Repeated picking leaves permanent scars around the nails
@@ -134,6 +136,8 @@ The key differences:
 - Nail biting targets the nail plate; cuticle picking targets the surrounding skin
 - Nail biting has dental consequences; cuticle picking has infection consequences
 - Treatment strategies differ slightly (oral competing responses for biting vs. manual competing responses for picking)
+
+Chewing that skin with your teeth rather than pulling it with your fingers is a third pattern again, and [it has its own name and its own drivers](/blog/dermatophagia-skin-biting/).
 
 ## Treatment Approaches
 

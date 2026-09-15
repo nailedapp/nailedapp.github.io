@@ -37,7 +37,7 @@ Each structure has a specific protective function. In chronic nail biters, all o
 
 ### What nail biting does to this tissue
 
-**Mechanical tearing.** Teeth don't cut cleanly. When you bite at the skin around your nails — and most nail biters do, not just the nails — you create irregular tears in living tissue.
+**Mechanical tearing.** Teeth don't cut cleanly. When you bite at the skin around your nails — and most nail biters do, not just the nails — you create irregular tears in living tissue. For some people the skin is the main target rather than a side effect, and [that version of the habit works a little differently](/blog/dermatophagia-skin-biting/).
 
 **Saliva erosion.** Saliva contains digestive enzymes (amylase, lipase) that break down the skin's lipid barrier. Chronic moisture from saliva followed by evaporation creates a cycle of wetting and drying that degrades structural integrity.
 

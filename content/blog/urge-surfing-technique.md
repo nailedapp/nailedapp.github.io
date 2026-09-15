@@ -57,7 +57,7 @@ This is the hardest part. Nail biting is automatic, so the urge often bypasses c
 
 Do not move to suppress the urge. Do not move to act on it. Just pause. This is the critical moment — you're creating a gap between the urge and the response.
 
-If your hand is already moving toward your mouth, stop it mid-motion. Put your hand on the table, on your lap, or against your leg. Don't clench it — just place it somewhere neutral.
+If your hand is already moving toward your mouth, stop it mid-motion. Put your hand on the table, on your lap, or against your leg. Don't clench it — just place it somewhere neutral. If your fingers are already at your teeth by the time you notice, [that moment has a routine of its own](/blog/what-to-do-when-you-catch-yourself-biting/).
 
 ### Step 3: Observe the Urge With Curiosity
 

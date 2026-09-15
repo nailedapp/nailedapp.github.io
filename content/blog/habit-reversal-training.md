@@ -56,7 +56,7 @@ Awareness training involves:
 
 **Using external awareness aids.** Mirrors positioned to show your face while working, reminders set at key times, or having someone point out the behavior. Digital tools can also serve this function — [real-time detection apps](/blog/real-time-alert-nail-biting/) like [Nailed](https://nailedapp.io) use camera-based ML to detect hand-to-mouth gestures and deliver immediate alerts, essentially automating awareness training for computer-based biting.
 
-The honest difficulty: awareness training is circular. You need awareness to build awareness. This is why external aids (human observers, digital detection, physical reminders) are so valuable early in the process — they provide the initial awareness that bootstraps internal self-monitoring.
+The honest difficulty: awareness training is circular. You need awareness to build awareness. This is why external aids (human observers, digital detection, physical reminders) are so valuable early in the process — they provide the initial awareness that bootstraps internal self-monitoring. Whatever supplies that first nudge, [what you do in the ten seconds after you notice](/blog/what-to-do-when-you-catch-yourself-biting/) is a separate skill worth rehearsing on its own.
 
 ### 2. Competing Response Training
 

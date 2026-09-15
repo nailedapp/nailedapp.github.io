@@ -42,7 +42,7 @@ When you bring up nail biting, your pediatrician isn't thinking about the cosmet
 
 - **Nail bed damage.** Are the nails bitten past the quick? Is there visible damage to the nail matrix that could affect growth?
 - **Infection signs.** Redness, swelling, pus, or warmth around the cuticles indicates paronychia — a bacterial or fungal infection common in nail biters.
-- **Skin damage.** Picking and biting the skin around nails (a related behavior called dermatophagia) causes wounds that can become infected.
+- **Skin damage.** Picking and [biting the skin around the nails](/blog/dermatophagia-skin-biting/) (a related behavior called dermatophagia) causes wounds that can become infected.
 - **Dental impact.** Chronic nail biting can affect tooth alignment and enamel, especially in kids with braces or developing teeth.
 
 ### Behavioral Assessment

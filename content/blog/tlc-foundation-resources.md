@@ -177,7 +177,7 @@ The TLC Foundation engages in advocacy on several fronts:
 
 - **Insurance coverage**: Advocating for better insurance coverage of BFRB-specific treatments. Many people have been denied coverage for HRT or ComB because their insurer doesn't recognize BFRBs as billable conditions.
 - **Clinical recognition**: Pushing for BFRBs to be included in clinical training programs. The more therapists who learn about BFRBs in school, the less gap there is between prevalence and available treatment.
-- **Public awareness**: Campaigns like BFRB Awareness Week (held annually in October) aim to reduce stigma and increase public understanding.
+- **Public awareness**: Campaigns like BFRB Awareness Week (held annually in October) aim to reduce stigma and increase public understanding — [here's what happens during that week and how to take part](/blog/bfrb-awareness-week/).
 - **Research funding**: Advocating for increased NIH and NIMH funding for BFRB research, which has historically been underfunded relative to prevalence.
 
 ## How to Get Started with TLC Foundation Resources

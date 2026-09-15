@@ -126,7 +126,7 @@ Biting nails too short exposes the nail bed. Without the protective plate, the n
 
 ### Cuticle and Proximal Fold Damage
 
-Many nail biters also bite or chew on the cuticle and surrounding skin. This breaks the protective seal, allowing bacteria and fungi access to the matrix area. Chronic paronychia (infection of the nail fold) is common among nail biters.
+Many nail biters also bite or chew on the cuticle and surrounding skin. This breaks the protective seal, allowing bacteria and fungi access to the matrix area. Chronic paronychia (infection of the nail fold) is common among nail biters. Repeatedly pressing or rubbing that same fold with a fingertip does something different again, showing up in the plate as [a stack of ridges down the middle of the nail](/blog/habit-tic-nail-deformity/).
 
 ### Matrix Effects
 

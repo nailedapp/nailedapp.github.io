@@ -107,7 +107,7 @@ Skin biting is a hand-to-mouth movement, and at a desk it's visible, so a camera
 
 ## Wound care and signs of infection
 
-For a bite that bled, the AAD's advice for minor wounds applies: [wash gently with mild soap and water, keep it moist with petroleum jelly, and cover it with a bandage](https://www.aad.org/public/everyday-care/injured-skin/burns/wound-care-minimize-scars) changed daily. Petroleum jelly stops a scab forming, and wounds with scabs take longer to heal. Then leave it alone while it closes.
+For a bite that bled, the AAD's advice for minor wounds applies: [wash gently with mild soap and water, keep it moist with petroleum jelly, and cover it with a bandage](https://www.aad.org/public/everyday-care/injured-skin/burns/wound-care-minimize-scars) changed daily. Petroleum jelly stops a scab forming, and wounds with scabs take longer to heal. Then leave it alone while it closes. [Which dressing to reach for, and how to stop the healing spot becoming the next target](/blog/bleeding-fingers-picking-wound-care/), is worked through in more detail elsewhere.
 
 The nail folds are also where infection starts. A [2017 review in *American Family Physician*](https://www.aafp.org/pubs/afp/issues/2017/0701/p44.html) lists nail biting and manipulating hangnails among the causes of acute paronychia, an infection of the nail fold. See a clinician if you notice any of the following:
 

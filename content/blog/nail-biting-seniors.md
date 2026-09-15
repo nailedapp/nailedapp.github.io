@@ -151,7 +151,7 @@ If you want structured help, a cognitive-behavioral therapist experienced with B
 
 ### A Podiatrist
 
-If toenail biting is part of the picture (it often is, but people rarely mention it), a podiatrist can help with toenail care and treatment. This is especially important for diabetic patients.
+If toenail biting is part of the picture (it often is, but people rarely mention it), a podiatrist can help with toenail care and treatment. This is especially important for diabetic patients. [What the habit does to the feet, and how to approach stopping it](/blog/toenail-biting/), is covered separately.
 
 ## Starting Today
 

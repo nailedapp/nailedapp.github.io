@@ -128,7 +128,7 @@ If one finger lags significantly behind the others, don't worry. It likely start
 
 Nail bed length is partly genetic. Look at your parents' and siblings' nails for a reference point.
 
-Some people naturally have shorter nail beds. If your nail beds were short even before you started biting, they'll still be shorter after recovery. What recovery does is return you to your genetic baseline — it doesn't exceed it.
+Some people naturally have shorter nail beds. If your nail beds were short even before you started biting, they'll still be shorter after recovery. What recovery does is return you to your genetic baseline — it doesn't exceed it. And if you don't bite at all but the pink part still looks short or seems to be shrinking, [the explanation usually lies somewhere else](/blog/short-nail-beds-causes/).
 
 That said, most people have no idea what their genetic baseline looks like because they've been biting since childhood. You might be surprised at how much nail bed you actually have once the hyponychium fully recovers.
 
