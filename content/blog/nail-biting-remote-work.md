@@ -64,7 +64,7 @@ Where you work at home affects your habits more than you'd expect.
 
 **Working from a dedicated home office:** Best option. A separate room with a door that closes creates a physical boundary between "work space" and "home space." It doesn't replicate the office perfectly, but the spatial separation helps your brain stay in a more structured mode.
 
-If you can't have a separate room, dedicate a specific corner or desk. The key is consistency — always work from the same spot, and never use that spot for non-work activities.
+If you can't have a separate room, dedicate a specific corner or desk. The key is consistency — always work from the same spot, and never use that spot for non-work activities. If a camera-based awareness tool is part of your plan, the geometry of that corner matters too: [where the camera sits relative to your hands](/blog/nailed-setup-camera-placement/) is worth a minute's thought.
 
 ## Strategies for Remote Workers
 

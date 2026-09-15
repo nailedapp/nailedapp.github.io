@@ -184,7 +184,7 @@ Fidgets are insufficient on their own when:
 - The urge is so strong that a fidget doesn't satisfy it
 - You can't develop enough awareness to reach for the fidget in time
 
-In these cases, fidgets still have a role — but as one component alongside therapy, awareness training, or other interventions.
+In these cases, fidgets still have a role — but as one component alongside therapy, awareness training, or other interventions. And when the urge is oral rather than manual, a hand fidget is answering the wrong question: [something to put in your mouth instead](/blog/what-to-chew-instead-of-nails/) is the closer substitute.
 
 ## The Cost Question
 

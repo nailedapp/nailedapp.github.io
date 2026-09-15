@@ -67,6 +67,8 @@ ComB was developed by Charles Mansueto and colleagues as an expanded, individual
 - **Motor**: What physical habits and postures enable the behavior? Hand-to-face postures, scanning skin in mirrors. Treatment builds awareness and substitutes.
 - **Environmental**: What settings and situations increase risk? Bathrooms, bedtime routines, driving, watching TV. Treatment modifies these environments.
 
+[How each of those five domains plays out in nail biting](/blog/comb-model-bfrb-treatment/), with a self-assessment you can work through on your own, is covered separately.
+
 **Advantages over standard HRT:**
 
 - More individualized—treatment targets the specific drivers for each person

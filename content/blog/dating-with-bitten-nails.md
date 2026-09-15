@@ -72,7 +72,7 @@ You can't grow back nails in an afternoon, but you can minimize the visual impac
 
 **Skip the bright polish.** If you wear nail polish, dark or neutral shades on very short nails look intentional. Bright colors can highlight the shortness.
 
-**Treat any open wounds.** If you have torn cuticles or bleeding spots, a liquid bandage is less conspicuous than a traditional Band-Aid and protects the area.
+**Treat any open wounds.** If you have torn cuticles or bleeding spots, a liquid bandage is less conspicuous than a traditional Band-Aid and protects the area. For anything deeper than a surface scrape, [getting a picked finger to close properly](/blog/bleeding-fingers-picking-wound-care/) is a job for the days before, not the morning of.
 
 This isn't about faking perfect nails. It's about feeling like you've done what you can, which frees up mental space to actually enjoy the date.
 

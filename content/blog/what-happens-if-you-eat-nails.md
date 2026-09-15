@@ -60,7 +60,7 @@ The most immediate risk isn't in the stomach — it's in the throat. Sharp or ja
 - A feeling of something stuck in the throat (globus sensation)
 - Minor mucosal irritation
 
-This typically resolves on its own within hours. If you have persistent throat pain or difficulty swallowing after a sharp nail fragment, see a doctor.
+This typically resolves on its own within hours. If you have persistent throat pain or difficulty swallowing after a sharp nail fragment, see a doctor. The picture is much the same for toenails, though [biting those raises its own hygiene and foot-health questions](/blog/toenail-biting/).
 
 ### Bacterial transfer
 

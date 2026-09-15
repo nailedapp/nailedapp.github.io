@@ -20,7 +20,7 @@ Nail biting and skin picking sit side by side in the family of body-focused repe
 
 ## What Each Behavior Looks Like
 
-**Nail biting (onychophagia)** involves biting, chewing, or tearing at fingernails and the surrounding cuticle skin. It ranges from occasional nibbling during stressful moments to chronic destruction that shortens nails below the fingertip and damages the nail bed. Some people also bite toenails, though this is less common.
+**Nail biting (onychophagia)** involves biting, chewing, or tearing at fingernails and the surrounding cuticle skin. It ranges from occasional nibbling during stressful moments to chronic destruction that shortens nails below the fingertip and damages the nail bed. Some people [also bite their toenails](/blog/toenail-biting/), though this is less common.
 
 **Skin picking (excoriation disorder, also called dermatillomania)** involves repetitive picking, scratching, squeezing, or digging at skin. Common target areas include the face, arms, hands, cuticles, scalp, and legs. People pick at perceived imperfections — bumps, scabs, dry patches, or blemishes — but also at healthy skin. The behavior can produce open wounds, scarring, and infection.
 

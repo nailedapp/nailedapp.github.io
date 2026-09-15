@@ -156,7 +156,7 @@ No single tool solves nail biting completely. The combination of [approaches tha
 Honesty about limitations matters:
 
 - **Computer-dependent**: Camera-based detection only works when you're at your computer. If significant biting occurs while reading, watching TV, or in bed, you need other strategies for those contexts.
-- **Camera positioning**: The detection requires your hands and face to be visible to the camera. Unusual angles or very low lighting can reduce accuracy.
+- **Camera positioning**: The detection requires your hands and face to be visible to the camera. Unusual angles or very low lighting can reduce accuracy. [A quick framing check](/blog/nailed-setup-camera-placement/) usually sorts this out, second monitors included.
 - **False positives**: Eating at your desk, resting your chin on your hand, or scratching your face may occasionally trigger alerts. Good systems minimize this, but it's not zero.
 - **Not a cure**: The technology supports behavior change; it doesn't replace the psychological work of understanding [why you bite](/blog/why-you-bite-your-nails/) and building sustainable coping strategies.
 

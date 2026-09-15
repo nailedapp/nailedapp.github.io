@@ -124,7 +124,7 @@ For many readers, the oral-motor component of nail biting is what they crave dur
 - **A water bottle with a chew-resistant straw.** Sipping and chewing on the straw occupies your mouth.
 - **Hard candy.** Provides oral stimulation without chewing. Sugar-free options avoid dental concerns.
 
-These aren't permanent solutions, but they redirect the oral-motor drive away from your nails.
+These aren't permanent solutions, but they redirect the oral-motor drive away from your nails. If none of the four suits your reading setup, [there are more options, from chew jewelry to the ones worth skipping](/blog/what-to-chew-instead-of-nails/).
 
 ## Building a Pre-Reading Ritual
 

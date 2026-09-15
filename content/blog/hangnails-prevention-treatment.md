@@ -80,7 +80,7 @@ Apply a small amount of antiseptic — hydrogen peroxide, povidone-iodine, or an
 
 ### Step 5: Seal and moisturize
 
-Apply a heavy moisturizer — petroleum jelly works best — and cover with a small bandage. The bandage protects the wound and removes the temptation to bite at it.
+Apply a heavy moisturizer — petroleum jelly works best — and cover with a small bandage. The bandage protects the wound and removes the temptation to bite at it. If the spot is bleeding, or keeps getting reopened once it starts to scab, [there are better options than a plain adhesive strip](/blog/bleeding-fingers-picking-wound-care/).
 
 ## When a hangnail gets infected
 

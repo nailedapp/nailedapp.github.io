@@ -121,7 +121,7 @@ If you catch it early — redness and mild swelling without visible pus — home
 
 **Topical antiseptic**
 - After soaking, apply a thin layer of over-the-counter antibiotic ointment (bacitracin or polymyxin B)
-- Cover with a small adhesive bandage to protect the area
+- Cover with a small adhesive bandage to protect the area — for an open or weeping spot, [the choice of dressing makes a difference](/blog/bleeding-fingers-picking-wound-care/)
 - Change the bandage after each soak
 
 **Keep it dry between soaks**

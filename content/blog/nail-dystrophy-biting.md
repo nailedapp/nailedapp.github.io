@@ -149,7 +149,7 @@ Not all nail dystrophy is biting-related. If you notice dystrophic changes on na
 - **Alopecia areata** — diffuse pitting (grid-like pattern)
 - **Trauma from other sources** — tight shoes (toenails), occupational injury
 
-A dermatologist can differentiate these causes, sometimes requiring a nail clipping for fungal culture or a biopsy in unclear cases.
+A dermatologist can differentiate these causes, sometimes requiring a nail clipping for fungal culture or a biopsy in unclear cases. If the change you're noticing is specifically that the pink part of the nail looks short, [a narrower differential applies](/blog/short-nail-beds-causes/).
 
 The main reassurance for nail biters: dystrophy from biting is overwhelmingly temporary. The nail matrix is remarkably resilient. Given time and freedom from trauma, it produces normal nails. What you're seeing today is a record of past stress — not a prediction of permanent damage.
 

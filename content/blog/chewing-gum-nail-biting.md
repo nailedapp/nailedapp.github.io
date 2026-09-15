@@ -144,6 +144,8 @@ If gum isn't right for you, other oral alternatives include:
 - **Chewable jewelry.** Silicone pendants designed for chewing, originally made for sensory-seeking individuals. Discreet and always available.
 - **Ice chips.** Intense sensory input, zero calories, occupies the mouth. Limited to settings where ice is available.
 
+Which of these suits you depends on what the biting is actually giving your mouth; [a fuller rundown of the options, including what to avoid](/blog/what-to-chew-instead-of-nails/), sorts them on exactly that.
+
 ## The Bottom Line
 
 Chewing gum can reduce nail biting in the moment by occupying the mouth, reducing stress, and providing competing sensory input. It's useful as a tactical tool during high-risk periods. It doesn't build awareness, doesn't address tactile or emotional triggers, and loses effectiveness over time as it becomes habitual itself. Use it, but don't bet everything on it.

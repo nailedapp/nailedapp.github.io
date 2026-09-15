@@ -175,7 +175,7 @@ Consider seeking help when:
 
 ### Who to see
 
-**For the behavioral component:** A psychologist, licensed clinical social worker, or therapist trained in body-focused repetitive behaviors (BFRBs). Look specifically for experience with Habit Reversal Training (HRT) or Comprehensive Behavioral Treatment (ComB). The TLC Foundation for BFRBs maintains a provider directory.
+**For the behavioral component:** A psychologist, licensed clinical social worker, or therapist trained in body-focused repetitive behaviors (BFRBs). Look specifically for experience with Habit Reversal Training (HRT) or Comprehensive Behavioral Treatment (ComB) — [what a course of the latter actually involves](/blog/comb-model-bfrb-treatment/) is worth reading before you call. The TLC Foundation for BFRBs maintains a provider directory.
 
 **For the physical damage:** A dermatologist for nail and skin issues. A dentist for dental consequences.
 

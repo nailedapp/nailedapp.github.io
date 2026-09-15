@@ -153,6 +153,8 @@ Not all ridges are from biting. See a dermatologist if:
 - **Ridges don't improve after 6+ months of not biting** — may indicate permanent matrix damage (rare) or an underlying condition
 - **Ridges are associated with skin rashes** — lichen planus, psoriasis, and eczema can all affect nails
 
+One pattern worth naming: a ladder of shallow horizontal ridges running up the middle of a thumbnail, usually with a groove down the center, points to [rubbing or pushing at the cuticle](/blog/habit-tic-nail-deformity/) rather than to anything your teeth did.
+
 For most recovering nail biters, ridges are temporary evidence of past matrix stress. They grow out. New growth comes in smoother. Patience and consistent care are the treatment.
 
 <section class="faq">

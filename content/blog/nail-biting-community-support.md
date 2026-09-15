@@ -186,4 +186,6 @@ Pick one community and commit to participating for two weeks. That's long enough
 3. **Next week**: Check in daily. Share one strategy you've tried and how it went.
 4. **Two weeks in**: Evaluate. Is this community adding value? If yes, continue. If not, try another.
 
+One note on timing: if it's late September or early October, [the week set aside each year for talking about these behaviors openly](/blog/bfrb-awareness-week/) is the easiest moment to make that first post.
+
 You don't need to find the perfect community on your first try. You just need to stop going it alone. The habit thrives in isolation. Support — from strangers on the internet, from a therapist, from one friend who texts you daily — breaks that isolation. That's often enough to tip the balance.

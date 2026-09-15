@@ -128,7 +128,7 @@ Consider CBT (incorporating HRT) if:
 - You want to address the emotional roots, not just the behavior
 - You have access to a therapist experienced with BFRBs
 
-Consider the Comprehensive Behavioral Model (ComB) if:
+Consider the [Comprehensive Behavioral Model, usually shortened to ComB](/blog/comb-model-bfrb-treatment/), if:
 
 - You want the most thorough approach
 - Your nail biting is driven by multiple factors (emotional, sensory, cognitive, environmental)

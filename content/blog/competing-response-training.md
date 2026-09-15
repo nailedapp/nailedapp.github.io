@@ -92,7 +92,7 @@ Early warning signs to watch for:
 - Feeling a rough edge on a nail
 - Restlessness in your hands during periods of boredom or stress
 
-If you catch yourself mid-bite, stop immediately and switch to the competing response. Don't finish the nail. Don't clean up what you started. Stop and switch.
+If you catch yourself mid-bite, stop immediately and switch to the competing response. Don't finish the nail. Don't clean up what you started. Stop and switch. Having [a short rehearsed sequence for the moment you notice](/blog/what-to-do-when-you-catch-yourself-biting/) makes that switch far more likely to actually happen.
 
 ### Phase 3: Automatic Response (Weeks 3-8)
 
