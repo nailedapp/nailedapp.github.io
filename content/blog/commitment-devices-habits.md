@@ -60,7 +60,7 @@ The most direct approach: put something between your nails and your teeth.
 
 Your hand moves to your mouth without conscious awareness dozens of times a day. Technology that catches this movement in real time functions as a commitment device—it makes unconscious biting significantly harder to sustain.
 
-[Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) is a macOS menu bar app that uses on-device machine learning to detect hand-to-mouth movement and immediately responds with a screen flash and beep. It runs entirely offline, costs $4.99, and stores zero data. The detection creates a disruption that's nearly impossible to ignore—you can't keep biting on autopilot when your screen just flashed.
+[Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) is a macOS menu bar app that uses on-device machine learning to detect hand-to-mouth movement and immediately responds with a screen flash and beep. It runs entirely offline, is free, and stores zero data. The detection creates a disruption that's nearly impossible to ignore—you can't keep biting on autopilot when your screen just flashed.
 
 This type of device works because it adds a monitoring layer you can't forget to activate. Bitter polish wears off. Bandages come loose. Software that watches your hands doesn't have an off switch you'd unconsciously flip.
 

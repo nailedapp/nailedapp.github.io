@@ -15,7 +15,7 @@ faq:
   - q: "Does Nailed work the same way as Hands Off?"
     a: "No. Hands Off uses reminders and self-reporting to build awareness. Nailed uses your Mac's camera and on-device machine learning to automatically detect nail biting gestures and alert you with a screen flash and beep. Nailed is passive—you don't need to log anything."
   - q: "Is there a free alternative to Hands Off?"
-    a: "General habit trackers like Habitica or Loop Habit Tracker are free and can track nail biting attempts. Built-in phone features like scheduled reminders cost nothing. For detection-based approaches, Nailed is a one-time $4.99 purchase with no subscription."
+    a: "General habit trackers like Habitica or Loop Habit Tracker are free and can track nail biting attempts. Built-in phone features like scheduled reminders cost nothing. For detection-based approaches, Nailed is free on the Mac App Store."
 ---
 
 Hands Off positions itself as an awareness tool for face-touching habits, including nail biting. Its approach relies on self-monitoring, reminders, and behavioral prompts. If that method resonates with you, great. But if you're looking for something different—more automated, platform-specific, or detection-based—here's what else is out there.
@@ -47,7 +47,7 @@ Each of those needs points toward a different solution.
 
 No logging. No reminders to ignore. No need to notice your own behavior. The app watches and intervenes automatically.
 
-It runs from your menu bar, processes everything locally (zero data collection), and costs $4.99 once.
+It runs from your menu bar, processes everything locally (zero data collection), and is free.
 
 **Strengths:** Truly automatic detection. Works in the background. No subscription. Complete privacy.
 
@@ -95,7 +95,7 @@ Mavala Stop, Ella+Mila No More Biting, and similar products coat your nails with
 | Platform          | Mobile                           | macOS                    |
 | Behaviors covered | Face-touching, nail biting, more | Nail biting specifically |
 | Data collection   | Varies                           | None (fully on-device)   |
-| Price model       | Varies                           | $4.99 one-time           |
+| Price model       | Varies                           | Free                     |
 
 ## Matching the Tool to the Problem
 
@@ -136,6 +136,6 @@ No. Hands Off uses reminders and self-reporting to build awareness. Nailed uses 
 
 **Is there a free alternative to Hands Off?**
 
-General habit trackers like Habitica or Loop Habit Tracker are free and can track nail biting attempts. Built-in phone features like scheduled reminders cost nothing. For detection-based approaches, Nailed is a one-time $4.99 purchase with no subscription.
+General habit trackers like Habitica or Loop Habit Tracker are free and can track nail biting attempts. Built-in phone features like scheduled reminders cost nothing. For detection-based approaches, Nailed is free on the Mac App Store.
 
 </details>

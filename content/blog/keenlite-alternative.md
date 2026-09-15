@@ -13,7 +13,7 @@ faq:
   - q: "How does camera-based detection compare to wristband detection?"
     a: "Camera-based detection (like Nailed) uses computer vision to recognize hand-to-mouth gestures through your Mac's camera. Wristband detection (like Keen) uses motion sensors on your wrist. Camera detection is more precise for visual gestures but limited to where a camera is. Wristband detection works anywhere you wear it but relies on motion patterns, which can produce false positives from similar movements."
   - q: "Is Nailed cheaper than HabitAware Keen?"
-    a: "Significantly. Nailed is a one-time $4.99 Mac App Store purchase. HabitAware Keen2 retails for approximately $149-$199. The tradeoff is that Keen works all day everywhere, while Nailed only works at your Mac."
+    a: "Yes. Nailed is free on the Mac App Store. HabitAware Keen2 retails for approximately $149-$199. The tradeoff is that Keen works all day everywhere, while Nailed only works at your Mac."
   - q: "Can I use a wristband and Nailed together?"
     a: "Yes. Some people use Nailed at their desk for precise camera-based detection and a wristband for coverage when they're away from the computer. This gives you all-day detection with better accuracy at your primary work location."
 ---
@@ -73,12 +73,12 @@ For many people, the most nail biting happens at their desk while working or bro
 
 |                  | KeenLite              | Keen2                 | Nailed          |
 | ---------------- | --------------------- | --------------------- | --------------- |
-| Upfront cost     | ~$99+                 | ~$149-$199            | $4.99           |
+| Upfront cost     | ~$99+                 | ~$149-$199            | Free            |
 | Subscription     | Optional app features | Optional app features | None            |
 | Hardware needed  | Included bracelet     | Included bracelet     | Mac with camera |
 | Replacement cost | Full repurchase       | Full repurchase       | None            |
 
-The price gap is substantial. A Keen bracelet costs 30-40x more than Nailed. That's justified if you need all-day coverage and the wristband approach works for you. It's not justified if your biting primarily happens at your computer.
+The price gap is substantial. A Keen bracelet costs $99 or more; Nailed is free. That's justified if you need all-day coverage and the wristband approach works for you. It's not justified if your biting primarily happens at your computer.
 
 ## Other Alternatives to Consider
 
@@ -96,7 +96,7 @@ Instead of relying on a device to catch you, HRT trains you to catch yourself. Y
 
 ## Practical Recommendations
 
-**Get Nailed if** most of your biting happens at your Mac. You'll get precise detection for $4.99 and can start immediately.
+**Get Nailed if** most of your biting happens at your Mac. You'll get precise detection for free and can start immediately.
 
 **Get a Keen bracelet if** you bite throughout the day in many different settings and you're willing to invest in dedicated hardware. The all-day coverage justifies the cost for severe biters.
 
@@ -127,7 +127,7 @@ Camera-based detection (like Nailed) uses computer vision to recognize hand-to-m
 
 **Is Nailed cheaper than HabitAware Keen?**
 
-Significantly. Nailed is a one-time $4.99 Mac App Store purchase. HabitAware Keen2 retails for approximately $149-$199. The tradeoff is that Keen works all day everywhere, while Nailed only works at your Mac.
+Yes. Nailed is free on the Mac App Store. HabitAware Keen2 retails for approximately $149-$199. The tradeoff is that Keen works all day everywhere, while Nailed only works at your Mac.
 
 **Can I use a wristband and Nailed together?**
 

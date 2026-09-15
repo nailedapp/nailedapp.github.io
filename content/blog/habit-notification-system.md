@@ -107,7 +107,7 @@ This matters because the camera is watching your face and hands for extended per
 
 Because it relies on your Mac's camera, Nailed is most effective during computer use — which is when a lot of nail biting happens. Working, browsing, watching videos, reading, coding — these are all high-risk activities for unconscious biting, and they all happen in front of a screen.
 
-The menu bar placement means it runs in the background without taking up screen space or requiring interaction. You open it once, and it works. The $4.99 one-time purchase means no subscriptions, no ongoing cost, no ads.
+The menu bar placement means it runs in the background without taking up screen space or requiring interaction. You open it once, and it works. It's free, with no subscription and no ads.
 
 ### Building Awareness Over Time
 

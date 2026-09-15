@@ -28,7 +28,7 @@ Here are the best ones in 2025, organized by what they actually do for you.
 
 ### Nailed — Stop Nail Biting
 
-**Price:** $4.99 (one-time)
+**Price:** Free
 **What it does:** Sits in your menu bar and uses your Mac's built-in camera with on-device ML to detect when you're biting your nails. When it catches you, it triggers a screen flash and beep — an immediate interrupt that builds awareness over time.
 
 **Why it's notable:** Everything runs locally. No data collection, no cloud processing, no account needed. The camera feed is processed on your Mac's Neural Engine and never stored or transmitted. For something as personal as a habit that involves watching your face and hands, this architecture matters.

@@ -13,9 +13,9 @@ faq:
   - q: "Are nail biting apps effective?"
     a: "Apps can be effective as part of a broader strategy. Detection apps (Nailed, Keen2) interrupt the behavior in real time, which addresses the unconscious nature of the habit. Tracking apps build awareness. But the strongest evidence supports combining any app with behavioral techniques like Habit Reversal Training."
   - q: "Is there a free nail biting app?"
-    a: "Several general habit trackers are free (Habitica, Loop Habit Tracker) and can track nail biting. Some nail-biting-specific apps have free tiers. For detection-based tools, Nailed is the most affordable at $4.99 one-time — not free, but no subscription."
+    a: "Several general habit trackers are free (Habitica, Loop Habit Tracker) and can track nail biting. Some nail-biting-specific apps have free tiers. For detection-based tools, Nailed is free on the Mac App Store."
   - q: "Do I need a subscription for nail biting apps?"
-    a: "Not always. Nailed is a one-time $4.99 purchase with no subscription. Some apps offer free tiers with paid upgrades. HabitAware Keen2 is a hardware purchase. Always check the pricing model before committing — subscription fatigue is real."
+    a: "Not always. Nailed is free, with no subscription. Some apps offer free tiers with paid upgrades. HabitAware Keen2 is a hardware purchase. Always check the pricing model before committing — subscription fatigue is real."
 ---
 
 The market for nail biting apps is small but growing. In 2025, you have more options than ever—tracking apps, detection tools, wearable devices, and educational platforms. But the sheer variety makes choosing harder.
@@ -31,11 +31,11 @@ These apps catch you in the act. Instead of relying on you to notice and log you
 [Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) runs in your Mac's menu bar and uses the built-in camera with on-device machine learning (MediaPipe + WebAssembly) to detect hand-to-mouth gestures. When it spots you biting, the screen flashes and a beep plays.
 
 - **Platform:** macOS
-- **Price:** $4.99 one-time
+- **Price:** Free
 - **Privacy:** All processing on-device, zero data collection
 - **Subscription:** None
 
-**Pros:** Automatic detection. No logging required. No subscription. Full privacy. Low cost. Just works in the background while you work.
+**Pros:** Automatic detection. No logging required. No subscription. Full privacy. Free. Just works in the background while you work.
 
 **Cons:** Mac only. Only detects while you're at your Mac with the camera running. Doesn't track patterns or provide behavioral coaching.
 
@@ -122,7 +122,7 @@ Redirect the hand-to-mouth urge to a different physical action. Fidget cubes, pu
 
 There's no objective "best" that applies to everyone. But here's how the tools rank within their respective use cases:
 
-**Best for desk-based biters:** Nailed. Automatic detection, low cost, zero friction.
+**Best for desk-based biters:** Nailed. Automatic detection, free, zero friction.
 
 **Best for all-day detection:** HabitAware Keen2. Only option for continuous wearable detection, despite the cost.
 
@@ -160,10 +160,10 @@ Apps can be effective as part of a broader strategy. Detection apps (Nailed, Kee
 
 **Is there a free nail biting app?**
 
-Several general habit trackers are free (Habitica, Loop Habit Tracker) and can track nail biting. Some nail-biting-specific apps have free tiers. For detection-based tools, Nailed is the most affordable at $4.99 one-time—not free, but no subscription.
+Several general habit trackers are free (Habitica, Loop Habit Tracker) and can track nail biting. Some nail-biting-specific apps have free tiers. For detection-based tools, Nailed is free on the Mac App Store.
 
 **Do I need a subscription for nail biting apps?**
 
-Not always. Nailed is a one-time $4.99 purchase with no subscription. Some apps offer free tiers with paid upgrades. HabitAware Keen2 is a hardware purchase. Always check the pricing model before committing—subscription fatigue is real.
+Not always. Nailed is free, with no subscription. Some apps offer free tiers with paid upgrades. HabitAware Keen2 is a hardware purchase. Always check the pricing model before committing—subscription fatigue is real.
 
 </details>

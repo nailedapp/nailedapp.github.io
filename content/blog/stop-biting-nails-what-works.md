@@ -169,7 +169,7 @@ Most people who successfully break a nail-biting habit use more than one method.
 | HRT with therapist | Yes | High | $50–$150/session | Severe, long-term habit |
 | CBT | Yes | High | $50–$150/session | Anxiety-driven biting |
 | Fidget toys | Partially | Low | $5–$15 | Supplement to other methods |
-| Real-time detection (e.g. Nailed) | Yes | Low | $4.99 one-time | Desk workers, computer users |
+| Real-time detection (e.g. Nailed) | Yes | Low | Free | Desk workers, computer users |
 | Tracking/photo apps | Partially | Medium | Free–$10 | Motivation and progress |
 | Willpower alone | No | High | Free | Mild, recent habits only |
 

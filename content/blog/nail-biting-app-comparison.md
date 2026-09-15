@@ -15,7 +15,7 @@ faq:
   - q: "Are nail biting apps actually effective?"
     a: "Apps that provide real-time feedback address the awareness gap that makes nail biting hard to stop. Tracking apps support the self-monitoring component of habit reversal training. Neither replaces the full behavioral change process, but they can meaningfully support it when used consistently."
   - q: "Is there a free app to stop nail biting?"
-    a: "Several tracking and logging apps offer free tiers with basic functionality. Most real-time detection solutions require a purchase. Free options tend to be limited to manual logging, which requires you to notice the behavior first — the exact problem most people struggle with."
+    a: "Several tracking and logging apps offer free tiers with basic functionality. Nailed, a real-time detection app for Mac, is also free. Free logging apps rely on you noticing the behavior first — the exact problem most people struggle with."
   - q: "Can an Apple Watch detect nail biting?"
     a: "The Apple Watch itself doesn't have a built-in nail biting detection feature. Some third-party apps and wearables use wrist-based motion sensors to detect hand-to-face movements, but accuracy varies since many non-biting gestures involve similar wrist positions."
 ---
@@ -74,10 +74,10 @@ Before comparing specific products, it's worth understanding the distinct approa
 
 - **Approach**: Real-time camera-based detection
 - **Platform**: macOS only (macOS 12.0+, Apple M1+)
-- **Price**: $4.99 one-time purchase
+- **Price**: Free
 - **How it works**: Menu bar app uses MediaPipe ML models running via WebAssembly to detect hand-to-mouth gestures through your Mac's camera. Alerts via screen flash + audio beep.
 - **Privacy**: All processing on-device. No data collection, no servers, no accounts. Works fully offline.
-- **Strengths**: Fully passive — runs in background without interaction. Camera-based detection is more precise than motion sensors because it can see the specific gesture, not just wrist position. One-time price with no subscription. Strong privacy model.
+- **Strengths**: Fully passive — runs in background without interaction. Camera-based detection is more precise than motion sensors because it can see the specific gesture, not just wrist position. Free, with no subscription. Strong privacy model.
 - **Weaknesses**: macOS only — no Windows, no mobile. Only works when you're at your Mac. Requires Apple Silicon (M1 or later), so older Macs aren't supported.
 - **Link**: [nailedapp.io](https://nailedapp.io) / [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224)
 
@@ -124,7 +124,7 @@ Several apps in iOS/Android app stores offer manual biting episode tracking:
 | Works away from computer | No                   | Yes                     | Yes (manual)          | Yes (manual) |
 | Passive (no user action) | Yes                  | Yes                     | No                    | No           |
 | Platform                 | macOS                | iOS/Android + bracelet  | iOS/Android           | iOS/Android  |
-| One-time price           | $4.99                | ~$149                   | Free-$60/yr           | Free-$36/yr  |
+| Price                    | Free                 | ~$149                   | Free-$60/yr           | Free-$36/yr  |
 | Privacy                  | No data collection   | Device-local + app data | Varies                | Varies       |
 | Covers multiple BFRBs    | Nail biting focus    | Yes (trainable)         | If designed for BFRBs | No           |
 | Trigger pattern analysis | No                   | Via companion app       | Yes                   | No           |
@@ -179,7 +179,7 @@ Apps that provide real-time feedback address the awareness gap that makes nail b
 
 <details>
 <summary><strong>Is there a free app to stop nail biting?</strong></summary>
-Several tracking and logging apps offer free tiers with basic functionality. Most real-time detection solutions require a purchase. Free options tend to be limited to manual logging, which requires you to notice the behavior first — the exact problem most people struggle with.
+Several tracking and logging apps offer free tiers with basic functionality. Nailed, a real-time detection app for Mac, is also free. Free logging apps rely on you noticing the behavior first — the exact problem most people struggle with.
 </details>
 
 <details>

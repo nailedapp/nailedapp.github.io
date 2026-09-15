@@ -24,7 +24,7 @@ faq:
     a: "Currently, Nailed is specifically trained to detect hand-to-mouth gestures associated with nail biting. Other body-focused repetitive behaviors would require different gesture detection models."
 ---
 
-Nailed is a macOS menu bar app that detects nail biting using on-device machine learning. It costs $4.99, works entirely offline, and collects zero data. This article explains what happens under the hood — how the detection works, why it runs locally, and what that means for your privacy.
+Nailed is a macOS menu bar app that detects nail biting using on-device machine learning. It's free, works entirely offline, and collects zero data. This article explains what happens under the hood — how the detection works, why it runs locally, and what that means for your privacy.
 
 ## The problem Nailed solves
 
@@ -100,7 +100,7 @@ It works as a standalone tool or alongside other methods — [bitter nail polish
 - Any built-in or USB webcam
 - No internet connection required
 
-Nailed is available on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) for $4.99 — a one-time purchase with no subscription.
+Nailed is free on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224).
 
 ## Frequently asked questions
 

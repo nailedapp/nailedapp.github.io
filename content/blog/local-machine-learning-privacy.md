@@ -103,9 +103,9 @@ This architecture means:
 - No one (including the developer) can see your camera feed
 - There's no server to breach
 - No behavioral data exists to sell or leak
-- The app costs $4.99 once — no subscription needed to fund server infrastructure
+- The app is free, with no subscription and no server infrastructure to fund
 
-That last point connects directly to the business model. Cloud ML requires servers that cost money to run every month, which is why most cloud-ML apps charge subscriptions. Local ML has no ongoing server costs, so a one-time purchase makes financial sense for both the developer and the user.
+That last point connects directly to cost. Cloud ML requires servers that cost money to run every month, which is why most cloud-ML apps charge subscriptions. Local ML has no ongoing server costs.
 
 ## How to Evaluate Whether an App Uses Local ML
 
@@ -127,4 +127,4 @@ This means the gap between what cloud ML and local ML can do is shrinking every 
 
 For privacy-sensitive applications — anything involving cameras, health data, or personal behavior — local ML isn't just a nice-to-have. It's the approach that respects users by design, not by policy.
 
-Nailed is available on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) for $4.99. On-device processing. Zero data collection. No subscription.
+Nailed is free on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224). On-device processing. Zero data collection. No subscription.

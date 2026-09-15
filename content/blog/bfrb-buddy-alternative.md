@@ -55,7 +55,7 @@ If nail biting is your primary or only BFRB, a specialized tool might serve you 
 
 No tracking, no journaling, no coping tips. Just automatic detection and instant interruption.
 
-Runs from your menu bar, processes everything locally (zero data collection), and costs $4.99 once.
+Runs from your menu bar, processes everything locally (zero data collection), and is free.
 
 **Choose Nailed when:** Nail biting is your main problem and it mostly happens at your Mac. You want automatic detection, not manual logging.
 
@@ -96,7 +96,7 @@ Online therapy platforms can connect you with therapists who specialize in BFRBs
 | Platform               | Mobile                | macOS                 | Wearable + mobile    |
 | Trigger analysis       | Yes (journaling)      | No                    | Limited              |
 | Privacy                | Varies                | Fully on-device       | Device + app         |
-| Price                  | Varies                | $4.99 once            | $149+                |
+| Price                  | Varies                | Free                  | $149+                |
 
 ## Specialist vs Generalist: A Framework
 
@@ -132,7 +132,7 @@ Neither app alone constitutes full treatment. Habit Reversal Training (HRT), the
 
 ## Making the Choice
 
-If BFRB Buddy is helping you, keep using it. Adding Nailed alongside it costs $4.99 and gives you automatic detection at your desk—something BFRB Buddy can't do.
+If BFRB Buddy is helping you, keep using it. Adding Nailed alongside it is free and gives you automatic detection at your desk—something BFRB Buddy can't do.
 
 If BFRB Buddy isn't helping, ask yourself why. Is it because tracking is tedious? Is it because you don't catch yourself in time? Is it because you need something more active? The answer points to the right alternative.
 

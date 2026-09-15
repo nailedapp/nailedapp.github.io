@@ -84,8 +84,6 @@ At the simpler end, tracking apps ask you to log episodes manually. At the more 
 
 **Platform-limited.** Many apps are available on only one platform. Nailed is macOS-only. Others may be iOS or Android-only. Cross-platform coverage is poor.
 
-**Not free.** Most serious detection apps cost money. That said, a one-time cost of $4.99 (in Nailed's case) is modest compared to ongoing therapy or repeatedly buying bitter polish.
-
 **Imperfect detection.** Machine learning is impressive but not flawless. False positives (alerts when you're not biting) and missed detections both happen. Accuracy depends on camera angle, lighting, and individual variation.
 
 ## Willpower
@@ -118,7 +116,7 @@ The decision to stop, backed by conscious effort to catch and prevent each episo
 | **Works unconsciously** | Partially — taste wakes you up | Yes — monitors for you | No |
 | **Setup effort** | Low (paint nails) | Low (install app) | None |
 | **Ongoing effort** | Low (reapply daily) | None (runs in background) | High (constant vigilance) |
-| **Cost** | $5–$10 per bottle | $4.99–$10 one-time | Free |
+| **Cost** | $5–$10 per bottle | Free–$10 | Free |
 | **Works away from desk** | Yes | No (camera-based) | Yes |
 | **Long-term habit change** | Weak (behavior returns when polish stops) | Strong (builds genuine awareness) | Weak (relies on unsustainable effort) |
 | **Time to first results** | Immediate | First week | Varies widely |

@@ -98,7 +98,7 @@ Apple's built-in journaling app. Basic features but deeply integrated with Photo
 
 ## Behavior Change and Habit Breaking
 
-### Nailed ($4.99, macOS native)
+### Nailed (free, macOS native)
 
 [Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) is a macOS menu bar app specifically designed to help people stop biting their nails. It uses on-device machine learning via your Mac's camera to detect hand-to-mouth movements in real time. When it detects nail biting, it flashes your screen and plays an alert sound.
 
@@ -108,7 +108,7 @@ Apple's built-in journaling app. Basic features but deeply integrated with Photo
 - Runs silently in the menu bar
 - On-device ML via Apple's frameworks — no video data leaves your Mac
 - Works offline, zero data collection
-- One-time purchase, no subscription
+- Free, no subscription
 
 **How it helps mental health:** Nail biting is classified as a body-focused repetitive behavior (BFRB), often driven by stress and anxiety. Breaking the habit reduces shame and physical damage, while the real-time feedback creates awareness that transfers to other unconscious stress behaviors.
 

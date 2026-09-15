@@ -131,7 +131,7 @@ Not all implementations are equal. If you're evaluating AI-based behavior detect
 
 **Privacy architecture** — Check whether the app collects any data, requires an account, or phones home. The best architecture is the simplest: everything on-device, nothing stored, nothing sent.
 
-Nailed checks each of these boxes. It runs MediaPipe models on-device via WebAssembly from your Mac's menu bar, with no data collection, no accounts, and no network calls. It's a one-time $4.99 purchase on the Mac App Store.
+Nailed checks each of these boxes. It runs MediaPipe models on-device via WebAssembly from your Mac's menu bar, with no data collection, no accounts, and no network calls. It's free on the Mac App Store.
 
 ## Limitations of Current AI Hand Detection
 

@@ -116,7 +116,7 @@ The models run via WebAssembly, achieving near-native performance in lightweight
 
 **Daily use**: The app runs in the background from your menu bar. You don't need to open it, log anything, or interact with it. It's passive detection with active alerts — which matches how nail biting actually works (passive behavior, needs active interruption).
 
-**Privacy**: All processing happens on your Mac. Camera frames are analyzed in real-time memory and never saved, transmitted, or stored. There are no accounts, no servers, zero data collection. The app works fully offline. At [$4.99 one-time](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224), there's no subscription model that would incentivize data monetization.
+**Privacy**: All processing happens on your Mac. Camera frames are analyzed in real-time memory and never saved, transmitted, or stored. There are no accounts, no servers, zero data collection. The app works fully offline. It's [free on the Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224), and there's no subscription model that would incentivize data monetization.
 
 **Requirements**: macOS 12.0 or later, Apple M1 chip or newer. The ML models require the Neural Engine and unified memory architecture that Apple Silicon provides.
 

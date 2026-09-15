@@ -142,4 +142,4 @@ For developers building applications that need real-time perception — and espe
 
 If you want to see MediaPipe hand detection in action as part of a finished product, Nailed uses it to detect and interrupt nail biting in real time. The app sits in your Mac's menu bar, processes your webcam feed locally through MediaPipe's hand and face landmark models, and alerts you when it detects a biting gesture.
 
-Everything runs on your Mac. No cloud. No data collection. No subscription — [$4.99 on the Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224).
+Everything runs on your Mac. No cloud. No data collection. No subscription — [free on the Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224).

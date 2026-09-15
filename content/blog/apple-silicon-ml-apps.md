@@ -98,7 +98,7 @@ On an Intel Mac, this would consume significant CPU resources and battery. You'd
 
 This is what Apple Silicon enables: an ML app that runs continuously, processes your camera feed in real time, detects specific behaviors, and does all of this so efficiently that you forget it's running.
 
-The result is a $4.99 app that uses ML capabilities which would have cost thousands of dollars in server-side processing just a few years ago, running entirely on your hardware with zero data collection. Available on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224).
+The result is a free app that uses ML capabilities which would have cost thousands of dollars in server-side processing just a few years ago, running entirely on your hardware with zero data collection. Available on the [Mac App Store](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224).
 
 ## The Broader Mac ML Ecosystem
 

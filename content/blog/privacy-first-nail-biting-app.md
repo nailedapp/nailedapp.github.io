@@ -47,7 +47,7 @@ At every step, your data is exposed to new risks:
 
 **During processing** — your biometric data is decoded and analyzed on third-party hardware. Employees at the processing company may have access. "Anonymized" data can often be re-identified, especially biometric data like facial features.
 
-**For model training** — many companies reserve the right to use your data for "improving their services." That means your camera frames might train future AI models owned by a company you paid $4.99 to once.
+**For model training** — many companies reserve the right to use your data for "improving their services." That means your camera frames might train future AI models owned by a company you paid once.
 
 For a camera app that runs for 8+ hours during your workday, this is an enormous volume of sensitive biometric data flowing through third-party systems.
 
@@ -122,15 +122,9 @@ Not naming names, but here's what camera-based apps commonly do with privacy:
 
 Any of these individually might seem benign. Together, they create a comprehensive profile of when you're at your computer, what habits you exhibit, how often they occur, and how your behavior changes over time. For a camera-based health app, that's an intimate dataset.
 
-## The One-Time Purchase Model and Privacy
+## Free, With No Data Collection
 
-Nailed costs $4.99 once. No subscription. This isn't just a pricing decision — it's a privacy decision.
-
-Subscription-based apps need ongoing engagement metrics to justify their recurring revenue. They need to know how often you use the app, how long your sessions are, whether engagement is declining. This creates a structural incentive to collect usage data.
-
-One-time purchase apps have a different incentive structure. Once you've paid, the developer's financial interest in your behavioral data drops to zero. There's no engagement metric to optimize, no retention funnel to track, no churn to prevent.
-
-Nailed's one-time price and zero data collection aren't coincidental. They're aligned incentives. When a company doesn't collect your data, it has no data to monetize — which means it needs a different business model. A straightforward purchase price is that model.
+Nailed is free and collects no data. Detection runs on your Mac, and there are no servers, no analytics, and no account system, so there is no usage data to optimize or monetize.
 
 ## Practical Privacy Verification
 
@@ -158,7 +152,7 @@ Privacy-first camera processing matters most for:
 - **Privacy-conscious users** who choose their software based on data practices
 - **Anyone who's uncomfortable** with the idea of their face being continuously streamed to a server
 
-If you want to stop biting your nails and want a camera-based detection tool that keeps your data where it belongs — on your own machine — [Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) was built for exactly that. $4.99, macOS only, zero data collection, works offline.
+If you want to stop biting your nails and want a camera-based detection tool that keeps your data where it belongs — on your own machine — [Nailed](https://apps.apple.com/app/nailed-stop-biting-nails/id6761733224) was built for exactly that. Free, macOS only, zero data collection, works offline.
 
 ## Frequently Asked Questions
 
