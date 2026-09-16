@@ -138,7 +138,7 @@ This is where the picture gets murkier. The research on aversion-based treatment
 
 3. **Doesn't address the root cause:** Bitter polish punishes the behavior but doesn't change the trigger-urge-behavior cycle. When you stop using it, the underlying pattern is still there.
 
-4. **Transfer:** Some people switch to other BFRBs — cuticle picking, cheek biting, lip biting — that the polish doesn't cover.
+4. **Transfer:** Some people switch to other BFRBs — cuticle picking, cheek biting, lip biting — that the polish doesn't cover. That handover is common enough to have [its own warning signs and fixes](/blog/stopped-biting-nails-started-picking/).
 
 **What the data suggests:**
 

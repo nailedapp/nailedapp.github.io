@@ -109,7 +109,7 @@ One of the most clinically significant aspects of co-occurring BFRBs is behavior
 
 Behavioral migration occurs because the behaviors serve a function. If that function isn't addressed—if the underlying need for emotional regulation or sensory input isn't met through alternative means—the brain finds another outlet.
 
-Think of it like water flowing downhill. Block one channel, and the water finds another path. The water (the underlying drive) hasn't changed; only its route has.
+Think of it like water flowing downhill. Block one channel, and the water finds another path. The water (the underlying drive) hasn't changed; only its route has. It's the same reason many people find that [quitting biting quietly moved the habit to picking](/blog/stopped-biting-nails-started-picking/) rather than ending it.
 
 ### Preventing It
 

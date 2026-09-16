@@ -46,7 +46,7 @@ This is the hardest phase psychologically. You see little reward for significant
 
 **What's happening underneath:** New, undamaged nail is pushing forward. The hyponychium (the skin under the free edge) is beginning to reattach to the nail plate in areas where it had receded.
 
-**What to do:** Start gentle filing to keep edges smooth. Don't cut nails yet — there's not enough length. Continue with cuticle oil. If any nails have white spots or ridges, leave them alone. They'll grow out.
+**What to do:** Start gentle filing to keep edges smooth. Don't cut nails yet — there's not enough length, and [how much length to allow](/blog/nail-length-while-quitting-biting/) is a decision worth making deliberately. Continue with cuticle oil. If any nails have white spots or ridges, leave them alone. They'll grow out.
 
 ## Month 2: Visible Improvement
 

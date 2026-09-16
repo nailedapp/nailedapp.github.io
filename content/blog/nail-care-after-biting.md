@@ -132,7 +132,7 @@ As nails grow, transition to normal filing technique.
 
 **Discoloration:** Yellowish tones can come from bruising under the nail. If nails are green, brown, or black, see a doctor — that's potential infection.
 
-**One nail that won't cooperate:** It happens. Usually the thumbnail or the nail you bit most severely. Keep caring for it consistently. It'll catch up — it just started from a worse place.
+**[One nail that won't cooperate](/blog/biting-only-one-nail/):** It happens. Usually the thumbnail or the nail you bit most severely. Keep caring for it consistently. It'll catch up — it just started from a worse place.
 
 ## What to Do When You Slip
 

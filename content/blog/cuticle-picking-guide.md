@@ -58,7 +58,7 @@ Cuticles naturally produce material to pick:
 - **Hangnails**: Small tears in the nail fold skin that invite pulling
 - **Dry cuticle tissue**: Dead skin that peels and flakes, especially in dry conditions
 - **Rough edges**: Any irregularity creates a sensory trigger to smooth it out
-- **Post-picking scabs**: Previous picking creates rough healing tissue that invites more picking
+- **Post-picking scabs**: Previous picking creates rough healing tissue that invites more picking ([why the healing stage is the hardest to leave alone](/blog/why-you-pick-healing-skin/))
 
 This is the same self-perpetuating texture cycle seen in skin picking and lip biting: the behavior creates the conditions that maintain it.
 

@@ -195,7 +195,7 @@ The hardest part is making the call. Not because it's complicated — because it
 
 Seeking help for nail biting isn't defeat. It's the same thing as going to a personal trainer instead of guessing at exercises, or hiring a tutor instead of failing the class on your own. You're not weak. You're efficient.
 
-Call a provider this week. Or email — many therapists accept email inquiries for new clients. One message. That's the whole first step.
+Call a provider this week. Or email — many therapists accept email inquiries for new clients. One message. That's the whole first step. If the wording is what's stopping you, here's [what to say when you get there](/blog/talking-to-doctor-about-nail-biting/).
 
 <details>
 <summary>What type of therapist treats nail biting?</summary>

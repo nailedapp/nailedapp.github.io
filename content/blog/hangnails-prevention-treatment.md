@@ -58,7 +58,7 @@ Here's the trap most nail biters fall into:
 6. A larger or deeper hangnail forms
 7. Repeat
 
-This cycle can turn a tiny initial tear into a wound that extends deep into the nail fold, bleeds, and gets infected. Some chronic nail biters have wounds around their nails that never fully heal.
+This cycle can turn a tiny initial tear into a wound that extends deep into the nail fold, bleeds, and gets infected. Some chronic nail biters have wounds around their nails that never fully heal. Part of the reason is that [scabs and tight new skin are hard to leave alone](/blog/why-you-pick-healing-skin/).
 
 ## How to treat hangnails properly
 

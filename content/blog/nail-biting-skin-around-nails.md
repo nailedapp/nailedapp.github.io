@@ -73,7 +73,7 @@ Your treatment approach depends on severity. Mild damage responds quickly to bas
 
 ### Phase 1: Stop the damage (Days 1–7)
 
-Nothing heals while you're still biting.
+Nothing heals while you're still biting — and healing skin brings its own pull, which is [worth understanding before you start](/blog/why-you-pick-healing-skin/).
 
 **Clean gently.** Wash with lukewarm water and mild, fragrance-free soap. Pat dry, don't rub.
 

@@ -100,7 +100,7 @@ The stimulation alternatives available during waiting are often weak. Waiting ro
 - **Phone anxiety.** Some situations (job interview waiting rooms, therapist offices) feel inappropriate for phone use, leaving the alternative unavailable.
 - **Low battery.** The one time you need your phone to prevent biting is often the time it's at 8%.
 
-If you use your phone as a waiting-time strategy, make it active: play a game that requires two thumbs, type messages or notes, or use a drawing app. Active phone use is far more protective than passive scrolling.
+If you use your phone as a waiting-time strategy, make it active: play a game that requires two thumbs, type messages or notes, or use a drawing app. Active phone use is far more protective than passive scrolling. And if the phone is where most of your biting actually happens, [there are fixes aimed squarely at that situation](/blog/nail-biting-while-scrolling-phone/).
 
 ## Building an Anti-Biting Waiting Kit
 

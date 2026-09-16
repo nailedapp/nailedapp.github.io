@@ -122,7 +122,7 @@ Not all nail beds recover equally. Here's what to expect:
 
 **Slowest recovery:** Thumbs and pinkies. Thumbnails are the thickest and slowest-growing. Pinky nail beds are the smallest. Both tend to be bitten aggressively and take longest to recover.
 
-If one finger lags significantly behind the others, don't worry. It likely started from a worse position. Keep maintaining length and the bed will eventually catch up.
+If one finger lags significantly behind the others, don't worry. It likely started from a worse position. Keep maintaining length and the bed will eventually catch up. If it lags because you're still going back to that same finger, here's [why a single nail becomes the one you always target](/blog/biting-only-one-nail/).
 
 ## Genetics and Setting Expectations
 

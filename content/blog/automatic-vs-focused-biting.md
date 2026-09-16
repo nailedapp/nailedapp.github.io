@@ -81,7 +81,7 @@ Consider your typical nail biting episodes over the past month and answer honest
 - It happens most during passive activities (TV, reading, scrolling)
 - You bite in roughly the same situations or postures repeatedly
 - You don't feel a distinct emotional trigger before most episodes
-- You'd describe most biting as "zoning out" rather than "giving in"
+- You'd describe most biting as ["zoning out"](/blog/zoning-out-while-biting/) rather than "giving in"
 
 **Indicators of predominantly focused biting:**
 - You usually feel an urge or tension before biting

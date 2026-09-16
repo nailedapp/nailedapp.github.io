@@ -87,7 +87,7 @@ The dermatologist will ask about:
 - Other skin-picking or hair-pulling behaviors
 - Relevant medical conditions (eczema, psoriasis, anxiety disorders)
 
-Be honest. Dermatologists see nail biters regularly. There's no judgment, only assessment.
+Be honest. Dermatologists see nail biters regularly. There's no judgment, only assessment. If you're not sure how to put it into words, here's [how to open the conversation](/blog/talking-to-doctor-about-nail-biting/).
 
 ### Physical Examination
 

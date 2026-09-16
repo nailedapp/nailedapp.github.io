@@ -32,7 +32,7 @@ Put together, it literally translates to "nail eating." The term has been used i
 
 You might also see the variant **onychophagy**. Both forms refer to the same thing. Onychophagia is more standard in psychiatric and psychological literature, while onychophagy sometimes appears in dermatology. For practical purposes, they're interchangeable.
 
-A related term worth knowing: **onychotillomania** refers specifically to picking or tearing at the nails and surrounding skin, which sometimes occurs alongside nail biting but is a distinct behavior.
+A related term worth knowing: **[onychotillomania](/blog/onychotillomania-nail-picking/)** refers specifically to picking or tearing at the nails and surrounding skin, which sometimes occurs alongside nail biting but is a distinct behavior.
 
 ## What Onychophagia Actually Describes
 

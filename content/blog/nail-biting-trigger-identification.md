@@ -242,7 +242,7 @@ Based on clinical research and practitioner reports, here are typical trigger pr
 ### The Sensory Biter
 
 **Dominant triggers:** Rough edges, hangnails, textural imperfections.
-**Pattern:** One nail triggers a chain reaction. Often starts as "fixing" and escalates.
+**Pattern:** One nail triggers a chain reaction. Often starts as "fixing" and escalates. ([Why one finger ends up taking most of the damage](/blog/biting-only-one-nail/).)
 **Intervention focus:** Nail care routine (keep nails short, use file, cuticle oil). Carry a nail file as the "fix" tool. Address perfectionism thoughts.
 
 ### The Mixed Profile

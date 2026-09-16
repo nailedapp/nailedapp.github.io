@@ -49,7 +49,7 @@ The full diagnostic notation looks like this:
 
 > Other Specified Obsessive-Compulsive and Related Disorder — Body-Focused Repetitive Behavior Disorder
 
-This category exists for conditions that cause real clinical problems but don't meet criteria for a named disorder in the chapter (like trichotillomania or excoriation disorder). The DSM-5 explicitly mentions nail biting, lip biting, and cheek chewing as examples of body-focused repetitive behaviors that would be coded here.
+This category exists for conditions that cause real clinical problems but don't meet criteria for a named disorder in the chapter (like trichotillomania or excoriation disorder). The DSM-5 explicitly mentions nail biting, lip biting, and cheek chewing as examples of body-focused repetitive behaviors that would be coded here. [Nail picking](/blog/onychotillomania-nail-picking/) has no standalone entry either, and falls under the same heading.
 
 ### What the Criteria Require
 
