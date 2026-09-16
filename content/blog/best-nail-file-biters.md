@@ -82,7 +82,7 @@ The single most useful habit for a recovering biter: carry a nail file everywher
 
 Buy a small glass file (10-12 cm) and keep it in your pocket, purse, or laptop bag. Some manufacturers sell keychain-sized files, but these are often too small to be effective. A standard-sized file in a sleeve works best.
 
-The pocket file turns a defensive strategy into an automatic routine. Feel a snag → reach for the file → smooth it → done. Over weeks, this sequence replaces the old one: feel a snag → reach for your mouth → bite → regret.
+The pocket file turns a defensive strategy into an automatic routine. Feel a snag → reach for the file → smooth it → done. Over weeks, this sequence replaces the old one: feel a snag → reach for your mouth → bite → regret. Filing removes the trigger; [deciding how much length to keep](/blog/nail-length-while-quitting-biting/) is the other half of the problem.
 
 ## How to File Recovering Nails
 

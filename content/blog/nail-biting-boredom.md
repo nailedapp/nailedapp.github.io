@@ -137,7 +137,7 @@ The earlier you catch the sequence, the easier it is to redirect. Catching the r
 
 ## The screen problem
 
-Screens deserve special mention. Scrolling through social media, watching videos, and passive screen consumption are among the most common contexts for nail biting. Screens provide just enough visual stimulation to keep you seated but not enough overall sensory input to prevent the hands from seeking more.
+Screens deserve special mention. Scrolling through social media, watching videos, and passive screen consumption are among the most common contexts for nail biting. Screens provide just enough visual stimulation to keep you seated but not enough overall sensory input to prevent the hands from seeking more, which is [why phone scrolling in particular is such a reliable trigger](/blog/nail-biting-while-scrolling-phone/).
 
 If you find yourself biting primarily during screen time:
 

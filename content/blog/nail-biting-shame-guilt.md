@@ -118,7 +118,7 @@ Each time you leave your hands visible and nothing catastrophic happens, you chi
 
 ### Tell Someone
 
-Pick one person you trust. Mention it casually. "I've been trying to stop biting my nails" is enough. You don't need to make it a confession or a dramatic reveal. The response will almost certainly be more understanding than you expect. Many people will respond with "me too."
+Pick one person you trust. Mention it casually. "I've been trying to stop biting my nails" is enough. You don't need to make it a confession or a dramatic reveal. The response will almost certainly be more understanding than you expect. Many people will respond with "me too." If the person you most dread telling is a doctor, there's [a straightforward way to raise it at an appointment](/blog/talking-to-doctor-about-nail-biting/).
 
 ### Practice Self-Compassion After Episodes
 

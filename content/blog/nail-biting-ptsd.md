@@ -45,7 +45,7 @@ The result: emotions feel more intense, shift more rapidly, and are harder to ma
 
 Many people with PTSD experience dissociation — a sense of disconnection from their body, surroundings, or sense of self. Nail biting can function as a grounding behavior, a way to feel physically present when the mind is drifting away. The sharp sensation of biting provides concrete sensory feedback that anchors the person in the current moment.
 
-This is particularly common during dissociative episodes or when intrusive memories threaten to pull the person out of the present.
+This is particularly common during dissociative episodes or when intrusive memories threaten to pull the person out of the present. If you drift off during episodes but don't identify with a trauma history, [this guide separates ordinary autopilot from deeper detachment](/blog/zoning-out-while-biting/).
 
 ## The Nail Biting–PTSD Cycle
 

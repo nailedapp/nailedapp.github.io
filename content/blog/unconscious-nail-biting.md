@@ -71,7 +71,7 @@ People describe the experience in revealing ways:
 - "Someone tells me I'm doing it, and I'm genuinely surprised."
 - "I look down at my nails and they're destroyed, but I don't remember biting them."
 
-These aren't signs of carelessness. They're the expected experience of a deeply automatic behavior. If you relate to these descriptions, you're dealing with a habit that has fully transferred to the basal ganglia.
+These aren't signs of carelessness. They're the expected experience of a deeply automatic behavior. If you relate to these descriptions, you're dealing with a habit that has fully transferred to the basal ganglia. If the episodes feel less like not noticing and more like [losing a stretch of time altogether](/blog/zoning-out-while-biting/), that's a slightly different experience worth understanding on its own.
 
 ## Building awareness of an invisible behavior
 

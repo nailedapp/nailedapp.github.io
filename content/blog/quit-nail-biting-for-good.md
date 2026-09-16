@@ -102,7 +102,7 @@ Nail maintenance removes one of the biggest triggers: rough edges.
 
 - **File nails every two to three days** with a glass nail file. Smooth edges mean fewer "I'll just fix this one spot" episodes.
 - **Apply cuticle oil daily.** Dry, ragged cuticles trigger focused biting. A basic cuticle oil or even plain vitamin E oil works.
-- **Keep nails short but not too short.** Extremely short nails can actually increase biting because the exposed nail bed is sensitive and draws attention. Aim for a few millimeters of free edge.
+- **Keep nails short but not too short.** Extremely short nails can actually increase biting because the exposed nail bed is sensitive and draws attention. Aim for a few millimeters of free edge — [more on finding that sweet spot](/blog/nail-length-while-quitting-biting/).
 
 ### Track your weekly trend
 

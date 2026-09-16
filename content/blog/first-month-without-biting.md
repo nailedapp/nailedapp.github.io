@@ -145,7 +145,7 @@ Normal. Nails that have been consistently bitten grow back with unusual shapesâ€
 
 ### "I haven't bitten my nails but I'm picking my cuticles instead."
 
-Behavior substitution is common. The underlying urge finds a new outlet. Address cuticle picking with the same tools: awareness, competing responses, cuticle care, and keeping fingers smooth (no rough edges or loose skin to pick at).
+[Behavior substitution like this is common](/blog/stopped-biting-nails-started-picking/). The underlying urge finds a new outlet. Address cuticle picking with the same tools: awareness, competing responses, cuticle care, and keeping fingers smooth (no rough edges or loose skin to pick at).
 
 ### "I slipped a few times. Does the 30 days still count?"
 

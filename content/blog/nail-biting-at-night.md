@@ -99,7 +99,7 @@ The pre-sleep period gets its own strategy because the environment is so specifi
 **10 minutes before bed:**
 1. Apply cuticle oil or thick hand cream to all nails and cuticles
 2. Put on lightweight cotton gloves (available at any pharmacy) if you bite while falling asleep
-3. Put your phone charger out of arm's reach so you can't scroll-and-bite in bed
+3. Put your phone charger out of arm's reach so you can't scroll-and-bite in bed ([why that loop is so hard to catch](/blog/nail-biting-while-scrolling-phone/))
 
 **While falling asleep:**
 - If you usually lie on your side with a hand near your face, hold the corner of your pillow or a small stress ball

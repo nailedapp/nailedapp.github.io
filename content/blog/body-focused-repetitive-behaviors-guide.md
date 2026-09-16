@@ -78,7 +78,7 @@ Less commonly discussed BFRBs include:
 - **Nose picking (rhinotillexomania)** — when it goes beyond occasional clearing to compulsive, tissue-damaging behavior
 - **Skin biting** — biting the skin of fingers, hands, or other accessible areas (distinct from nail biting)
 - **Trichoteiromania** — compulsive breaking of hair by rubbing or twisting rather than pulling
-- **Nail picking (onychotillomania)** — picking at nails rather than biting them
+- **Nail picking (onychotillomania)** — [picking at nails rather than biting them](/blog/onychotillomania-nail-picking/)
 
 ## The clinical picture
 
